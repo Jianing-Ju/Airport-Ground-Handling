@@ -118,7 +118,9 @@ class VRPTW:
         # Use VND: RPOP until cannot improve, then change to SMART until cannot improve
 
         start_time = datetime.datetime.now()
-        max_time = 10 # LNS does not exceed 250 second
+        cust_num = len(self.customers)
+        time_lim = {20: 6, 50: 30, 100: 180, 200: 900}
+        max_time = time_lim[cust_num] # LNS does not exceed 250 second
         best_route = copy.deepcopy(self.routes)
         best_distance = self.results["total_distance"]
 
@@ -149,8 +151,7 @@ class VRPTW:
                         # if have better solution, continue with the opertaor in next iteration
                         best_route = route
                         best_distance = distance
-                        print("RPOP improved")
-                        print(route)
+                        # print("RPOP improved")
             else:
                 # run SMART
                 SMART_result = self.__SMART(copy.deepcopy(best_route))
@@ -167,11 +168,9 @@ class VRPTW:
                         # if have better solution, continue with the opertaor in next iteration
                         best_route = route
                         best_distance = distance
-                        print("SMART improved")
+                        # print("SMART improved")
         # Time up
         self.routes = copy.deepcopy(best_route)
-        # print(best_distance)
-        print(self.routes)
 
 
     def __RPOP(self, routes):
@@ -183,7 +182,8 @@ class VRPTW:
         time_win = {key: self.customers[key].time_window for key in self.customers}
         vehicles = range(len(self.routes))
         visit_fixed = {(i, j, k): 0 for i in custs_w_depot for j in custs_w_depot for k in vehicles}
-        time_fixed = {(i, k): 0 for i in custs for k in vehicles}
+        # time_fixed = {(i, k): 0 for i in custs for k in vehicles}
+        time_fixed = {}
         # fill out visit and time
         for i in range(len(routes)):
             route = routes[i]
@@ -236,7 +236,8 @@ class VRPTW:
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
             if i not in removed_cust and j not in removed_cust}
-        time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
+        # time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
+        time_fixed = {key: time_fixed[key] for key in time_fixed if key[0] not in removed_cust}
         # LNS to repair
         return LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
             self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)
@@ -250,7 +251,8 @@ class VRPTW:
         time_win = {key: self.customers[key].time_window for key in self.customers}
         vehicles = range(len(self.routes))
         visit_fixed = {(i, j, k): 0 for i in custs_w_depot for j in custs_w_depot for k in vehicles}
-        time_fixed = {(i, k): 0 for i in custs for k in vehicles}
+        # time_fixed = {(i, k): 0 for i in custs for k in vehicles}
+        time_fixed = {}
         # fill out visit and time
         for i in range(len(routes)):
             route = routes[i]
@@ -266,8 +268,9 @@ class VRPTW:
                 time_fixed[(cust["id"], i)] = round(cust["begin_time"])
 
         # Config
-        rm_before_pivot = 1
-        rm_after_pivot = 1
+        cust_num = len(self.customers)
+        rm_before_pivot = round(cust_num/20)
+        rm_after_pivot = round(cust_num/20)
         # All customers
         all_cust = []
         for route in routes:
@@ -313,7 +316,8 @@ class VRPTW:
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
             if i not in removed_cust and j not in removed_cust}
-        time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
+        # time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
+        time_fixed = {key: time_fixed[key] for key in time_fixed if key[0] not in removed_cust}
         # LNS to repair
         return LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
             self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)

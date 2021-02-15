@@ -73,8 +73,12 @@ def LNS_VRPTW(visit_fixed, time_fixed, distance, custs, vehicles, capacity, spee
     # add objective
     obj = mdl.minimize(mdl.sum(visit_var[(i, j, k)] * distance[i][j] for i in custs_w_depot for j in custs_w_depot for k in vehicles))
     mdl.add(obj)
+
+    time_lim_set = {20: 3, 50: 10, 100: 10, 200: 10}
+    time_lim = time_lim_set[len(custs)]
+
     
-    sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Quiet", agent='local',
+    sol = mdl.solve(TimeLimit = time_lim, LogVerbosity = "Quiet", agent='local',
                execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
     # sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Verbose", agent='local',
     #            execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
@@ -87,7 +91,7 @@ def LNS_VRPTW(visit_fixed, time_fixed, distance, custs, vehicles, capacity, spee
     distance_result = sol.get_objective_values()[0]
     if (type(distance_result) == tuple):
         distance_result = distance_result[0]
-    print("distance:", distance_result)
+    # print("distance:", distance_result)
     # route
     routes = []
     for k in vehicles:
@@ -97,7 +101,6 @@ def LNS_VRPTW(visit_fixed, time_fixed, distance, custs, vehicles, capacity, spee
         time = [(i, sol.get_var_solution(time_var[i, k]).get_value()) for i in custs \
             if time_min <= sol.get_var_solution(time_var[i, k]).get_value() <= time_max]
         time.sort(key = lambda x: x[1])
-        print(time)
         route = [{"id": x[0], "begin_time": x[1]} for x in time]
         routes.append(route)
     return routes, distance_result
