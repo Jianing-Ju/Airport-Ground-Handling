@@ -2,7 +2,10 @@
 # fleet: name num capacity speed
 # distance between i and j (depot - 0): distance[i][j]
 import copy
+import random
+import datetime
 import matplotlib.pyplot as plt
+from lns import LNS_VRPTW
 
 class VRPTW:
     def __init__(self, customers = None, fleet = None, distance = None):
@@ -107,6 +110,177 @@ class VRPTW:
 
         self.__present_results()
 
+        self.__lns()
+
+    def __lns(self):
+        # initial solution
+        init_routes = copy.deepcopy(self.routes)
+        init_distance = self.results["total_distance"]
+        # Use VND: RPOP until cannot improve, then change to SMART until cannot improve
+        self.__RPOP(copy.deepcopy(self.routes), init_distance)
+        # self.__SMART(copy.deepcopy(self.routes))
+        # start_time = datetime.datetime.now()
+        # max_time = 250 # LNS does not exceed 250 second
+        # operators = ["RPOP", "SMART"]
+        # operator = operators[0]
+
+        # while((datetime.datetime.now() - start_time).total_seconds <= max_time):
+        #     # RPOP until cannot improve
+        #     if operator == "RPOP":
+        #         self.__RPOP(copy.deepcopy(routes))
+
+    def __RPOP(self, routes, distance):
+        # conmplete solution before destroy
+        custs = list(self.customers.keys())
+        custs_w_depot = [0] + custs + [len(custs) + 1]
+        resources = {key: self.customers[key].resource for key in self.customers}
+        service_time = {key: self.customers[key].duration for key in self.customers}
+        time_win = {key: self.customers[key].time_window for key in self.customers}
+        vehicles = range(len(self.routes))
+        visit_fixed = {(i, j, k): 0 for i in custs_w_depot for j in custs_w_depot for k in vehicles}
+        time_fixed = {(i, k): 0 for i in custs for k in vehicles}
+        # fill out visit and time
+        for i in range(len(routes)):
+            route = routes[i]
+            for j in range(len(route)): 
+                cust = route[j]
+                if j == 0:
+                    visit_fixed[(0, cust["id"], i)] = 1
+                else:
+                    prev_cust = route[j-1]
+                    visit_fixed[(prev_cust["id"], cust["id"], i)] = 1
+                if j == len((route)) - 1:
+                    visit_fixed[(cust["id"], custs_w_depot[-1], i)] = 1
+                time_fixed[(cust["id"], i)] = round(cust["begin_time"])
+        # # LNS to repair
+        # LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
+        #     self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)
+
+
+        cust_num = len(self.customers)
+        # rand_pivot_num = round(cust_num * 0.08)
+        # similar_cust_num = round(cust_num * 0.1)
+        rand_pivot_num = 1
+        similar_cust_num = 5
+        # All customers
+        all_cust = []
+        for route in routes:
+            all_cust.extend(route)
+        # destroy
+        # random pivot. number: (from paper: 1/10 of customers become pivot point).
+        rand_pivot = random.sample(self.customers.keys(), rand_pivot_num)
+        # similar customers in time
+        similar_cust_cand = []
+        # rank time closeness:
+        for pivot in rand_pivot:
+            pivot_cust = [x for x in all_cust if x["id"] == pivot][0]
+            # find closest customers: amount = similar_cust_num
+            cust_wo_pivot = [cust for cust in all_cust if cust['id'] not in rand_pivot]
+            cust_wo_pivot.sort(key = lambda x: x["begin_time"] - pivot_cust["begin_time"])
+            similar_cust_cand.extend([(x, abs(x["begin_time"] - pivot_cust["begin_time"])) for x in cust_wo_pivot])
+        # pick similar customers.  If same cust, pick next
+        similar_cust_cand.sort(key = lambda x: x[1])
+        similar_cust = set([cust[0]['id'] for cust in similar_cust_cand[:similar_cust_num]])
+        i = 1
+        while (len(similar_cust) < similar_cust_num):
+            similar_cust = similar_cust.union([similar_cust_cand[similar_cust_num+i][0]["id"]])
+            i+=1
+        removed_cust = list(rand_pivot) + list(similar_cust)
+        print("removed:", removed_cust)
+
+        # remove chosen cust from routes 
+        visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
+            if i not in removed_cust and j not in removed_cust}
+        time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
+        # LNS to repair
+        LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
+            self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)
+
+    def __SMART(self, routes):
+        # conmplete solution before destroy
+        custs = list(self.customers.keys())
+        custs_w_depot = [0] + custs + [len(custs) + 1]
+        resources = {key: self.customers[key].resource for key in self.customers}
+        service_time = {key: self.customers[key].duration for key in self.customers}
+        time_win = {key: self.customers[key].time_window for key in self.customers}
+        vehicles = range(len(self.routes))
+        visit_fixed = {(i, j, k): 0 for i in custs_w_depot for j in custs_w_depot for k in vehicles}
+        time_fixed = {(i, k): 0 for i in custs for k in vehicles}
+        # fill out visit and time
+        for i in range(len(routes)):
+            route = routes[i]
+            for j in range(len(route)): 
+                cust = route[j]
+                if j == 0:
+                    visit_fixed[(0, cust["id"], i)] = 1
+                else:
+                    prev_cust = route[j-1]
+                    visit_fixed[(prev_cust["id"], cust["id"], i)] = 1
+                if j == len((route)) - 1:
+                    visit_fixed[(cust["id"], custs_w_depot[-1], i)] = 1
+                time_fixed[(cust["id"], i)] = round(cust["begin_time"])
+
+        # Config
+        rm_before_pivot = 1
+        rm_after_pivot = 0
+        cust_num = len(self.customers)
+        rand_pivot_num = round(cust_num * 0.08)
+        similar_cust_num = round(cust_num * 0.1)
+        # All customers
+        all_cust = []
+        for route in routes:
+            all_cust.extend(route)
+        # destroy
+        # generate random pivot
+        pivot_valid = False
+        while not pivot_valid:
+            rand_pivot = random.choice(list(self.customers.keys()))
+            # check pivot is in the middle
+            for route in routes:
+                for i in range(len(route)):
+                    if route[i]["id"] == rand_pivot:
+                        if i >= rm_before_pivot and i <= len(route)-1-rm_after_pivot:
+                            print("valid pivot:", rand_pivot)
+                            pivot_valid = True
+                            pivot = rand_pivot
+                            route_with_pivot = route
+                            # store removed customers
+                            removed_cust = [x['id'] for x in route[i-rm_before_pivot: i+rm_after_pivot+1]]
+        # find next pivot (customers from other routes)
+        pivot_cust = [x for x in all_cust if x["id"] == pivot][0]
+        routes_wo_pivot = [r for r in routes if r is not route_with_pivot]
+        sec_pivot_cand = []
+        for route in routes_wo_pivot:
+            # route should be long enough
+            if len(route) > rm_before_pivot + rm_after_pivot:
+                sec_pivot_cand.extend(route)
+        sec_pivot_cand.sort(key = lambda x: abs(x["begin_time"] - pivot_cust["begin_time"]))
+        sec_pivot = [x['id'] for x in sec_pivot_cand]
+        print(sec_pivot)
+        pivot_valid = False
+        for pivot in sec_pivot:
+            if pivot_valid:
+                break
+            # check pivot is in the middle
+            for route in routes_wo_pivot:
+                for i in range(len(route)):
+                    if route[i]["id"] == pivot:
+                        if i >= rm_before_pivot and i <= len(route)-1-rm_after_pivot:
+                            pivot_valid = True
+                            # store removed customers
+                            removed_cust.extend([x['id'] for x in route[i-rm_before_pivot: i+rm_after_pivot+1]])
+        print("removed_cust", removed_cust)
+        # remove chosen cust from routes 
+        visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
+            if i not in removed_cust and j not in removed_cust}
+        time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
+        # LNS to repair
+        LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
+            self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)
+
+            
+
+
 
 
 
@@ -172,16 +346,27 @@ class VRPTW:
         return True
 
     def __present_results(self):
-        # self.__print_routes()
+        self.__print_routes(self.routes)
         self.results["no_of_vehicle"] = len(self.routes)
         self.results["routes_with_customers"] = self.__cal_route_w_cust()
-        self.results["route_distances"] = self.__cal_route_distances()
-        self.results["total_distance"] = sum(self.results["route_distances"])
+        self.results["route_distances"], self.results["total_distance"] = self.__cal_total_distance(self.routes)
+    
+    def __cal_route_distance(self, route):
+        route_distance = sum([self.distance[route[i]['id']][route[i+1]['id']] for i in range(len(route)-1)])
+        # plus depot to 1st customer and last castomer to depot
+        route_distance += self.distance[0][route[0]['id']]
+        route_distance += self.distance[route[-1]['id']][0]
+        return route_distance
 
-    def __cal_route_distances(self):
+    def __cal_total_distance(self, routes):
         route_distances = []
-        total_distance = []
-        for route in self.routes:
+        for route in routes:
+            route_distances.append(self.__cal_route_distance(route))
+        return route_distances, sum(route_distances)
+
+    def __cal_route_distances(self, routes):
+        route_distances = []
+        for route in routes:
             route_distance = sum([self.distance[route[i]['id']][route[i+1]['id']]
                     for i in range(len(route)-1)])
             # plus depot to 1st customer and last castomer to depot
@@ -190,9 +375,9 @@ class VRPTW:
             route_distances.append(route_distance)
         return route_distances
 
-    def __print_routes(self):
+    def __print_routes(self, routes):
         count = 1
-        for route in self.routes:
+        for route in routes:
             print("+++Route {}+++".format(count))
             count += 1
             for cust in route:

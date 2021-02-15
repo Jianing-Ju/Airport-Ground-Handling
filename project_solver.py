@@ -1,8 +1,10 @@
-from data_utils import *
+from data_utils import load_config_data, load_operation, load_flights, Map, excel_reader, excel_writer, get_tuple
 from tws import tw_schedule
 from vrptw import VRPTW
 import copy
 import datetime
+from collections import namedtuple
+import pickle
 
 class Instance:
     def __init__(self, operation, map, flights):
@@ -25,6 +27,7 @@ class Instance:
         # Get the list of locations, "depot" being the location of depot
         loc_list = [self.flights[id].location for id in range(1, len(self.flights)+1)]
         loc_list.insert(0, 'depot')
+        loc_list.append('depot')
         distance = map.load_distance(loc_list)
         return [[distance[(i,j)] for j in loc_list] for i in loc_list]
 
@@ -34,7 +37,8 @@ class Instance:
         self.cal_init_tw()
         sol_data = (self.operation, self.distance, self.flights, self.init_time_windows)
         # Different solutions catagorized by diff order of sub-problems
-        order = self.tasks
+        # order = self.tasks ###########
+        order = [5]
         sol = Solution(sol_data, order)
         sol.solve()
         # finished = False
@@ -45,13 +49,15 @@ class Instance:
         #     sol.solve()
         #     finished = True # test
 
-        time_elapsed = (datetime.datetime.now() - self.start_time).total_seconds()
-        total_distance = sum([sol.fleet_schedules[task].results["total_distance"] for task in self.tasks])
-        vehicle_of_fleets = [sol.fleet_schedules[task].results["no_of_vehicle"] for task in self.tasks]
-        total_vehicle = sum(vehicle_of_fleets)
 
-        self.excel_output = [time_elapsed, total_distance, total_vehicle]
-        self.excel_output.extend(vehicle_of_fleets)
+        # # result calculation ###########
+        # time_elapsed = (datetime.datetime.now() - self.start_time).total_seconds()
+        # total_distance = sum([sol.fleet_schedules[task].results["total_distance"] for task in self.tasks])
+        # vehicle_of_fleets = [sol.fleet_schedules[task].results["no_of_vehicle"] for task in self.tasks]
+        # total_vehicle = sum(vehicle_of_fleets)
+
+        # self.excel_output = [time_elapsed, total_distance, total_vehicle]
+        # self.excel_output.extend(vehicle_of_fleets)
 
     def cal_init_tw(self):
         # Calculate initial time windows of each flight without any planned tasks on any
@@ -90,8 +96,6 @@ class Solution():
 
     def solve(self):
         # Solve sub-problems in order
-        total_distance = 0
-        total_vehicle = 0
         for task in self.order:
 
             # Solve the sub-problem
@@ -112,9 +116,6 @@ class Solution():
             print("======Vehicle {}======".format(task))
             print("Total distance: {}".format(self.fleet_schedules[task].results["total_distance"]))
             print("No of vehicle: {}".format(self.fleet_schedules[task].results["no_of_vehicle"]))
-
-            # if task == 5:
-            #     self.fleet_schedules[task].plot_routes()
 
             # Update time windows
             # print(self.fleet_schedules[task].cust_begin_time)
@@ -165,7 +166,7 @@ if __name__ == '__main__':
 
     # Experiment configuration: (no of flights in an instance, no of instance)
     # possible number of flights: 20, 50, 100, 200, 300
-    experiments = [(20, 10), (50, 10), (100, 10)]
+    experiments = [(20, 1)]
     # experiments = [(20, 10)]
 
     for setting in experiments:
@@ -187,11 +188,11 @@ if __name__ == '__main__':
             instance = Instance(operation, map, flights)
             instance.solve()
 
-            data[sheet_name][-1].extend(instance.excel_output)
-            print("Solved.".format(i))
+            # data[sheet_name][-1].extend(instance.excel_output)###########
+            print("Solved.")
 
 
 
-    get_tuple(data)
+    # get_tuple(data)
 
-    excel_writer(data, out_dir)
+    # excel_writer(data, out_dir)
