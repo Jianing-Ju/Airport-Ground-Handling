@@ -116,8 +116,9 @@ def tw_schedule(time_slot, tasks):
 
     # Solve model
     # sol = mdl.solve(TimeLimit = 10, LogVerbosity = "Verbose")
-    # sol = mdl.solve(TimeLimit = 10, LogVerbosity = "Quiet")
-    sol = mdl.solve()
+    sol = mdl.solve(TimeLimit = 10, LogVerbosity = "Quiet", agent='local',
+               execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
+    # sol = mdl.solve()
 
     if sol:
         # sol.write()

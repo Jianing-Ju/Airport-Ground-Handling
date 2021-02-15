@@ -37,8 +37,7 @@ class Instance:
         self.cal_init_tw()
         sol_data = (self.operation, self.distance, self.flights, self.init_time_windows)
         # Different solutions catagorized by diff order of sub-problems
-        # order = self.tasks ###########
-        order = [5]
+        order = self.tasks ###########
         sol = Solution(sol_data, order)
         sol.solve()
         # finished = False
@@ -50,11 +49,12 @@ class Instance:
         #     finished = True # test
 
 
-        # # result calculation ###########
-        # time_elapsed = (datetime.datetime.now() - self.start_time).total_seconds()
-        # total_distance = sum([sol.fleet_schedules[task].results["total_distance"] for task in self.tasks])
-        # vehicle_of_fleets = [sol.fleet_schedules[task].results["no_of_vehicle"] for task in self.tasks]
-        # total_vehicle = sum(vehicle_of_fleets)
+        # result calculation ###########
+        time_elapsed = (datetime.datetime.now() - self.start_time).total_seconds()
+        total_distance = sum([sol.fleet_schedules[task].results["total_distance"] for task in self.tasks])
+        vehicle_of_fleets = [sol.fleet_schedules[task].results["no_of_vehicle"] for task in self.tasks]
+        total_vehicle = sum(vehicle_of_fleets)
+        print("Final total:", total_distance)
 
         # self.excel_output = [time_elapsed, total_distance, total_vehicle]
         # self.excel_output.extend(vehicle_of_fleets)

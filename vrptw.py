@@ -107,29 +107,71 @@ class VRPTW:
 
             remaining_id = set(all_id).symmetric_difference(set(served_id))
         # End of all routes
-
+        print("Initial solution found.")
+        self.__present_results()
+        print("Performing large neighborhood search...")
+        self.__lns()
+        print("Improved solution found.")
         self.__present_results()
 
-        self.__lns()
-
     def __lns(self):
-        # initial solution
-        init_routes = copy.deepcopy(self.routes)
-        init_distance = self.results["total_distance"]
         # Use VND: RPOP until cannot improve, then change to SMART until cannot improve
-        self.__RPOP(copy.deepcopy(self.routes), init_distance)
-        # self.__SMART(copy.deepcopy(self.routes))
-        # start_time = datetime.datetime.now()
-        # max_time = 250 # LNS does not exceed 250 second
-        # operators = ["RPOP", "SMART"]
-        # operator = operators[0]
 
-        # while((datetime.datetime.now() - start_time).total_seconds <= max_time):
-        #     # RPOP until cannot improve
-        #     if operator == "RPOP":
-        #         self.__RPOP(copy.deepcopy(routes))
+        start_time = datetime.datetime.now()
+        max_time = 25 # LNS does not exceed 250 second
+        best_route = copy.deepcopy(self.routes)
+        best_distance = self.results["total_distance"]
 
-    def __RPOP(self, routes, distance):
+        # print("first")
+        # best_route = self.__SMART(copy.deepcopy(best_route))
+        # print("second")
+        # best_route = self.__RPOP(copy.deepcopy(best_route))
+
+        run_RPOP = True
+        i = 1
+
+        while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
+            # print("iteration", i)
+            i += 1
+            if run_RPOP:
+                # run RPOP
+                RPOP_result = self.__RPOP(copy.deepcopy(best_route))
+                if not RPOP_result:
+                    # if no solution, change to another operator
+                    run_RPOP = False
+                else:
+                    route = RPOP_result[0]
+                    distance = RPOP_result[1]
+                    if not distance < best_distance:
+                        # if distance not improved, change to another operator
+                        run_RPOP = False
+                    else:
+                        # if have better solution, continue with the opertaor in next iteration
+                        best_route = route
+                        best_distance = distance
+            else:
+                # run SMART
+                SMART_result = self.__SMART(copy.deepcopy(best_route))
+                if not SMART_result:
+                    # if no solution, change to another operator
+                    run_RPOP = True
+                else:
+                    route = SMART_result[0]
+                    distance = SMART_result[1]
+                    print("SMART distance: ", distance)
+                    if not distance < best_distance:
+                        # if distance not improved, change to another operator
+                        run_RPOP = True
+                    else:
+                        # if have better solution, continue with the opertaor in next iteration
+                        best_route = route
+                        best_distance = distance
+        # Time up
+        self.routes = copy.deepcopy(best_route)
+        # print(best_distance)
+
+
+    def __RPOP(self, routes):
         # conmplete solution before destroy
         custs = list(self.customers.keys())
         custs_w_depot = [0] + custs + [len(custs) + 1]
@@ -158,10 +200,10 @@ class VRPTW:
 
 
         cust_num = len(self.customers)
-        # rand_pivot_num = round(cust_num * 0.08)
-        # similar_cust_num = round(cust_num * 0.1)
-        rand_pivot_num = 1
-        similar_cust_num = 5
+        rand_pivot_num = round(cust_num * 0.08)
+        similar_cust_num = round(cust_num * 0.1)
+        # rand_pivot_num = 1
+        # similar_cust_num = 5
         # All customers
         all_cust = []
         for route in routes:
@@ -186,14 +228,14 @@ class VRPTW:
             similar_cust = similar_cust.union([similar_cust_cand[similar_cust_num+i][0]["id"]])
             i+=1
         removed_cust = list(rand_pivot) + list(similar_cust)
-        print("removed:", removed_cust)
+        # print("removed:", removed_cust)
 
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
             if i not in removed_cust and j not in removed_cust}
         time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
         # LNS to repair
-        LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
+        return LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
             self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)
 
     def __SMART(self, routes):
@@ -222,10 +264,7 @@ class VRPTW:
 
         # Config
         rm_before_pivot = 1
-        rm_after_pivot = 0
-        cust_num = len(self.customers)
-        rand_pivot_num = round(cust_num * 0.08)
-        similar_cust_num = round(cust_num * 0.1)
+        rm_after_pivot = 1
         # All customers
         all_cust = []
         for route in routes:
@@ -240,7 +279,6 @@ class VRPTW:
                 for i in range(len(route)):
                     if route[i]["id"] == rand_pivot:
                         if i >= rm_before_pivot and i <= len(route)-1-rm_after_pivot:
-                            print("valid pivot:", rand_pivot)
                             pivot_valid = True
                             pivot = rand_pivot
                             route_with_pivot = route
@@ -256,7 +294,6 @@ class VRPTW:
                 sec_pivot_cand.extend(route)
         sec_pivot_cand.sort(key = lambda x: abs(x["begin_time"] - pivot_cust["begin_time"]))
         sec_pivot = [x['id'] for x in sec_pivot_cand]
-        print(sec_pivot)
         pivot_valid = False
         for pivot in sec_pivot:
             if pivot_valid:
@@ -269,20 +306,14 @@ class VRPTW:
                             pivot_valid = True
                             # store removed customers
                             removed_cust.extend([x['id'] for x in route[i-rm_before_pivot: i+rm_after_pivot+1]])
-        print("removed_cust", removed_cust)
+        # print("removed_cust", removed_cust)
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
             if i not in removed_cust and j not in removed_cust}
         time_fixed = {(i, k): time_fixed[i, k] for i in custs for k in vehicles if i not in removed_cust}
         # LNS to repair
-        LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
+        return LNS_VRPTW(visit_fixed, time_fixed, self.distance, custs, vehicles, \
             self.fleet.capacity, self.fleet.speed, resources, service_time, time_win)
-
-            
-
-
-
-
 
     def __insert_cust(self, route, index, customer):
         new_route = copy.deepcopy(route)
