@@ -118,7 +118,7 @@ class VRPTW:
         # Use VND: RPOP until cannot improve, then change to SMART until cannot improve
 
         start_time = datetime.datetime.now()
-        max_time = 25 # LNS does not exceed 250 second
+        max_time = 10 # LNS does not exceed 250 second
         best_route = copy.deepcopy(self.routes)
         best_distance = self.results["total_distance"]
 
@@ -149,6 +149,8 @@ class VRPTW:
                         # if have better solution, continue with the opertaor in next iteration
                         best_route = route
                         best_distance = distance
+                        print("RPOP improved")
+                        print(route)
             else:
                 # run SMART
                 SMART_result = self.__SMART(copy.deepcopy(best_route))
@@ -158,7 +160,6 @@ class VRPTW:
                 else:
                     route = SMART_result[0]
                     distance = SMART_result[1]
-                    print("SMART distance: ", distance)
                     if not distance < best_distance:
                         # if distance not improved, change to another operator
                         run_RPOP = True
@@ -166,9 +167,11 @@ class VRPTW:
                         # if have better solution, continue with the opertaor in next iteration
                         best_route = route
                         best_distance = distance
+                        print("SMART improved")
         # Time up
         self.routes = copy.deepcopy(best_route)
         # print(best_distance)
+        print(self.routes)
 
 
     def __RPOP(self, routes):

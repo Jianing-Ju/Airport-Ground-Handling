@@ -56,8 +56,8 @@ class Instance:
         total_vehicle = sum(vehicle_of_fleets)
         print("Final total:", total_distance)
 
-        # self.excel_output = [time_elapsed, total_distance, total_vehicle]
-        # self.excel_output.extend(vehicle_of_fleets)
+        self.excel_output = [time_elapsed, total_distance, total_vehicle]
+        self.excel_output.extend(vehicle_of_fleets)
 
     def cal_init_tw(self):
         # Calculate initial time windows of each flight without any planned tasks on any
@@ -158,7 +158,7 @@ if __name__ == '__main__':
     operation, map = load_config_data(operation_dir, net_dir, cfg_dir)
 
     # data to be written to excel:
-    out_dir = 'log/' + str(datetime.datetime.now()) + '.xlsx'
+    
     fleet_names = [operation["fleets"][task].name for task in operation["tasks"]]
     data = {}
     column_names = ["Instance", "Time(s)","Distance (m)", "Total number of vehicle"]
@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
     # Experiment configuration: (no of flights in an instance, no of instance)
     # possible number of flights: 20, 50, 100, 200, 300
-    experiments = [(20, 1)]
+    experiments = [(20, 1),(50, 1)]
     # experiments = [(20, 10)]
 
     for setting in experiments:
@@ -179,7 +179,7 @@ if __name__ == '__main__':
 
         for i in range(no_of_instance):
             print("Solving instance [{}/{}] ...".format(i + 1, no_of_instance))
-            instance_path = dir + 'instance/'+ str(no_of_flights) + '/schedule_{}.xlsx'.format(i)
+            instance_path = dir + 'instance/'+ str(no_of_flights) + '/schedule_{}.xlsx'.format(i+1)
             data[sheet_name].append(["Instance {}".format(i)])
 
             # Load flight info
@@ -188,11 +188,15 @@ if __name__ == '__main__':
             instance = Instance(operation, map, flights)
             instance.solve()
 
-            # data[sheet_name][-1].extend(instance.excel_output)###########
+            data[sheet_name][-1].extend(instance.excel_output)###########
             print("Solved.")
+        data_setting = copy.deepcopy(data)
+        get_tuple(data_setting)
+        out_dir = 'log/' + str(datetime.datetime.now()) + "_" + str(no_of_flights) + '.xlsx'
+        excel_writer(data_setting, out_dir)
 
 
 
-    # get_tuple(data)
-
-    # excel_writer(data, out_dir)
+    get_tuple(data)
+    out_dir = 'log/' + str(datetime.datetime.now()) + '.xlsx'
+    excel_writer(data, out_dir)
