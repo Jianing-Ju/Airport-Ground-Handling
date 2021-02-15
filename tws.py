@@ -116,7 +116,8 @@ def tw_schedule(time_slot, tasks):
 
     # Solve model
     # sol = mdl.solve(TimeLimit = 10, LogVerbosity = "Verbose")
-    sol = mdl.solve(TimeLimit = 10, LogVerbosity = "Quiet")
+    # sol = mdl.solve(TimeLimit = 10, LogVerbosity = "Quiet")
+    sol = mdl.solve()
 
     if sol:
         # sol.write()
