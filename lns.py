@@ -74,10 +74,10 @@ def LNS_VRPTW(visit_fixed, time_fixed, distance, custs, vehicles, capacity, spee
     obj = mdl.minimize(mdl.sum(visit_var[(i, j, k)] * distance[i][j] for i in custs_w_depot for j in custs_w_depot for k in vehicles))
     mdl.add(obj)
     
-    # sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Quiet", agent='local',
-    #            execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
-    sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Verbose", agent='local',
+    sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Quiet", agent='local',
                execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
+    # sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Verbose", agent='local',
+    #            execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
     if not sol:
         return None
     # sol.write()
