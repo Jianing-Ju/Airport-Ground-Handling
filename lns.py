@@ -77,7 +77,7 @@ def LNS_VRPTW(visit_fixed, time_fixed, distance, custs, vehicles, capacity, spee
     # sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Quiet", agent='local',
     #            execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
     sol = mdl.solve(TimeLimit = 5, LogVerbosity = "Verbose", agent='local',
-               execfile='/Applications/CPLEX_Studio201/cpoptimizer/bin/x86-64_osx/cpoptimizer')
+               execfile='/home/hw1-a30/CPLEX_Studio1210/cpoptimizer/bin/x86-64_linux/cpoptimizer')
     if not sol:
         return None
     # sol.write()
