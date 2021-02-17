@@ -133,7 +133,7 @@ class VRPTW:
         i = 1
 
         while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
-            # print("iteration", i)
+            print("iteration", i)
             i += 1
             if run_RPOP:
                 # run RPOP
