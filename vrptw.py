@@ -282,6 +282,7 @@ class VRPTW:
         pivot_valid = False
         while not pivot_valid:
             rand_pivot = random.choice(list(self.customers.keys()))
+            print("Random pivot:", rand_pivot)
             # check pivot is in the middle
             for route in routes:
                 for i in range(len(route)):
