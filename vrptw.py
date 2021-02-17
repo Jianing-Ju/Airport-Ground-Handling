@@ -136,6 +136,7 @@ class VRPTW:
             print("iteration", i)
             i += 1
             if run_RPOP:
+                print("RPOP")
                 # run RPOP
                 RPOP_result = self.__RPOP(copy.deepcopy(best_route))
                 if not RPOP_result:
@@ -154,6 +155,7 @@ class VRPTW:
                         # print("RPOP improved")
             else:
                 # run SMART
+                print("SMART")
                 SMART_result = self.__SMART(copy.deepcopy(best_route))
                 if not SMART_result:
                     # if no solution, change to another operator
@@ -231,7 +233,7 @@ class VRPTW:
             similar_cust = similar_cust.union([similar_cust_cand[similar_cust_num+i][0]["id"]])
             i+=1
         removed_cust = list(rand_pivot) + list(similar_cust)
-        # print("removed:", removed_cust)
+        print("removed:", removed_cust)
 
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
@@ -312,7 +314,7 @@ class VRPTW:
                             pivot_valid = True
                             # store removed customers
                             removed_cust.extend([x['id'] for x in route[i-rm_before_pivot: i+rm_after_pivot+1]])
-        # print("removed_cust", removed_cust)
+        print("removed_cust", removed_cust)
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
             if i not in removed_cust and j not in removed_cust}
