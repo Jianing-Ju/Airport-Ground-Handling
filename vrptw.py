@@ -288,7 +288,8 @@ class VRPTW:
                 for i in range(len(route)):
                     if route[i]["id"] == rand_pivot:
                         print("Index in the route:", i)
-                        print("Before: {} After: {}", rm_before_pivot, rm_after_pivot)
+                        print("Lenth of the route:", len(route))
+                        print("Before: {} After: {}".format(rm_before_pivot, len(route)-1-rm_after_pivot))
                         if i >= rm_before_pivot and i <= len(route)-1-rm_after_pivot:
                             print("Valid")
                             pivot_valid = True
