@@ -270,9 +270,10 @@ class VRPTW:
                 time_fixed[(cust["id"], i)] = round(cust["begin_time"])
 
         # Config
+        config = {20: 1, 50: 2, 100: 2, 200: 2}
         cust_num = len(self.customers)
-        rm_before_pivot = round(cust_num/20)
-        rm_after_pivot = round(cust_num/20)
+        rm_before_pivot = config[cust_num]
+        rm_after_pivot = config[cust_num]
         # All customers
         all_cust = []
         for route in routes:
@@ -282,14 +283,10 @@ class VRPTW:
         pivot_valid = False
         while not pivot_valid:
             rand_pivot = random.choice(list(self.customers.keys()))
-            print("Random pivot:", rand_pivot)
             # check pivot is in the middle
             for route in routes:
                 for i in range(len(route)):
                     if route[i]["id"] == rand_pivot:
-                        print("Index in the route:", i)
-                        print("Lenth of the route:", len(route))
-                        print("Before: {} After: {}".format(rm_before_pivot, len(route)-1-rm_after_pivot))
                         if i >= rm_before_pivot and i <= len(route)-1-rm_after_pivot:
                             print("Valid")
                             pivot_valid = True
