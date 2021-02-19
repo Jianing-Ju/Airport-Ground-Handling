@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
     # Experiment configuration: (no of flights in an instance, no of instance)
     # possible number of flights: 20, 50, 100, 200, 300
-    experiments = [(20, 21), (50, 21), (100, 21), (200, 1)]
+    experiments = [ (100, 10), (200, 5)]
     # experiments = [(20, 10)]
 
     for setting in experiments:
