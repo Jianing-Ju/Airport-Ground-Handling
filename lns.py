@@ -74,7 +74,7 @@ def LNS_VRPTW(visit_fixed, time_fixed, distance, custs, vehicles, capacity, spee
     obj = mdl.minimize(mdl.sum(visit_var[(i, j, k)] * distance[i][j] for i in custs_w_depot for j in custs_w_depot for k in vehicles))
     mdl.add(obj)
 
-    time_lim_set = {20: 3, 50: 10, 100: 10, 200: 10}
+    time_lim_set = {20: 5, 50: 10, 100: 60, 200: 180}
     time_lim = time_lim_set[len(custs)]
 
     
