@@ -104936,3 +104936,4715 @@ Final total: 351477.04
 Solved.
 =====Flight 200=====
 Solving instance [1/1] ...
+Initial solution found.
++++Route 1+++
+Customer 3: 360
+Customer 1: 1800
+Customer 2: 2414.509090909091
+Customer 5: 2700
+Customer 4: 3300
+Customer 7: 3840
+Customer 10: 3926.318181818182
+Customer 13: 4104.152727272727
+Customer 6: 4237.636363636364
+Customer 17: 4800
+Customer 16: 5381.181818181818
+Customer 11: 5640
+Customer 15: 5986.494545454546
+Customer 14: 6480
+Customer 20: 6695.798181818182
+Customer 19: 6840
+Customer 38: 7320
+Customer 9: 7449.594545454545
+Customer 37: 7585.210909090909
+Customer 33: 8088.223636363637
+Customer 29: 8272.418181818182
+Customer 40: 8313.436363636365
+Customer 25: 8625.878181818183
+Customer 28: 9360
+Customer 35: 9605.23090909091
+Customer 39: 9900
+Customer 24: 10500
+Customer 36: 10753.903636363637
+Customer 34: 10769.394545454546
+Customer 30: 10796.449090909093
+Customer 49: 11040
+Customer 48: 11220
+Customer 55: 11760
+Customer 41: 12300
+Customer 52: 12858.092727272728
+Customer 53: 13036.81090909091
+Customer 42: 13358.307272727274
+Customer 44: 13740
+Customer 50: 14064.73090909091
+Customer 43: 14167.26
+Customer 47: 14376.049090909091
+Customer 68: 14760
+Customer 64: 15000
+Customer 67: 15720
+Customer 60: 15900
+Customer 61: 16020
+Customer 63: 16431.96
+Customer 62: 16800
+Customer 65: 17381.53090909091
+Customer 66: 17914.238181818182
+Customer 58: 18216.567272727272
+Customer 73: 18703.276363636363
+Customer 75: 19500
+Customer 76: 19701.834545454545
+Customer 78: 19748.80909090909
+Customer 79: 19980
+Customer 70: 20440.892727272727
+Customer 77: 20600.18727272727
+Customer 69: 21060
+Customer 71: 21356.49818181818
+Customer 74: 21511.401818181817
+Customer 81: 21780
+Customer 72: 21804.0
+Customer 88: 22860
+Customer 89: 22980
+Customer 87: 23220
+Customer 82: 23238.545454545456
+Customer 84: 23616.109090909093
+Customer 85: 24300
+Customer 83: 24600
+Customer 90: 24960
+Customer 86: 25245.31090909091
+Customer 91: 26280
+Customer 92: 27780
+Customer 94: 28560
+Customer 95: 28715.12181818182
+Customer 100: 28980
+Customer 102: 29534.67272727273
+Customer 106: 30240
+Customer 101: 30604.46181818182
+Customer 103: 30900
+Customer 97: 31265.214545454546
+Customer 99: 31411.052727272727
+Customer 98: 31680
+Customer 105: 32151.261818181818
+Customer 112: 32820
+Customer 114: 33065.23090909091
+Customer 108: 33420
+Customer 113: 33774.33818181818
+Customer 117: 34440
+Customer 118: 34755.15818181818
+Customer 107: 35460
+Customer 111: 35714.68363636364
+Customer 110: 35940
+Customer 122: 36125.05090909091
+Customer 121: 36600
+Customer 109: 36773.487272727274
+Customer 123: 37205.68363636364
+Customer 124: 38280
+Customer 119: 38820
+Customer 120: 38969.10545454545
+Customer 141: 39780
+Customer 135: 40140
+Customer 138: 40571.11636363636
+Customer 127: 40905.44181818182
+Customer 139: 40952.443636363634
+Customer 125: 41700
+Customer 128: 41916.63272727273
+Customer 142: 42240.3
+Customer 131: 42255.79090909091
+Customer 136: 42780
+Customer 149: 43440
+Customer 146: 44019.005454545455
+Customer 147: 44220
+Customer 148: 45780
+Customer 145: 46314.681818181816
+Customer 144: 46913.214545454546
+Customer 158: 47016.04363636364
+Customer 157: 47640
+Customer 150: 48060
+Customer 159: 49080
+Customer 152: 49800
+Customer 155: 49967.77636363637
+Customer 154: 50015.99454545455
+Customer 153: 50078.34545454546
+Customer 151: 50476.53272727273
+Customer 165: 50842.34181818182
+Customer 164: 51600
+Customer 161: 52140
+Customer 162: 52560
+Customer 166: 53340
+Customer 184: 54420
+Customer 187: 54480
+Customer 169: 54716.82
+Customer 186: 55074.88363636364
+Customer 180: 55358.91818181818
+Customer 179: 55412.86363636364
+Customer 182: 55511.92909090909
+Customer 183: 55882.11272727273
+Customer 168: 56040
+Customer 181: 56269.33090909091
+Customer 177: 56352.0
+Customer 174: 56394.07090909091
+Customer 170: 56681.23636363636
+Customer 172: 57157.30909090909
+Customer 167: 57208.112727272724
+Customer 185: 57716.71090909091
+Customer 178: 58108.89272727272
+Customer 194: 58320
+Customer 189: 59580
+Customer 195: 60211.87090909091
+Customer 188: 60695.258181818186
+Customer 191: 60955.56545454546
+Customer 192: 61077.872727272734
+Customer 197: 62340
+Customer 200: 62396.30181818182
+Customer 196: 62478.70909090909
+Customer 198: 63720
+Customer 199: 64740
++++Route 2+++
+Customer 8: 5220
+Customer 18: 5319.3381818181815
+Customer 12: 5700
+Customer 23: 6068.361818181818
+Customer 22: 6370.690909090909
+Customer 21: 6647.95090909091
+Customer 31: 7920
+Customer 27: 8007.529090909091
+Customer 26: 8400
+Customer 32: 9780
+Customer 46: 12120
+Customer 57: 12540
+Customer 54: 13200
+Customer 56: 13462.374545454546
+Customer 51: 13980.654545454547
+Customer 45: 14280
+Customer 59: 17580
+Customer 80: 24120
+Customer 96: 27600
+Customer 93: 28560
+Customer 104: 30420
+Customer 115: 34320
+Customer 116: 35400
+Customer 134: 39780
+Customer 130: 40680
+Customer 143: 40791.038181818185
+Customer 140: 41040
+Customer 133: 41122.06909090909
+Customer 137: 41580
+Customer 126: 42060
+Customer 129: 42600
+Customer 132: 42876.58909090909
+Customer 156: 47460
+Customer 163: 50580
+Customer 160: 50845.68
+Customer 175: 54240
+Customer 173: 54600
+Customer 171: 55560
+Customer 176: 55662.93818181818
+Customer 193: 59820
+Customer 190: 60420
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [116, 29, 100, 13, 188, 187, 50, 185, 175, 130, 186, 117, 137, 151, 80, 134, 191, 6, 138, 10, 141, 143, 85, 26, 33, 163, 40, 43, 107, 173, 45, 51, 115, 184, 125, 127]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [27, 26, 32, 46, 57, 28, 35, 39, 24, 36]
+Performing LNS iteration 3
+RPOP
+removed: [45, 49, 129, 31, 153, 81, 126, 122, 22, 120, 23, 51, 20, 60, 177, 151, 128, 136, 14, 15, 19, 21, 154, 155, 27, 33, 163, 43, 174, 47, 48, 50, 181, 61, 72, 119]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [124, 119, 120, 141, 135, 115, 116, 134, 130, 143]
+Performing LNS iteration 5
+RPOP
+removed: [84, 113, 42, 115, 91, 193, 196, 28, 4, 141, 160, 182, 163, 105, 23, 191, 192, 197, 134, 135, 200, 15, 22, 151, 35, 165, 171, 176, 179, 180, 53, 54, 117, 56, 188, 189]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [191, 192, 197, 200, 196, 173, 171, 176, 193, 190]
+Performing LNS iteration 7
+RPOP
+removed: [32, 176, 40, 144, 140, 24, 54, 175, 81, 16, 2, 198, 34, 15, 155, 185, 133, 8, 139, 18, 23, 152, 153, 26, 154, 29, 158, 30, 36, 39, 42, 171, 53, 182, 72, 127]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [154, 153, 151, 165, 164, 132, 156, 163, 160, 175]
+Performing LNS iteration 9
+RPOP
+removed: [81, 129, 51, 123, 156, 175, 161, 144, 127, 80, 35, 180, 118, 185, 141, 121, 130, 133, 134, 136, 139, 140, 143, 157, 158, 32, 43, 171, 50, 179, 182, 184, 187, 72, 85, 109]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [43, 47, 68, 64, 67, 56, 51, 45, 59, 80]
+Improved solution found.
++++Route 1+++
+Customer 3: 360
+Customer 1: 1800
+Customer 2: 2414.509090909091
+Customer 5: 2700
+Customer 4: 3300
+Customer 7: 3840
+Customer 10: 3926.318181818182
+Customer 13: 4104.152727272727
+Customer 6: 4237.636363636364
+Customer 17: 4800
+Customer 16: 5381.181818181818
+Customer 11: 5640
+Customer 15: 5986.494545454546
+Customer 14: 6480
+Customer 20: 6695.798181818182
+Customer 19: 6840
+Customer 38: 7320
+Customer 9: 7449.594545454545
+Customer 37: 7585.210909090909
+Customer 33: 8088.223636363637
+Customer 29: 8272.418181818182
+Customer 40: 8313.436363636365
+Customer 25: 8625.878181818183
+Customer 28: 9360
+Customer 35: 9605.23090909091
+Customer 39: 9900
+Customer 24: 10500
+Customer 36: 10753.903636363637
+Customer 34: 10769.394545454546
+Customer 30: 10796.449090909093
+Customer 49: 11040
+Customer 48: 11220
+Customer 55: 11760
+Customer 41: 12300
+Customer 52: 12858.092727272728
+Customer 53: 13036.81090909091
+Customer 42: 13358.307272727274
+Customer 44: 13740
+Customer 50: 14064.73090909091
+Customer 43: 14167.26
+Customer 47: 14376.049090909091
+Customer 68: 14760
+Customer 64: 15000
+Customer 67: 15720
+Customer 60: 15900
+Customer 61: 16020
+Customer 63: 16431.96
+Customer 62: 16800
+Customer 65: 17381.53090909091
+Customer 66: 17914.238181818182
+Customer 58: 18216.567272727272
+Customer 73: 18703.276363636363
+Customer 75: 19500
+Customer 76: 19701.834545454545
+Customer 78: 19748.80909090909
+Customer 79: 19980
+Customer 70: 20440.892727272727
+Customer 77: 20600.18727272727
+Customer 69: 21060
+Customer 71: 21356.49818181818
+Customer 74: 21511.401818181817
+Customer 81: 21780
+Customer 72: 21804.0
+Customer 88: 22860
+Customer 89: 22980
+Customer 87: 23220
+Customer 82: 23238.545454545456
+Customer 84: 23616.109090909093
+Customer 85: 24300
+Customer 83: 24600
+Customer 90: 24960
+Customer 86: 25245.31090909091
+Customer 91: 26280
+Customer 92: 27780
+Customer 94: 28560
+Customer 95: 28715.12181818182
+Customer 100: 28980
+Customer 102: 29534.67272727273
+Customer 106: 30240
+Customer 101: 30604.46181818182
+Customer 103: 30900
+Customer 97: 31265.214545454546
+Customer 99: 31411.052727272727
+Customer 98: 31680
+Customer 105: 32151.261818181818
+Customer 112: 32820
+Customer 114: 33065.23090909091
+Customer 108: 33420
+Customer 113: 33774.33818181818
+Customer 117: 34440
+Customer 118: 34755.15818181818
+Customer 107: 35460
+Customer 111: 35714.68363636364
+Customer 110: 35940
+Customer 122: 36125.05090909091
+Customer 121: 36600
+Customer 109: 36773.487272727274
+Customer 123: 37205.68363636364
+Customer 124: 38280
+Customer 119: 38820
+Customer 120: 38969.10545454545
+Customer 141: 39780
+Customer 135: 40140
+Customer 138: 40571.11636363636
+Customer 127: 40905.44181818182
+Customer 139: 40952.443636363634
+Customer 125: 41700
+Customer 128: 41916.63272727273
+Customer 142: 42240.3
+Customer 131: 42255.79090909091
+Customer 136: 42780
+Customer 149: 43440
+Customer 146: 44019.005454545455
+Customer 147: 44220
+Customer 148: 45780
+Customer 145: 46314.681818181816
+Customer 144: 46913.214545454546
+Customer 158: 47016.04363636364
+Customer 157: 47640
+Customer 150: 48060
+Customer 159: 49080
+Customer 152: 49800
+Customer 155: 49967.77636363637
+Customer 154: 50015.99454545455
+Customer 153: 50078.34545454546
+Customer 151: 50476.53272727273
+Customer 165: 50842.34181818182
+Customer 164: 51600
+Customer 161: 52140
+Customer 162: 52560
+Customer 166: 53340
+Customer 184: 54420
+Customer 187: 54480
+Customer 169: 54716.82
+Customer 186: 55074.88363636364
+Customer 180: 55358.91818181818
+Customer 179: 55412.86363636364
+Customer 182: 55511.92909090909
+Customer 183: 55882.11272727273
+Customer 168: 56040
+Customer 181: 56269.33090909091
+Customer 177: 56352.0
+Customer 174: 56394.07090909091
+Customer 170: 56681.23636363636
+Customer 172: 57157.30909090909
+Customer 167: 57208.112727272724
+Customer 185: 57716.71090909091
+Customer 178: 58108.89272727272
+Customer 194: 58320
+Customer 189: 59580
+Customer 195: 60211.87090909091
+Customer 188: 60695.258181818186
+Customer 191: 60955.56545454546
+Customer 192: 61077.872727272734
+Customer 197: 62340
+Customer 200: 62396.30181818182
+Customer 196: 62478.70909090909
+Customer 198: 63720
+Customer 199: 64740
++++Route 2+++
+Customer 8: 5220
+Customer 18: 5319.3381818181815
+Customer 12: 5700
+Customer 23: 6068.361818181818
+Customer 22: 6370.690909090909
+Customer 21: 6647.95090909091
+Customer 31: 7920
+Customer 27: 8007.529090909091
+Customer 26: 8400
+Customer 32: 9780
+Customer 46: 12120
+Customer 57: 12540
+Customer 54: 13200
+Customer 56: 13462.374545454546
+Customer 51: 13980.654545454547
+Customer 45: 14280
+Customer 59: 17580
+Customer 80: 24120
+Customer 96: 27600
+Customer 93: 28560
+Customer 104: 30420
+Customer 115: 34320
+Customer 116: 35400
+Customer 134: 39780
+Customer 130: 40680
+Customer 143: 40791.038181818185
+Customer 140: 41040
+Customer 133: 41122.06909090909
+Customer 137: 41580
+Customer 126: 42060
+Customer 129: 42600
+Customer 132: 42876.58909090909
+Customer 156: 47460
+Customer 163: 50580
+Customer 160: 50845.68
+Customer 175: 54240
+Customer 173: 54600
+Customer 171: 55560
+Customer 176: 55662.93818181818
+Customer 193: 59820
+Customer 190: 60420
+======Vehicle 1======
+Total distance: 94597.69000000003
+No of vehicle: 2
+Initial solution found.
++++Route 1+++
+Customer 3: 360
+Customer 2: 2415
+Customer 4: 3300
+Customer 7: 3903.18
+Customer 10: 4349.498181818182
+Customer 13: 4947.332727272727
+Customer 11: 5726.672727272728
+Customer 16: 6227.6618181818185
+Customer 38: 7320
+Customer 9: 7869.594545454545
+Customer 37: 8425.210909090909
+Customer 26: 8839.696363636363
+Customer 35: 9605
+Customer 28: 10209.418181818182
+Customer 36: 10812.598181818183
+Customer 34: 11188.089090909092
+Customer 30: 11575.143636363639
+Customer 49: 11992.880000000003
+Customer 48: 12405.314545454548
+Customer 57: 12887.654545454548
+Customer 41: 13291.198181818185
+Customer 54: 13757.294545454548
+Customer 50: 14421.63090909091
+Customer 56: 14834.065454545456
+Customer 43: 15312.887272727274
+Customer 68: 15743.387272727274
+Customer 64: 16209.15090909091
+Customer 67: 16683.48909090909
+Customer 60: 17135.763636363634
+Customer 61: 17512.83636363636
+Customer 59: 18076.492727272725
+Customer 65: 18510.892727272727
+Customer 73: 19187.681818181816
+Customer 75: 19742.50727272727
+Customer 70: 20441
+Customer 69: 21060
+Customer 72: 21804
+Customer 81: 22188.0
+Customer 71: 22661.105454545454
+Customer 87: 23220
+Customer 82: 23658.545454545456
+Customer 88: 24128.743636363637
+Customer 84: 24823.70181818182
+Customer 80: 25264.058181818185
+Customer 86: 25812.65454545455
+Customer 90: 26518.42363636364
+Customer 91: 27530.040000000005
+Customer 92: 28096.483636363642
+Customer 94: 28682.334545454552
+Customer 100: 29128.652727272733
+Customer 95: 29624.438181818186
+Customer 106: 30240
+Customer 103: 30900
+Customer 97: 31625.214545454546
+Customer 99: 32191.052727272727
+Customer 105: 32879.57454545455
+Customer 114: 33276.97090909091
+Customer 112: 33881.38909090909
+Customer 118: 34755
+Customer 116: 35460.48545454546
+Customer 115: 36164.34545454546
+Customer 121: 36640.72363636364
+Customer 109: 37174.210909090914
+Customer 123: 37966.40727272728
+Customer 119: 38820
+Customer 120: 39329.10545454545
+Customer 134: 39841.02
+Customer 138: 40575.33818181818
+Customer 141: 41196.55090909091
+Customer 133: 41713.03636363636
+Customer 140: 42214.25454545455
+Customer 142: 42972.41454545455
+Customer 136: 43347.90545454546
+Customer 131: 43791.90545454546
+Customer 146: 44484.692727272726
+Customer 147: 44927.88
+Customer 148: 45780
+Customer 145: 46734.681818181816
+Customer 157: 47640
+Customer 150: 48430.05818181818
+Customer 159: 49080
+Customer 152: 49900.73454545454
+Customer 155: 50428.51090909091
+Customer 154: 50836.729090909095
+Customer 160: 51383.225454545456
+Customer 165: 52242.850909090914
+Customer 164: 53070.37090909091
+Customer 162: 53590.494545454545
+Customer 184: 54596.656363636364
+Customer 187: 54972.14727272727
+Customer 182: 55512
+Customer 179: 56032.810909090906
+Customer 180: 56446.069090909084
+Customer 168: 57164.3509090909
+Customer 172: 58009.2109090909
+Customer 167: 58420.014545454535
+Customer 178: 58903.41272727271
+Customer 189: 59580
+Customer 194: 59987.487272727274
+Customer 190: 60420
+Customer 188: 61061.25818181818
+Customer 191: 61741.56545454545
+Customer 192: 62283.87272727273
+Customer 197: 62820.130909090905
+Customer 200: 63236.432727272724
+Customer 196: 63678.84
+Customer 198: 64631.42727272727
+Customer 199: 65525.36727272727
++++Route 2+++
+Customer 1: 1800
+Customer 5: 2803.107272727273
+Customer 6: 4238
+Customer 17: 4834.345454545454
+Customer 8: 5249.856363636363
+Customer 12: 5700
+Customer 23: 6488.361818181818
+Customer 21: 6880.87090909091
+Customer 22: 7517.672727272728
+Customer 40: 8313
+Customer 29: 8714.018181818183
+Customer 33: 9257.132727272729
+Customer 25: 9778.325454545457
+Customer 24: 10500
+Customer 39: 11441.110909090909
+Customer 55: 12250.418181818182
+Customer 42: 13358
+Customer 52: 13870.563636363637
+Customer 44: 14330.921818181818
+Customer 45: 15190.22
+Customer 63: 16432
+Customer 62: 17108.78909090909
+Customer 66: 17914
+Customer 58: 18576.32909090909
+Customer 76: 19702
+Customer 79: 20125.992727272725
+Customer 78: 20509.992727272725
+Customer 77: 21162.79818181818
+Customer 74: 22103.805454545454
+Customer 89: 22980
+Customer 83: 24600
+Customer 85: 25113.85090909091
+Customer 96: 27600
+Customer 102: 29535
+Customer 93: 30052.32
+Customer 104: 30487.745454545453
+Customer 101: 31114.374545454542
+Customer 98: 32064.910909090904
+Customer 108: 33420
+Customer 113: 34194.33818181818
+Customer 117: 34581.09818181818
+Customer 107: 35460
+Customer 110: 36111.534545454546
+Customer 111: 36575.825454545455
+Customer 122: 37143.567272727276
+Customer 124: 38280
+Customer 135: 40140
+Customer 127: 41173.03636363636
+Customer 139: 41580.03818181818
+Customer 126: 42060
+Customer 128: 42448.472727272725
+Customer 129: 42906.534545454546
+Customer 125: 43454.263636363634
+Customer 132: 43970.10545454545
+Customer 149: 44612.07818181818
+Customer 144: 46913
+Customer 158: 47375.829090909094
+Customer 156: 47879.15818181819
+Customer 153: 50078
+Customer 151: 50836.18727272727
+Customer 163: 51510.53272727272
+Customer 161: 52140
+Customer 166: 53340
+Customer 175: 54240
+Customer 173: 54884.77636363637
+Customer 171: 55560
+Customer 176: 56022.93818181818
+Customer 174: 56593.75636363636
+Customer 177: 57058.61454545455
+Customer 181: 57498.49636363637
+Customer 170: 58097.67272727273
+Customer 185: 58539.94363636364
+Customer 195: 60212
+Customer 193: 60768.76727272727
++++Route 3+++
+Customer 18: 5319
+Customer 15: 5986
+Customer 20: 6696
+Customer 19: 7164.692727272727
+Customer 14: 7638.78
+Customer 27: 8214.578181818182
+Customer 31: 8663.367272727273
+Customer 32: 9780
+Customer 46: 12120
+Customer 53: 13048.314545454545
+Customer 51: 14038.59818181818
+Customer 47: 14662.619999999999
+Customer 143: 40791
+Customer 137: 41580
+Customer 130: 42006.34909090909
+Customer 169: 54717
+Customer 186: 55435.06363636364
+Customer 183: 55915.63090909091
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [106, 198, 117, 58, 172, 196, 84, 155, 179, 113, 125, 121, 4, 23, 54, 166, 131, 136, 16, 20, 153, 162, 164, 170, 176, 51, 52, 183, 65, 83, 85, 93, 104, 111, 112, 118]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [167, 178, 189, 194, 190, 181, 170, 185, 195, 193]
+Performing LNS iteration 3
+RPOP
+removed: [85, 107, 71, 99, 83, 190, 60, 97, 12, 116, 184, 143, 103, 163, 14, 132, 193, 131, 195, 9, 138, 11, 15, 80, 84, 22, 89, 160, 98, 101, 38, 169, 173, 175, 61, 62]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [151, 163, 161, 166, 175, 154, 160, 165, 164, 162]
+Performing LNS iteration 5
+RPOP
+removed: [65, 16, 95, 14, 28, 96, 103, 168, 194, 147, 104, 79, 21, 72, 26, 4, 9, 15, 19, 20, 149, 22, 23, 24, 29, 31, 38, 177, 58, 195, 70, 74, 91, 101, 102, 106]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [53, 51, 47, 143, 137, 54, 50, 56, 43, 68]
+Performing LNS iteration 7
+RPOP
+removed: [180, 85, 69, 79, 197, 61, 7, 100, 58, 155, 21, 56, 67, 145, 68, 153, 6, 144, 19, 20, 23, 152, 45, 174, 47, 60, 62, 63, 65, 66, 70, 75, 77, 78, 80, 84]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [84, 80, 86, 90, 91, 89, 83, 85, 96, 102]
+Performing LNS iteration 9
+RPOP
+removed: [124, 156, 126, 100, 172, 116, 143, 89, 99, 93, 18, 60, 24, 52, 90, 40, 130, 133, 8, 138, 140, 27, 28, 157, 36, 37, 170, 51, 54, 62, 71, 87, 98, 106, 107, 123]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [125, 132, 149, 144, 158, 136, 131, 146, 147, 148]
+Improved solution found.
++++Route 1+++
+Customer 3: 360
+Customer 2: 2415
+Customer 4: 3300
+Customer 7: 3903.18
+Customer 10: 4349.498181818182
+Customer 13: 4947.332727272727
+Customer 11: 5726.672727272728
+Customer 16: 6227.6618181818185
+Customer 38: 7320
+Customer 9: 7869.594545454545
+Customer 37: 8425.210909090909
+Customer 26: 8839.696363636363
+Customer 35: 9605
+Customer 28: 10209.418181818182
+Customer 36: 10812.598181818183
+Customer 34: 11188.089090909092
+Customer 30: 11575.143636363639
+Customer 49: 11992.880000000003
+Customer 48: 12405.314545454548
+Customer 57: 12887.654545454548
+Customer 41: 13291.198181818185
+Customer 54: 13757.294545454548
+Customer 50: 14421.63090909091
+Customer 56: 14834.065454545456
+Customer 43: 15312.887272727274
+Customer 68: 15743.387272727274
+Customer 64: 16209.15090909091
+Customer 67: 16683.48909090909
+Customer 60: 17135.763636363634
+Customer 61: 17512.83636363636
+Customer 59: 18076.492727272725
+Customer 65: 18510.892727272727
+Customer 73: 19187.681818181816
+Customer 75: 19742.50727272727
+Customer 70: 20441
+Customer 69: 21060
+Customer 72: 21804
+Customer 81: 22188.0
+Customer 71: 22661.105454545454
+Customer 87: 23220
+Customer 82: 23658.545454545456
+Customer 88: 24128.743636363637
+Customer 84: 24823.70181818182
+Customer 80: 25264.058181818185
+Customer 86: 25812.65454545455
+Customer 90: 26518.42363636364
+Customer 91: 27530.040000000005
+Customer 92: 28096.483636363642
+Customer 94: 28682.334545454552
+Customer 100: 29128.652727272733
+Customer 95: 29624.438181818186
+Customer 106: 30240
+Customer 103: 30900
+Customer 97: 31625.214545454546
+Customer 99: 32191.052727272727
+Customer 105: 32879.57454545455
+Customer 114: 33276.97090909091
+Customer 112: 33881.38909090909
+Customer 118: 34755
+Customer 116: 35460.48545454546
+Customer 115: 36164.34545454546
+Customer 121: 36640.72363636364
+Customer 109: 37174.210909090914
+Customer 123: 37966.40727272728
+Customer 119: 38820
+Customer 120: 39329.10545454545
+Customer 134: 39841.02
+Customer 138: 40575.33818181818
+Customer 141: 41196.55090909091
+Customer 133: 41713.03636363636
+Customer 140: 42214.25454545455
+Customer 142: 42972.41454545455
+Customer 136: 43347.90545454546
+Customer 131: 43791.90545454546
+Customer 146: 44484.692727272726
+Customer 147: 44927.88
+Customer 148: 45780
+Customer 145: 46734.681818181816
+Customer 157: 47640
+Customer 150: 48430.05818181818
+Customer 159: 49080
+Customer 152: 49900.73454545454
+Customer 155: 50428.51090909091
+Customer 154: 50836.729090909095
+Customer 160: 51383.225454545456
+Customer 165: 52242.850909090914
+Customer 164: 53070.37090909091
+Customer 162: 53590.494545454545
+Customer 184: 54596.656363636364
+Customer 187: 54972.14727272727
+Customer 182: 55512
+Customer 179: 56032.810909090906
+Customer 180: 56446.069090909084
+Customer 168: 57164.3509090909
+Customer 172: 58009.2109090909
+Customer 167: 58420.014545454535
+Customer 178: 58903.41272727271
+Customer 189: 59580
+Customer 194: 59987.487272727274
+Customer 190: 60420
+Customer 188: 61061.25818181818
+Customer 191: 61741.56545454545
+Customer 192: 62283.87272727273
+Customer 197: 62820.130909090905
+Customer 200: 63236.432727272724
+Customer 196: 63678.84
+Customer 198: 64631.42727272727
+Customer 199: 65525.36727272727
++++Route 2+++
+Customer 1: 1800
+Customer 5: 2803.107272727273
+Customer 6: 4238
+Customer 17: 4834.345454545454
+Customer 8: 5249.856363636363
+Customer 12: 5700
+Customer 23: 6488.361818181818
+Customer 21: 6880.87090909091
+Customer 22: 7517.672727272728
+Customer 40: 8313
+Customer 29: 8714.018181818183
+Customer 33: 9257.132727272729
+Customer 25: 9778.325454545457
+Customer 24: 10500
+Customer 39: 11441.110909090909
+Customer 55: 12250.418181818182
+Customer 42: 13358
+Customer 52: 13870.563636363637
+Customer 44: 14330.921818181818
+Customer 45: 15190.22
+Customer 63: 16432
+Customer 62: 17108.78909090909
+Customer 66: 17914
+Customer 58: 18576.32909090909
+Customer 76: 19702
+Customer 79: 20125.992727272725
+Customer 78: 20509.992727272725
+Customer 77: 21162.79818181818
+Customer 74: 22103.805454545454
+Customer 89: 22980
+Customer 83: 24600
+Customer 85: 25113.85090909091
+Customer 96: 27600
+Customer 102: 29535
+Customer 93: 30052.32
+Customer 104: 30487.745454545453
+Customer 101: 31114.374545454542
+Customer 98: 32064.910909090904
+Customer 108: 33420
+Customer 113: 34194.33818181818
+Customer 117: 34581.09818181818
+Customer 107: 35460
+Customer 110: 36111.534545454546
+Customer 111: 36575.825454545455
+Customer 122: 37143.567272727276
+Customer 124: 38280
+Customer 135: 40140
+Customer 127: 41173.03636363636
+Customer 139: 41580.03818181818
+Customer 126: 42060
+Customer 128: 42448.472727272725
+Customer 129: 42906.534545454546
+Customer 125: 43454.263636363634
+Customer 132: 43970.10545454545
+Customer 149: 44612.07818181818
+Customer 144: 46913
+Customer 158: 47375.829090909094
+Customer 156: 47879.15818181819
+Customer 153: 50078
+Customer 151: 50836.18727272727
+Customer 163: 51510.53272727272
+Customer 161: 52140
+Customer 166: 53340
+Customer 175: 54240
+Customer 173: 54884.77636363637
+Customer 171: 55560
+Customer 176: 56022.93818181818
+Customer 174: 56593.75636363636
+Customer 177: 57058.61454545455
+Customer 181: 57498.49636363637
+Customer 170: 58097.67272727273
+Customer 185: 58539.94363636364
+Customer 195: 60212
+Customer 193: 60768.76727272727
++++Route 3+++
+Customer 18: 5319
+Customer 15: 5986
+Customer 20: 6696
+Customer 19: 7164.692727272727
+Customer 14: 7638.78
+Customer 27: 8214.578181818182
+Customer 31: 8663.367272727273
+Customer 32: 9780
+Customer 46: 12120
+Customer 53: 13048.314545454545
+Customer 51: 14038.59818181818
+Customer 47: 14662.619999999999
+Customer 143: 40791
+Customer 137: 41580
+Customer 130: 42006.34909090909
+Customer 169: 54717
+Customer 186: 55435.06363636364
+Customer 183: 55915.63090909091
+======Vehicle 2======
+Total distance: 79018.74000000003
+No of vehicle: 3
+Initial solution found.
++++Route 1+++
+Customer 3: 360
+Customer 4: 3720
+Customer 25: 8880
+Customer 28: 9780
+Customer 55: 12240
+Customer 44: 14220
+Customer 99: 31680
+Customer 118: 35220
+Customer 123: 37020
+Customer 138: 40980
+Customer 165: 51120
+Customer 187: 54960
+Customer 188: 60840
++++Route 2+++
+Customer 1: 2220
+Customer 21: 6840
+Customer 40: 7620
+Customer 29: 8141.018181818182
+Customer 42: 13740
+Customer 63: 16800
+Customer 90: 25380
+Customer 98: 31680
+Customer 142: 41520
+Customer 136: 43200
+Customer 184: 54420
++++Route 3+++
+Customer 2: 2700
+Customer 15: 6000
+Customer 37: 7980
+Customer 39: 10380
+Customer 46: 12540
+Customer 60: 16380
+Customer 61: 16877.072727272727
+Customer 104: 30840
+Customer 148: 46200
+Customer 151: 50100
+Customer 174: 56280
+Customer 191: 61020
++++Route 4+++
+Customer 5: 2700
+Customer 47: 14520
+Customer 65: 17520
+Customer 80: 24600
+Customer 93: 29040
+Customer 111: 36000
+Customer 110: 36583.832727272726
+Customer 119: 38820
+Customer 127: 40380
+Customer 128: 41220
+Customer 126: 42540
+Customer 146: 43980
++++Route 5+++
+Customer 7: 3840
+Customer 16: 5400
+Customer 33: 8460
+Customer 24: 10920
+Customer 74: 21120
+Customer 83: 24600
+Customer 141: 39780
+Customer 182: 55620
+Customer 172: 57600
+Customer 190: 60900
+Customer 198: 63720
++++Route 6+++
+Customer 13: 4140
+Customer 57: 13020
+Customer 115: 34800
+Customer 137: 41580
+Customer 150: 48480
+Customer 163: 51000
+Customer 162: 52980
+Customer 175: 54660
+Customer 171: 56040
+Customer 181: 56640
+Customer 192: 61320
++++Route 7+++
+Customer 10: 4320
+Customer 49: 11520
+Customer 50: 14340
+Customer 100: 29400
+Customer 114: 33060
+Customer 143: 41040
+Customer 149: 43440
+Customer 155: 50160
+Customer 161: 52620
+Customer 178: 57960
+Customer 194: 58636.20545454545
+Customer 189: 59580
++++Route 8+++
+Customer 6: 4680
+Customer 14: 6960
+Customer 26: 8400
+Customer 41: 12780
+Customer 54: 13680
+Customer 64: 15480
+Customer 67: 16200
+Customer 59: 18060
+Customer 84: 24060
+Customer 122: 36480
+Customer 120: 39360
+Customer 134: 39991.91454545454
+Customer 129: 43020
+Customer 147: 44640
+Customer 177: 55920
++++Route 9+++
+Customer 17: 4800
+Customer 22: 6600
+Customer 31: 7920
+Customer 51: 13500
+Customer 45: 14700
+Customer 58: 18300
+Customer 78: 20040
+Customer 86: 25560
+Customer 96: 27600
+Customer 102: 29880
+Customer 113: 33480
+Customer 117: 34920
++++Route 10+++
+Customer 8: 5220
+Customer 12: 6120
+Customer 27: 8100
+Customer 76: 19140
+Customer 79: 19980
+Customer 139: 40620
+Customer 125: 41700
+Customer 144: 47100
+Customer 164: 52020
+Customer 195: 60480
+Customer 197: 62340
+Customer 200: 62876.30181818182
+Customer 196: 63438.70909090909
++++Route 11+++
+Customer 23: 5460
+Customer 66: 17880
+Customer 71: 21660
+Customer 131: 42240
+Customer 145: 46380
+Customer 157: 48060
+Customer 152: 49800
+Customer 169: 54060
+Customer 179: 55080
+Customer 180: 55613.25818181818
+Customer 167: 57240
++++Route 12+++
+Customer 18: 5640
+Customer 20: 6540
+Customer 19: 7128.692727272727
+Customer 32: 10260
+Customer 75: 19920
+Customer 91: 26280
+Customer 101: 30840
+Customer 107: 35940
+Customer 158: 47340
+Customer 159: 49560
+Customer 176: 55020
+Customer 185: 57540
++++Route 13+++
+Customer 11: 6060
+Customer 53: 13320
+Customer 62: 17280
+Customer 85: 24720
+Customer 94: 29040
+Customer 106: 30720
+Customer 97: 31320
+Customer 112: 33240
+Customer 116: 35880
+Customer 109: 36429.43090909091
+Customer 135: 40560
+Customer 133: 41189.498181818184
++++Route 14+++
+Customer 9: 7440
+Customer 48: 11700
+Customer 88: 23280
+Customer 92: 28200
+Customer 121: 37080
+Customer 130: 41160
+Customer 153: 49500
+Customer 186: 55260
+Customer 168: 56460
+Customer 193: 60240
+Customer 199: 64740
++++Route 15+++
+Customer 38: 7740
+Customer 35: 9900
+Customer 34: 10440.790909090909
+Customer 30: 10980
+Customer 36: 11495.563636363637
+Customer 72: 21480
+Customer 81: 22260
+Customer 82: 23460
+Customer 87: 23958.545454545456
+Customer 105: 31440
+Customer 140: 41040
+Customer 160: 51180
++++Route 16+++
+Customer 52: 12900
+Customer 56: 13860
+Customer 43: 14458.821818181817
+Customer 70: 20820
+Customer 69: 21540
+Customer 89: 23460
+Customer 103: 31380
+Customer 108: 33840
+Customer 124: 38280
+Customer 132: 43020
+Customer 156: 47880
+Customer 170: 56340
++++Route 17+++
+Customer 68: 14760
+Customer 73: 18240
+Customer 77: 19740
+Customer 95: 28500
+Customer 154: 50400
+Customer 166: 53760
+Customer 173: 55020
+Customer 183: 55695.87272727273
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [43, 98, 139, 121, 129, 57, 173, 196, 130, 182, 144, 67, 20, 175, 181, 158, 128, 132, 133, 135, 136, 138, 140, 143, 22, 47, 176, 50, 179, 180, 52, 183, 187, 60, 99, 123]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [131, 145, 157, 152, 169, 115, 137, 150, 163, 162]
+Performing LNS iteration 3
+RPOP
+removed: [190, 187, 186, 167, 198, 93, 75, 159, 150, 119, 189, 115, 38, 88, 105, 10, 77, 78, 79, 13, 82, 152, 89, 153, 94, 31, 97, 37, 103, 40, 173, 176, 179, 117, 188, 191]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [150, 163, 162, 175, 171, 149, 155, 161, 178, 194]
+Performing LNS iteration 5
+RPOP
+removed: [75, 147, 28, 151, 191, 172, 13, 146, 136, 101, 173, 112, 144, 145, 88, 187, 129, 132, 10, 77, 78, 79, 82, 148, 149, 155, 35, 104, 106, 176, 114, 179, 185, 186, 188, 190]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [18, 20, 19, 32, 75, 1, 21, 40, 29, 42]
+Performing LNS iteration 7
+RPOP
+removed: [19, 12, 61, 168, 22, 51, 5, 160, 33, 111, 48, 37, 60, 123, 196, 117, 2, 11, 14, 15, 20, 26, 27, 29, 31, 165, 170, 174, 181, 53, 54, 63, 107, 115, 116, 121]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [149, 155, 161, 178, 194, 150, 163, 162, 175, 171]
+Performing LNS iteration 9
+RPOP
+removed: [145, 51, 140, 123, 53, 108, 64, 37, 94, 88, 54, 191, 117, 29, 78, 43, 128, 130, 133, 138, 75, 143, 79, 82, 148, 89, 27, 93, 31, 42, 47, 50, 115, 121, 188, 190]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [155, 161, 178, 194, 189, 141, 182, 172, 190, 198]
+Improved solution found.
++++Route 1+++
+Customer 3: 360
+Customer 4: 3720
+Customer 25: 8880
+Customer 28: 9780
+Customer 55: 12240
+Customer 44: 14220
+Customer 99: 31680
+Customer 118: 35220
+Customer 123: 37020
+Customer 138: 40980
+Customer 165: 51120
+Customer 187: 54960
+Customer 188: 60840
++++Route 2+++
+Customer 1: 2220
+Customer 21: 6840
+Customer 40: 7620
+Customer 29: 8141.018181818182
+Customer 42: 13740
+Customer 63: 16800
+Customer 90: 25380
+Customer 98: 31680
+Customer 142: 41520
+Customer 136: 43200
+Customer 184: 54420
++++Route 3+++
+Customer 2: 2700
+Customer 15: 6000
+Customer 37: 7980
+Customer 39: 10380
+Customer 46: 12540
+Customer 60: 16380
+Customer 61: 16877.072727272727
+Customer 104: 30840
+Customer 148: 46200
+Customer 151: 50100
+Customer 174: 56280
+Customer 191: 61020
++++Route 4+++
+Customer 5: 2700
+Customer 47: 14520
+Customer 65: 17520
+Customer 80: 24600
+Customer 93: 29040
+Customer 111: 36000
+Customer 110: 36583.832727272726
+Customer 119: 38820
+Customer 127: 40380
+Customer 128: 41220
+Customer 126: 42540
+Customer 146: 43980
++++Route 5+++
+Customer 7: 3840
+Customer 16: 5400
+Customer 33: 8460
+Customer 24: 10920
+Customer 74: 21120
+Customer 83: 24600
+Customer 141: 39780
+Customer 182: 55620
+Customer 172: 57600
+Customer 190: 60900
+Customer 198: 63720
++++Route 6+++
+Customer 13: 4140
+Customer 57: 13020
+Customer 115: 34800
+Customer 137: 41580
+Customer 150: 48480
+Customer 163: 51000
+Customer 162: 52980
+Customer 175: 54660
+Customer 171: 56040
+Customer 181: 56640
+Customer 192: 61320
++++Route 7+++
+Customer 10: 4320
+Customer 49: 11520
+Customer 50: 14340
+Customer 100: 29400
+Customer 114: 33060
+Customer 143: 41040
+Customer 149: 43440
+Customer 155: 50160
+Customer 161: 52620
+Customer 178: 57960
+Customer 194: 58636.20545454545
+Customer 189: 59580
++++Route 8+++
+Customer 6: 4680
+Customer 14: 6960
+Customer 26: 8400
+Customer 41: 12780
+Customer 54: 13680
+Customer 64: 15480
+Customer 67: 16200
+Customer 59: 18060
+Customer 84: 24060
+Customer 122: 36480
+Customer 120: 39360
+Customer 134: 39991.91454545454
+Customer 129: 43020
+Customer 147: 44640
+Customer 177: 55920
++++Route 9+++
+Customer 17: 4800
+Customer 22: 6600
+Customer 31: 7920
+Customer 51: 13500
+Customer 45: 14700
+Customer 58: 18300
+Customer 78: 20040
+Customer 86: 25560
+Customer 96: 27600
+Customer 102: 29880
+Customer 113: 33480
+Customer 117: 34920
++++Route 10+++
+Customer 8: 5220
+Customer 12: 6120
+Customer 27: 8100
+Customer 76: 19140
+Customer 79: 19980
+Customer 139: 40620
+Customer 125: 41700
+Customer 144: 47100
+Customer 164: 52020
+Customer 195: 60480
+Customer 197: 62340
+Customer 200: 62876.30181818182
+Customer 196: 63438.70909090909
++++Route 11+++
+Customer 23: 5460
+Customer 66: 17880
+Customer 71: 21660
+Customer 131: 42240
+Customer 145: 46380
+Customer 157: 48060
+Customer 152: 49800
+Customer 169: 54060
+Customer 179: 55080
+Customer 180: 55613.25818181818
+Customer 167: 57240
++++Route 12+++
+Customer 18: 5640
+Customer 20: 6540
+Customer 19: 7128.692727272727
+Customer 32: 10260
+Customer 75: 19920
+Customer 91: 26280
+Customer 101: 30840
+Customer 107: 35940
+Customer 158: 47340
+Customer 159: 49560
+Customer 176: 55020
+Customer 185: 57540
++++Route 13+++
+Customer 11: 6060
+Customer 53: 13320
+Customer 62: 17280
+Customer 85: 24720
+Customer 94: 29040
+Customer 106: 30720
+Customer 97: 31320
+Customer 112: 33240
+Customer 116: 35880
+Customer 109: 36429.43090909091
+Customer 135: 40560
+Customer 133: 41189.498181818184
++++Route 14+++
+Customer 9: 7440
+Customer 48: 11700
+Customer 88: 23280
+Customer 92: 28200
+Customer 121: 37080
+Customer 130: 41160
+Customer 153: 49500
+Customer 186: 55260
+Customer 168: 56460
+Customer 193: 60240
+Customer 199: 64740
++++Route 15+++
+Customer 38: 7740
+Customer 35: 9900
+Customer 34: 10440.790909090909
+Customer 30: 10980
+Customer 36: 11495.563636363637
+Customer 72: 21480
+Customer 81: 22260
+Customer 82: 23460
+Customer 87: 23958.545454545456
+Customer 105: 31440
+Customer 140: 41040
+Customer 160: 51180
++++Route 16+++
+Customer 52: 12900
+Customer 56: 13860
+Customer 43: 14458.821818181817
+Customer 70: 20820
+Customer 69: 21540
+Customer 89: 23460
+Customer 103: 31380
+Customer 108: 33840
+Customer 124: 38280
+Customer 132: 43020
+Customer 156: 47880
+Customer 170: 56340
++++Route 17+++
+Customer 68: 14760
+Customer 73: 18240
+Customer 77: 19740
+Customer 95: 28500
+Customer 154: 50400
+Customer 166: 53760
+Customer 173: 55020
+Customer 183: 55695.87272727273
+======Vehicle 3======
+Total distance: 41638.48000000001
+No of vehicle: 17
+Initial solution found.
++++Route 1+++
+Customer 3: 360
+Customer 2: 2280
+Customer 4: 3300
+Customer 7: 3903.18
+Customer 16: 4980
+Customer 11: 5640
+Customer 38: 7320
+Customer 25: 8400
+Customer 28: 9360
+Customer 24: 10500
+Customer 55: 11760
+Customer 52: 12480
+Customer 44: 13740
+Customer 68: 14760
+Customer 62: 16800
+Customer 66: 17880
+Customer 78: 19560
+Customer 79: 20064.0
+Customer 74: 21120
+Customer 72: 21815.241818181818
+Customer 82: 22980
+Customer 87: 23478.545454545456
+Customer 85: 24300
+Customer 83: 24872.79272727273
+Customer 91: 26280
+Customer 92: 27780
+Customer 94: 28560
+Customer 106: 30240
+Customer 99: 31260
+Customer 98: 31889.721818181817
+Customer 112: 32820
+Customer 114: 33485.23090909091
+Customer 118: 34740
+Customer 111: 35580
+Customer 110: 36043.832727272726
+Customer 123: 37020
+Customer 119: 38820
+Customer 141: 39780
+Customer 138: 40560
+Customer 128: 41278.75090909091
+Customer 142: 42022.41818181818
+Customer 136: 42780
+Customer 131: 43224.0
+Customer 146: 43980
+Customer 145: 45960
+Customer 157: 47640
+Customer 152: 49800
+Customer 165: 50640
+Customer 164: 51600
+Customer 162: 52560
+Customer 166: 53340
+Customer 187: 54480
+Customer 184: 54975.490909090906
+Customer 179: 55673.51454545454
+Customer 172: 57120
+Customer 194: 58320
+Customer 189: 59580
+Customer 188: 60420
+Customer 197: 62340
+Customer 196: 62891.72727272727
+Customer 198: 63964.314545454545
+Customer 199: 64918.25454545455
++++Route 2+++
+Customer 1: 1800
+Customer 5: 2803.107272727273
+Customer 6: 4200
+Customer 17: 4916.345454545454
+Customer 23: 5687.689090909091
+Customer 21: 6360
+Customer 40: 7620
+Customer 29: 8081.018181818182
+Customer 35: 9420
+Customer 36: 10620
+Customer 34: 11055.49090909091
+Customer 46: 12120
+Customer 42: 13260
+Customer 51: 14055.76909090909
+Customer 64: 15000
+Customer 63: 16380
+Customer 58: 17820
+Customer 73: 18786.70909090909
+Customer 76: 19596.387272727272
+Customer 77: 20269.2
+Customer 69: 21060
+Customer 81: 21780
+Customer 88: 22860
+Customer 84: 23580
+Customer 90: 24960
+Customer 96: 27600
+Customer 93: 28560
+Customer 102: 29400
+Customer 104: 30420
+Customer 105: 31440
+Customer 113: 33480
+Customer 117: 34440
+Customer 122: 36000
+Customer 124: 38280
+Customer 120: 38940
+Customer 134: 39780
+Customer 127: 40380
+Customer 139: 40847.001818181816
+Customer 126: 42060
+Customer 125: 42776.90181818182
+Customer 147: 44220
+Customer 148: 45780
+Customer 144: 46620
+Customer 156: 47460
+Customer 150: 48060
+Customer 159: 49080
+Customer 153: 49763.33454545455
+Customer 151: 50581.52181818182
+Customer 161: 52140
+Customer 175: 54240
+Customer 176: 55020
+Customer 174: 55860
+Customer 177: 56324.858181818185
+Customer 185: 57120
+Customer 191: 60600
+Customer 200: 62160
++++Route 3+++
+Customer 13: 3720
+Customer 15: 5520
+Customer 14: 6480
+Customer 37: 7500
+Customer 31: 8359.134545454546
+Customer 26: 9112.467272727274
+Customer 39: 9900
+Customer 48: 11220
+Customer 41: 12300
+Customer 47: 14040
+Customer 67: 15720
+Customer 61: 16306.723636363637
+Customer 65: 17100
+Customer 75: 19500
+Customer 70: 20340
+Customer 71: 21180
+Customer 89: 22980
+Customer 80: 24120
+Customer 86: 25140
+Customer 95: 28500
+Customer 101: 30360
+Customer 108: 33420
+Customer 115: 34320
+Customer 107: 35460
+Customer 121: 36600
+Customer 130: 40680
+Customer 137: 41580
+Customer 129: 42600
+Customer 149: 43509.83454545455
+Customer 158: 46920
+Customer 154: 49980
+Customer 163: 50580
+Customer 169: 54060
+Customer 171: 55560
+Customer 181: 56220
+Customer 170: 56819.17636363636
+Customer 195: 60000
+Customer 192: 60900
++++Route 4+++
+Customer 10: 3900
+Customer 18: 5220
+Customer 8: 5736.578181818182
+Customer 9: 7020
+Customer 33: 8040
+Customer 30: 10500
+Customer 49: 11040
+Customer 57: 12540
+Customer 50: 13860
+Customer 60: 15900
+Customer 59: 17580
+Customer 100: 28980
+Customer 97: 30900
+Customer 116: 35400
+Customer 109: 35949.43090909091
+Customer 143: 40620
+Customer 140: 41142.46363636364
+Customer 132: 42600
+Customer 155: 49680
+Customer 160: 50760
+Customer 182: 55200
+Customer 180: 55765.34181818182
+Customer 167: 56760
+Customer 178: 57540
+Customer 190: 60420
++++Route 5+++
+Customer 12: 5700
+Customer 20: 6540
+Customer 19: 7068.692727272727
+Customer 27: 7620
+Customer 32: 9780
+Customer 54: 13200
+Customer 45: 14280
+Customer 103: 30900
+Customer 135: 40140
+Customer 133: 40740
+Customer 186: 54840
+Customer 168: 56040
+Customer 193: 59820
++++Route 6+++
+Customer 22: 6180
+Customer 56: 13440
+Customer 43: 13920
+Customer 173: 54600
+Customer 183: 55200
++++Route 7+++
+Customer 53: 12840
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [169, 138, 74, 103, 117, 82, 185, 106, 163, 150, 83, 29, 35, 145, 37, 98, 130, 133, 143, 151, 27, 28, 33, 165, 40, 172, 175, 69, 71, 88, 89, 90, 97, 101, 115, 127]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [20, 19, 27, 32, 54, 23, 21, 40, 29, 35]
+Performing LNS iteration 3
+RPOP
+removed: [168, 84, 88, 53, 100, 112, 174, 182, 133, 111, 142, 130, 30, 192, 148, 73, 138, 139, 143, 145, 82, 87, 24, 89, 36, 107, 171, 176, 177, 179, 180, 181, 116, 183, 57, 126]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [105, 113, 117, 122, 124, 101, 108, 115, 107, 121]
+Performing LNS iteration 5
+RPOP
+removed: [116, 28, 72, 117, 89, 48, 12, 58, 18, 22, 176, 194, 139, 108, 173, 45, 130, 133, 8, 11, 15, 23, 34, 35, 49, 184, 187, 66, 81, 82, 88, 107, 111, 113, 114, 115]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [160, 182, 180, 167, 178, 187, 184, 179, 172, 194]
+Performing LNS iteration 7
+RPOP
+removed: [45, 150, 18, 180, 71, 192, 190, 173, 63, 67, 141, 79, 187, 171, 49, 72, 69, 134, 74, 77, 15, 16, 81, 34, 168, 174, 47, 48, 175, 188, 179, 51, 186, 60, 61, 191]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [131, 146, 145, 157, 152, 125, 147, 148, 144, 156]
+Performing LNS iteration 9
+RPOP
+removed: [8, 21, 78, 19, 83, 20, 62, 150, 58, 151, 87, 75, 170, 68, 3, 125, 64, 129, 66, 132, 136, 9, 11, 76, 12, 14, 15, 84, 22, 23, 90, 160, 163, 165, 38, 167]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [84, 90, 96, 93, 102, 83, 91, 92, 94, 106]
+Improved solution found.
++++Route 1+++
+Customer 3: 360
+Customer 2: 2280
+Customer 4: 3300
+Customer 7: 3903.18
+Customer 16: 4980
+Customer 11: 5640
+Customer 38: 7320
+Customer 25: 8400
+Customer 28: 9360
+Customer 24: 10500
+Customer 55: 11760
+Customer 52: 12480
+Customer 44: 13740
+Customer 68: 14760
+Customer 62: 16800
+Customer 66: 17880
+Customer 78: 19560
+Customer 79: 20064.0
+Customer 74: 21120
+Customer 72: 21815.241818181818
+Customer 82: 22980
+Customer 87: 23478.545454545456
+Customer 85: 24300
+Customer 83: 24872.79272727273
+Customer 91: 26280
+Customer 92: 27780
+Customer 94: 28560
+Customer 106: 30240
+Customer 99: 31260
+Customer 98: 31889.721818181817
+Customer 112: 32820
+Customer 114: 33485.23090909091
+Customer 118: 34740
+Customer 111: 35580
+Customer 110: 36043.832727272726
+Customer 123: 37020
+Customer 119: 38820
+Customer 141: 39780
+Customer 138: 40560
+Customer 128: 41278.75090909091
+Customer 142: 42022.41818181818
+Customer 136: 42780
+Customer 131: 43224.0
+Customer 146: 43980
+Customer 145: 45960
+Customer 157: 47640
+Customer 152: 49800
+Customer 165: 50640
+Customer 164: 51600
+Customer 162: 52560
+Customer 166: 53340
+Customer 187: 54480
+Customer 184: 54975.490909090906
+Customer 179: 55673.51454545454
+Customer 172: 57120
+Customer 194: 58320
+Customer 189: 59580
+Customer 188: 60420
+Customer 197: 62340
+Customer 196: 62891.72727272727
+Customer 198: 63964.314545454545
+Customer 199: 64918.25454545455
++++Route 2+++
+Customer 1: 1800
+Customer 5: 2803.107272727273
+Customer 6: 4200
+Customer 17: 4916.345454545454
+Customer 23: 5687.689090909091
+Customer 21: 6360
+Customer 40: 7620
+Customer 29: 8081.018181818182
+Customer 35: 9420
+Customer 36: 10620
+Customer 34: 11055.49090909091
+Customer 46: 12120
+Customer 42: 13260
+Customer 51: 14055.76909090909
+Customer 64: 15000
+Customer 63: 16380
+Customer 58: 17820
+Customer 73: 18786.70909090909
+Customer 76: 19596.387272727272
+Customer 77: 20269.2
+Customer 69: 21060
+Customer 81: 21780
+Customer 88: 22860
+Customer 84: 23580
+Customer 90: 24960
+Customer 96: 27600
+Customer 93: 28560
+Customer 102: 29400
+Customer 104: 30420
+Customer 105: 31440
+Customer 113: 33480
+Customer 117: 34440
+Customer 122: 36000
+Customer 124: 38280
+Customer 120: 38940
+Customer 134: 39780
+Customer 127: 40380
+Customer 139: 40847.001818181816
+Customer 126: 42060
+Customer 125: 42776.90181818182
+Customer 147: 44220
+Customer 148: 45780
+Customer 144: 46620
+Customer 156: 47460
+Customer 150: 48060
+Customer 159: 49080
+Customer 153: 49763.33454545455
+Customer 151: 50581.52181818182
+Customer 161: 52140
+Customer 175: 54240
+Customer 176: 55020
+Customer 174: 55860
+Customer 177: 56324.858181818185
+Customer 185: 57120
+Customer 191: 60600
+Customer 200: 62160
++++Route 3+++
+Customer 13: 3720
+Customer 15: 5520
+Customer 14: 6480
+Customer 37: 7500
+Customer 31: 8359.134545454546
+Customer 26: 9112.467272727274
+Customer 39: 9900
+Customer 48: 11220
+Customer 41: 12300
+Customer 47: 14040
+Customer 67: 15720
+Customer 61: 16306.723636363637
+Customer 65: 17100
+Customer 75: 19500
+Customer 70: 20340
+Customer 71: 21180
+Customer 89: 22980
+Customer 80: 24120
+Customer 86: 25140
+Customer 95: 28500
+Customer 101: 30360
+Customer 108: 33420
+Customer 115: 34320
+Customer 107: 35460
+Customer 121: 36600
+Customer 130: 40680
+Customer 137: 41580
+Customer 129: 42600
+Customer 149: 43509.83454545455
+Customer 158: 46920
+Customer 154: 49980
+Customer 163: 50580
+Customer 169: 54060
+Customer 171: 55560
+Customer 181: 56220
+Customer 170: 56819.17636363636
+Customer 195: 60000
+Customer 192: 60900
++++Route 4+++
+Customer 10: 3900
+Customer 18: 5220
+Customer 8: 5736.578181818182
+Customer 9: 7020
+Customer 33: 8040
+Customer 30: 10500
+Customer 49: 11040
+Customer 57: 12540
+Customer 50: 13860
+Customer 60: 15900
+Customer 59: 17580
+Customer 100: 28980
+Customer 97: 30900
+Customer 116: 35400
+Customer 109: 35949.43090909091
+Customer 143: 40620
+Customer 140: 41142.46363636364
+Customer 132: 42600
+Customer 155: 49680
+Customer 160: 50760
+Customer 182: 55200
+Customer 180: 55765.34181818182
+Customer 167: 56760
+Customer 178: 57540
+Customer 190: 60420
++++Route 5+++
+Customer 12: 5700
+Customer 20: 6540
+Customer 19: 7068.692727272727
+Customer 27: 7620
+Customer 32: 9780
+Customer 54: 13200
+Customer 45: 14280
+Customer 103: 30900
+Customer 135: 40140
+Customer 133: 40740
+Customer 186: 54840
+Customer 168: 56040
+Customer 193: 59820
++++Route 6+++
+Customer 22: 6180
+Customer 56: 13440
+Customer 43: 13920
+Customer 173: 54600
+Customer 183: 55200
++++Route 7+++
+Customer 53: 12840
+======Vehicle 4======
+Total distance: 87425.83999999998
+No of vehicle: 7
+Initial solution found.
++++Route 1+++
+Customer 3: 780
+Customer 11: 6060
+Customer 53: 13320
+Customer 85: 24720
+Customer 180: 56185
+Customer 172: 57600
+Customer 189: 60000
+Customer 198: 64384
++++Route 2+++
+Customer 1: 2220
+Customer 21: 6840
+Customer 40: 8040
+Customer 90: 25380
+Customer 98: 32310
+Customer 123: 37440
+Customer 138: 40980
+Customer 165: 51120
++++Route 3+++
+Customer 2: 2700
+Customer 15: 6000
+Customer 26: 9532
+Customer 32: 10260
+Customer 125: 43197
+Customer 129: 43567.516363636365
+Customer 151: 51002
+Customer 191: 61020
++++Route 4+++
+Customer 5: 3223
+Customer 6: 4680
+Customer 18: 5640
+Customer 8: 6157
+Customer 61: 16787
+Customer 139: 41267
+Customer 127: 41553.97454545455
+Customer 128: 41837.75272727273
+Customer 146: 44400
++++Route 5+++
+Customer 4: 3720
+Customer 28: 9780
+Customer 55: 12240
+Customer 74: 21540
+Customer 131: 43644
+Customer 187: 54960
+Customer 184: 55395
+Customer 188: 60840
++++Route 6+++
+Customer 13: 4140
+Customer 14: 6960
+Customer 19: 7489
+Customer 27: 8100
+Customer 31: 8779
+Customer 51: 14476
+Customer 102: 29880
+Customer 117: 34920
+Customer 126: 42540
++++Route 7+++
+Customer 10: 4320
+Customer 35: 9900
+Customer 30: 10980
+Customer 34: 11475
+Customer 36: 11730.49090909091
+Customer 66: 18300
+Customer 142: 42442
+Customer 136: 43200
++++Route 8+++
+Customer 7: 4323
+Customer 16: 5400
+Customer 29: 8501
+Customer 42: 13740
+Customer 63: 16800
+Customer 118: 35220
+Customer 141: 40200
+Customer 145: 46380
++++Route 9+++
+Customer 17: 5336
+Customer 12: 6120
+Customer 45: 14700
+Customer 79: 20484
+Customer 78: 20748.0
+Customer 113: 33900
+Customer 110: 36464
+Customer 119: 39240
++++Route 10+++
+Customer 23: 6108
+Customer 22: 6650.329090909091
+Customer 58: 18300
+Customer 86: 25560
+Customer 96: 28020
+Customer 111: 36000
+Customer 174: 56280
++++Route 11+++
+Customer 20: 6960
+Customer 60: 16380
+Customer 76: 20016
+Customer 104: 30840
+Customer 134: 40200
+Customer 148: 46200
+Customer 177: 56745
+Customer 192: 61320
++++Route 12+++
+Customer 9: 7440
+Customer 48: 11700
+Customer 95: 28920
+Customer 121: 37080
+Customer 130: 41160
+Customer 137: 42000
+Customer 132: 43020
+Customer 147: 44640
++++Route 13+++
+Customer 38: 7740
+Customer 72: 22235
+Customer 87: 23899
+Customer 82: 24097.545454545456
+Customer 105: 31860
+Customer 160: 51180
+Customer 179: 56094
+Customer 190: 60900
++++Route 14+++
+Customer 37: 7980
+Customer 39: 10380
+Customer 41: 12780
+Customer 77: 20689
+Customer 84: 24060
+Customer 80: 24600
+Customer 93: 29040
+Customer 144: 47100
+Customer 181: 56640
++++Route 15+++
+Customer 33: 8460
+Customer 24: 10920
+Customer 52: 12900
+Customer 44: 14220
+Customer 83: 25293
+Customer 99: 31680
+Customer 182: 55620
++++Route 16+++
+Customer 25: 8880
+Customer 62: 17280
+Customer 71: 21660
+Customer 97: 31320
+Customer 116: 35880
+Customer 157: 48060
+Customer 152: 50220
+Customer 167: 57240
+Customer 194: 58740
++++Route 17+++
+Customer 49: 11520
+Customer 50: 14340
+Customer 100: 29400
+Customer 143: 41040
+Customer 149: 43930
+Customer 155: 50160
+Customer 161: 52620
+Customer 178: 57960
++++Route 18+++
+Customer 46: 12540
+Customer 47: 14520
+Customer 158: 47340
+Customer 159: 49560
+Customer 162: 52980
+Customer 176: 55440
+Customer 200: 62640
+Customer 197: 62816.509090909094
++++Route 19+++
+Customer 57: 13020
+Customer 64: 15480
+Customer 65: 17520
+Customer 122: 36480
+Customer 164: 52020
+Customer 175: 54660
+Customer 171: 56040
+Customer 195: 60480
++++Route 20+++
+Customer 54: 13680
+Customer 67: 16200
+Customer 59: 18060
+Customer 75: 19920
+Customer 91: 26700
+Customer 101: 30840
+Customer 107: 35940
+Customer 124: 38700
+Customer 120: 39360
++++Route 21+++
+Customer 56: 13860
+Customer 73: 19207
+Customer 70: 20820
+Customer 153: 50183
+Customer 186: 55260
+Customer 173: 55522.28727272727
+Customer 170: 57239
+Customer 196: 63372
++++Route 22+++
+Customer 43: 14400
+Customer 68: 15180
+Customer 150: 48480
+Customer 163: 51000
+Customer 168: 56460
+Customer 193: 60240
+Customer 199: 65338
++++Route 23+++
+Customer 69: 21540
+Customer 89: 23460
+Customer 92: 28200
+Customer 103: 31380
+Customer 108: 33840
+Customer 115: 34800
+Customer 156: 47880
+Customer 185: 57540
++++Route 24+++
+Customer 81: 22260
+Customer 106: 30720
+Customer 112: 33240
+Customer 114: 33905
+Customer 109: 36369
+Customer 135: 40560
+Customer 133: 41160
+Customer 169: 54480
++++Route 25+++
+Customer 88: 23280
+Customer 94: 29040
+Customer 140: 41562
+Customer 154: 50400
+Customer 166: 53760
+Customer 183: 55620
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [154, 29, 6, 176, 195, 53, 112, 125, 170, 115, 100, 19, 101, 87, 121, 118, 132, 136, 9, 152, 153, 155, 33, 38, 167, 173, 182, 183, 184, 186, 193, 82, 84, 104, 106, 117]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [54, 67, 59, 75, 91, 34, 36, 66, 142, 136]
+Performing LNS iteration 3
+RPOP
+removed: [15, 51, 79, 101, 99, 147, 38, 198, 93, 50, 84, 2, 180, 130, 174, 161, 133, 8, 138, 11, 139, 12, 143, 82, 23, 87, 94, 95, 104, 105, 106, 43, 44, 171, 47, 179]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [69, 89, 92, 103, 108, 58, 86, 96, 111, 174]
+Performing LNS iteration 5
+RPOP
+removed: [108, 57, 89, 31, 81, 99, 101, 170, 178, 125, 132, 67, 74, 26, 109, 63, 69, 71, 136, 72, 88, 25, 28, 167, 104, 41, 105, 106, 110, 113, 114, 52, 53, 122, 60, 61]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [87, 82, 105, 160, 179, 40, 90, 98, 123, 138]
+Performing LNS iteration 7
+RPOP
+removed: [164, 15, 82, 18, 178, 175, 86, 93, 112, 96, 197, 58, 109, 125, 38, 128, 132, 136, 8, 137, 11, 12, 16, 23, 169, 59, 66, 200, 84, 87, 90, 92, 94, 95, 110, 122]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [15, 26, 32, 125, 129, 10, 35, 30, 34, 36]
+Performing LNS iteration 9
+RPOP
+removed: [21, 133, 200, 40, 93, 165, 79, 189, 96, 175, 16, 135, 8, 101, 171, 152, 130, 11, 12, 139, 14, 143, 17, 20, 23, 151, 153, 155, 27, 160, 163, 37, 179, 94, 95, 104]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [158, 159, 162, 176, 200, 65, 122, 164, 175, 171]
+Improved solution found.
++++Route 1+++
+Customer 3: 780
+Customer 11: 6060
+Customer 53: 13320
+Customer 85: 24720
+Customer 180: 56185
+Customer 172: 57600
+Customer 189: 60000
+Customer 198: 64384
++++Route 2+++
+Customer 1: 2220
+Customer 21: 6840
+Customer 40: 8040
+Customer 90: 25380
+Customer 98: 32310
+Customer 123: 37440
+Customer 138: 40980
+Customer 165: 51120
++++Route 3+++
+Customer 2: 2700
+Customer 15: 6000
+Customer 26: 9532
+Customer 32: 10260
+Customer 125: 43197
+Customer 129: 43567.516363636365
+Customer 151: 51002
+Customer 191: 61020
++++Route 4+++
+Customer 5: 3223
+Customer 6: 4680
+Customer 18: 5640
+Customer 8: 6157
+Customer 61: 16787
+Customer 139: 41267
+Customer 127: 41553.97454545455
+Customer 128: 41837.75272727273
+Customer 146: 44400
++++Route 5+++
+Customer 4: 3720
+Customer 28: 9780
+Customer 55: 12240
+Customer 74: 21540
+Customer 131: 43644
+Customer 187: 54960
+Customer 184: 55395
+Customer 188: 60840
++++Route 6+++
+Customer 13: 4140
+Customer 14: 6960
+Customer 19: 7489
+Customer 27: 8100
+Customer 31: 8779
+Customer 51: 14476
+Customer 102: 29880
+Customer 117: 34920
+Customer 126: 42540
++++Route 7+++
+Customer 10: 4320
+Customer 35: 9900
+Customer 30: 10980
+Customer 34: 11475
+Customer 36: 11730.49090909091
+Customer 66: 18300
+Customer 142: 42442
+Customer 136: 43200
++++Route 8+++
+Customer 7: 4323
+Customer 16: 5400
+Customer 29: 8501
+Customer 42: 13740
+Customer 63: 16800
+Customer 118: 35220
+Customer 141: 40200
+Customer 145: 46380
++++Route 9+++
+Customer 17: 5336
+Customer 12: 6120
+Customer 45: 14700
+Customer 79: 20484
+Customer 78: 20748.0
+Customer 113: 33900
+Customer 110: 36464
+Customer 119: 39240
++++Route 10+++
+Customer 23: 6108
+Customer 22: 6650.329090909091
+Customer 58: 18300
+Customer 86: 25560
+Customer 96: 28020
+Customer 111: 36000
+Customer 174: 56280
++++Route 11+++
+Customer 20: 6960
+Customer 60: 16380
+Customer 76: 20016
+Customer 104: 30840
+Customer 134: 40200
+Customer 148: 46200
+Customer 177: 56745
+Customer 192: 61320
++++Route 12+++
+Customer 9: 7440
+Customer 48: 11700
+Customer 95: 28920
+Customer 121: 37080
+Customer 130: 41160
+Customer 137: 42000
+Customer 132: 43020
+Customer 147: 44640
++++Route 13+++
+Customer 38: 7740
+Customer 72: 22235
+Customer 87: 23899
+Customer 82: 24097.545454545456
+Customer 105: 31860
+Customer 160: 51180
+Customer 179: 56094
+Customer 190: 60900
++++Route 14+++
+Customer 37: 7980
+Customer 39: 10380
+Customer 41: 12780
+Customer 77: 20689
+Customer 84: 24060
+Customer 80: 24600
+Customer 93: 29040
+Customer 144: 47100
+Customer 181: 56640
++++Route 15+++
+Customer 33: 8460
+Customer 24: 10920
+Customer 52: 12900
+Customer 44: 14220
+Customer 83: 25293
+Customer 99: 31680
+Customer 182: 55620
++++Route 16+++
+Customer 25: 8880
+Customer 62: 17280
+Customer 71: 21660
+Customer 97: 31320
+Customer 116: 35880
+Customer 157: 48060
+Customer 152: 50220
+Customer 167: 57240
+Customer 194: 58740
++++Route 17+++
+Customer 49: 11520
+Customer 50: 14340
+Customer 100: 29400
+Customer 143: 41040
+Customer 149: 43930
+Customer 155: 50160
+Customer 161: 52620
+Customer 178: 57960
++++Route 18+++
+Customer 46: 12540
+Customer 47: 14520
+Customer 158: 47340
+Customer 159: 49560
+Customer 162: 52980
+Customer 176: 55440
+Customer 200: 62640
+Customer 197: 62816.509090909094
++++Route 19+++
+Customer 57: 13020
+Customer 64: 15480
+Customer 65: 17520
+Customer 122: 36480
+Customer 164: 52020
+Customer 175: 54660
+Customer 171: 56040
+Customer 195: 60480
++++Route 20+++
+Customer 54: 13680
+Customer 67: 16200
+Customer 59: 18060
+Customer 75: 19920
+Customer 91: 26700
+Customer 101: 30840
+Customer 107: 35940
+Customer 124: 38700
+Customer 120: 39360
++++Route 21+++
+Customer 56: 13860
+Customer 73: 19207
+Customer 70: 20820
+Customer 153: 50183
+Customer 186: 55260
+Customer 173: 55522.28727272727
+Customer 170: 57239
+Customer 196: 63372
++++Route 22+++
+Customer 43: 14400
+Customer 68: 15180
+Customer 150: 48480
+Customer 163: 51000
+Customer 168: 56460
+Customer 193: 60240
+Customer 199: 65338
++++Route 23+++
+Customer 69: 21540
+Customer 89: 23460
+Customer 92: 28200
+Customer 103: 31380
+Customer 108: 33840
+Customer 115: 34800
+Customer 156: 47880
+Customer 185: 57540
++++Route 24+++
+Customer 81: 22260
+Customer 106: 30720
+Customer 112: 33240
+Customer 114: 33905
+Customer 109: 36369
+Customer 135: 40560
+Customer 133: 41160
+Customer 169: 54480
++++Route 25+++
+Customer 88: 23280
+Customer 94: 29040
+Customer 140: 41562
+Customer 154: 50400
+Customer 166: 53760
+Customer 183: 55620
+======Vehicle 5======
+Total distance: 52163.460000000014
+No of vehicle: 25
+Initial solution found.
++++Route 1+++
+Customer 3: 1020
+Customer 2: 3240
+Customer 5: 3960.8618181818183
+Customer 7: 4796.607272727273
+Customer 10: 5362.925454545455
+Customer 16: 6164.361818181818
+Customer 11: 6787.489090909091
+Customer 38: 8280
+Customer 33: 9072.823636363637
+Customer 25: 9714.016363636365
+Customer 28: 10320
+Customer 24: 11460
+Customer 55: 12720
+Customer 52: 13440
+Customer 53: 14158.718181818182
+Customer 44: 14783.001818181818
+Customer 43: 15683.279999999999
+Customer 63: 17340
+Customer 62: 18136.78909090909
+Customer 66: 18872.519999999997
+Customer 76: 20256
+Customer 70: 21300
+Customer 71: 22140
+Customer 72: 22748.37818181818
+Customer 81: 23252.37818181818
+Customer 88: 23879.66727272727
+Customer 87: 24540.81818181818
+Customer 85: 25260
+Customer 83: 25952.79272727273
+Customer 91: 27035.460000000003
+Customer 92: 28740
+Customer 94: 29520
+Customer 100: 30086.31818181818
+Customer 106: 31200
+Customer 97: 31860
+Customer 99: 32545.83818181818
+Customer 112: 33780
+Customer 114: 34565.23090909091
+Customer 115: 35280
+Customer 116: 36360
+Customer 109: 36909.43090909091
+Customer 121: 37563.76909090909
+Customer 124: 38940
+Customer 120: 39900
+Customer 135: 41100
+Customer 133: 41729.498181818184
+Customer 140: 42350.71636363637
+Customer 132: 43560
+Customer 149: 44321.972727272725
+Customer 147: 45304.21636363636
+Customer 145: 46920
+Customer 157: 48600
+Customer 152: 50460
+Customer 154: 51149.012727272726
+Customer 160: 51815.50909090909
+Customer 161: 53100
+Customer 162: 53870.37272727273
+Customer 166: 54642.56727272727
+Customer 169: 55503.24
+Customer 180: 56425
+Customer 167: 57720
+Customer 172: 58249.74545454545
+Customer 178: 58895.90727272727
+Customer 194: 59572.112727272724
+Customer 189: 60240
+Customer 190: 61380
+Customer 192: 62508.62181818182
+Customer 200: 63213.99272727273
+Customer 196: 63776.4
+Customer 198: 64848.987272727274
+Customer 199: 65862.92727272728
++++Route 2+++
+Customer 1: 2760
+Customer 4: 4260
+Customer 17: 5576
+Customer 23: 6407.3436363636365
+Customer 21: 7320
+Customer 40: 8280
+Customer 29: 8801.018181818183
+Customer 35: 10380
+Customer 30: 11460
+Customer 36: 11975.563636363637
+Customer 49: 12541.881818181819
+Customer 41: 13260
+Customer 42: 14411.312727272727
+Customer 45: 15240
+Customer 64: 16072.2
+Customer 60: 16860
+Customer 61: 17357.072727272727
+Customer 65: 18060
+Customer 58: 18836.443636363638
+Customer 79: 20724
+Customer 78: 21228.0
+Customer 74: 22216.276363636363
+Customer 82: 24218
+Customer 80: 25148.938181818183
+Customer 90: 26096.780000000002
+Customer 96: 28260
+Customer 95: 29264.078181818182
+Customer 93: 30085.025454545455
+Customer 102: 30717.987272727274
+Customer 104: 31380
+Customer 98: 32550
+Customer 113: 34140
+Customer 118: 35700
+Customer 111: 36540
+Customer 110: 37123.832727272726
+Customer 123: 37960.84909090909
+Customer 119: 39480
+Customer 141: 40471.538181818185
+Customer 138: 41520
+Customer 142: 42682
+Customer 136: 43740
+Customer 146: 44640
+Customer 148: 46740
+Customer 144: 47580
+Customer 158: 48162.829090909094
+Customer 150: 49020
+Customer 159: 50040
+Customer 151: 51242
+Customer 165: 52087.80909090909
+Customer 164: 53035.32909090909
+Customer 184: 55635
+Customer 182: 56299.19454545454
+Customer 177: 57422.645454545454
+Customer 185: 58080
+Customer 195: 60960
+Customer 188: 61923.387272727276
+Customer 197: 63057
++++Route 3+++
+Customer 13: 4680
+Customer 6: 5353.483636363637
+Customer 18: 6180
+Customer 15: 6947.847272727273
+Customer 14: 7540.832727272727
+Customer 19: 8134.947272727273
+Customer 37: 8810.59090909091
+Customer 26: 9772
+Customer 32: 10740
+Customer 34: 11715
+Customer 48: 12318.261818181818
+Customer 46: 13081.363636363636
+Customer 57: 13780.39090909091
+Customer 56: 14400
+Customer 47: 15200.629090909091
+Customer 68: 15817.183636363638
+Customer 67: 16680
+Customer 59: 18540
+Customer 73: 19447
+Customer 75: 20460
+Customer 77: 21057.987272727274
+Customer 69: 22020
+Customer 89: 23940
+Customer 84: 24659.77090909091
+Customer 86: 26100
+Customer 101: 31320
+Customer 103: 31881.109090909093
+Customer 105: 32603.66181818182
+Customer 108: 34380
+Customer 117: 35400
+Customer 107: 36420
+Customer 122: 37014.33818181818
+Customer 139: 41507
+Customer 128: 42078
+Customer 125: 43437
+Customer 156: 48420
+Customer 153: 50423
+Customer 163: 51540
+Customer 175: 55200
+Customer 176: 55838.274545454544
+Customer 171: 56520
+Customer 181: 57180
+Customer 170: 57899.17636363636
+Customer 193: 60780
+Customer 191: 61742.42181818182
++++Route 4+++
+Customer 8: 6397
+Customer 12: 6915.465454545454
+Customer 22: 7527.563636363636
+Customer 27: 8580
+Customer 31: 9148.789090909091
+Customer 39: 10860
+Customer 51: 14716
+Customer 134: 40440
+Customer 127: 41794
+Customer 126: 43020
+Customer 129: 43748
+Customer 155: 50640
+Customer 173: 55702
+Customer 174: 56820
+Customer 168: 57697.32
++++Route 5+++
+Customer 20: 7200
+Customer 9: 8107.02
+Customer 54: 14160
+Customer 50: 14944.336363636363
+Customer 143: 41580
+Customer 137: 42286.04727272727
+Customer 131: 43884
+Customer 187: 55440
+Customer 179: 56334
++++Route 6+++
+Customer 130: 41640
+Customer 186: 55800
+Customer 183: 56400.567272727276
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [118, 64, 159, 86, 27, 44, 195, 156, 141, 53, 52, 7, 40, 172, 129, 11, 131, 132, 134, 136, 9, 12, 13, 15, 19, 157, 29, 38, 41, 50, 51, 54, 185, 193, 83, 90]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [124, 120, 135, 133, 140, 107, 122, 139, 128, 125]
+Performing LNS iteration 3
+RPOP
+removed: [169, 3, 62, 90, 191, 47, 49, 104, 60, 54, 29, 52, 111, 105, 184, 193, 37, 41, 45, 173, 53, 55, 186, 187, 188, 65, 67, 195, 83, 86, 98, 99, 101, 106, 107, 116]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [160, 161, 162, 166, 169, 151, 165, 164, 184, 182]
+Performing LNS iteration 5
+RPOP
+removed: [190, 125, 60, 83, 35, 46, 102, 84, 33, 176, 152, 108, 25, 119, 53, 47, 132, 153, 26, 155, 28, 31, 41, 42, 45, 173, 54, 56, 184, 186, 67, 86, 87, 90, 113, 114]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [72, 81, 88, 87, 85, 77, 69, 89, 84, 86]
+Performing LNS iteration 7
+RPOP
+removed: [79, 173, 48, 130, 49, 65, 42, 41, 200, 166, 114, 123, 196, 19, 77, 57, 133, 9, 138, 139, 143, 38, 40, 169, 46, 176, 52, 55, 184, 56, 186, 62, 197, 78, 108, 127]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [98, 113, 118, 111, 110, 105, 108, 117, 107, 122]
+Performing LNS iteration 9
+RPOP
+removed: [58, 12, 10, 106, 73, 23, 91, 109, 127, 187, 4, 69, 160, 68, 148, 173, 66, 130, 133, 6, 71, 8, 74, 11, 15, 143, 145, 101, 104, 169, 186, 43, 110, 176, 184, 122]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [45, 64, 60, 61, 65, 47, 68, 67, 59, 73]
+Improved solution found.
++++Route 1+++
+Customer 3: 1020
+Customer 2: 3240
+Customer 5: 3960.8618181818183
+Customer 7: 4796.607272727273
+Customer 10: 5362.925454545455
+Customer 16: 6164.361818181818
+Customer 11: 6787.489090909091
+Customer 38: 8280
+Customer 33: 9072.823636363637
+Customer 25: 9714.016363636365
+Customer 28: 10320
+Customer 24: 11460
+Customer 55: 12720
+Customer 52: 13440
+Customer 53: 14158.718181818182
+Customer 44: 14783.001818181818
+Customer 43: 15683.279999999999
+Customer 63: 17340
+Customer 62: 18136.78909090909
+Customer 66: 18872.519999999997
+Customer 76: 20256
+Customer 70: 21300
+Customer 71: 22140
+Customer 72: 22748.37818181818
+Customer 81: 23252.37818181818
+Customer 88: 23879.66727272727
+Customer 87: 24540.81818181818
+Customer 85: 25260
+Customer 83: 25952.79272727273
+Customer 91: 27035.460000000003
+Customer 92: 28740
+Customer 94: 29520
+Customer 100: 30086.31818181818
+Customer 106: 31200
+Customer 97: 31860
+Customer 99: 32545.83818181818
+Customer 112: 33780
+Customer 114: 34565.23090909091
+Customer 115: 35280
+Customer 116: 36360
+Customer 109: 36909.43090909091
+Customer 121: 37563.76909090909
+Customer 124: 38940
+Customer 120: 39900
+Customer 135: 41100
+Customer 133: 41729.498181818184
+Customer 140: 42350.71636363637
+Customer 132: 43560
+Customer 149: 44321.972727272725
+Customer 147: 45304.21636363636
+Customer 145: 46920
+Customer 157: 48600
+Customer 152: 50460
+Customer 154: 51149.012727272726
+Customer 160: 51815.50909090909
+Customer 161: 53100
+Customer 162: 53870.37272727273
+Customer 166: 54642.56727272727
+Customer 169: 55503.24
+Customer 180: 56425
+Customer 167: 57720
+Customer 172: 58249.74545454545
+Customer 178: 58895.90727272727
+Customer 194: 59572.112727272724
+Customer 189: 60240
+Customer 190: 61380
+Customer 192: 62508.62181818182
+Customer 200: 63213.99272727273
+Customer 196: 63776.4
+Customer 198: 64848.987272727274
+Customer 199: 65862.92727272728
++++Route 2+++
+Customer 1: 2760
+Customer 4: 4260
+Customer 17: 5576
+Customer 23: 6407.3436363636365
+Customer 21: 7320
+Customer 40: 8280
+Customer 29: 8801.018181818183
+Customer 35: 10380
+Customer 30: 11460
+Customer 36: 11975.563636363637
+Customer 49: 12541.881818181819
+Customer 41: 13260
+Customer 42: 14411.312727272727
+Customer 45: 15240
+Customer 64: 16072.2
+Customer 60: 16860
+Customer 61: 17357.072727272727
+Customer 65: 18060
+Customer 58: 18836.443636363638
+Customer 79: 20724
+Customer 78: 21228.0
+Customer 74: 22216.276363636363
+Customer 82: 24218
+Customer 80: 25148.938181818183
+Customer 90: 26096.780000000002
+Customer 96: 28260
+Customer 95: 29264.078181818182
+Customer 93: 30085.025454545455
+Customer 102: 30717.987272727274
+Customer 104: 31380
+Customer 98: 32550
+Customer 113: 34140
+Customer 118: 35700
+Customer 111: 36540
+Customer 110: 37123.832727272726
+Customer 123: 37960.84909090909
+Customer 119: 39480
+Customer 141: 40471.538181818185
+Customer 138: 41520
+Customer 142: 42682
+Customer 136: 43740
+Customer 146: 44640
+Customer 148: 46740
+Customer 144: 47580
+Customer 158: 48162.829090909094
+Customer 150: 49020
+Customer 159: 50040
+Customer 151: 51242
+Customer 165: 52087.80909090909
+Customer 164: 53035.32909090909
+Customer 184: 55635
+Customer 182: 56299.19454545454
+Customer 177: 57422.645454545454
+Customer 185: 58080
+Customer 195: 60960
+Customer 188: 61923.387272727276
+Customer 197: 63057
++++Route 3+++
+Customer 13: 4680
+Customer 6: 5353.483636363637
+Customer 18: 6180
+Customer 15: 6947.847272727273
+Customer 14: 7540.832727272727
+Customer 19: 8134.947272727273
+Customer 37: 8810.59090909091
+Customer 26: 9772
+Customer 32: 10740
+Customer 34: 11715
+Customer 48: 12318.261818181818
+Customer 46: 13081.363636363636
+Customer 57: 13780.39090909091
+Customer 56: 14400
+Customer 47: 15200.629090909091
+Customer 68: 15817.183636363638
+Customer 67: 16680
+Customer 59: 18540
+Customer 73: 19447
+Customer 75: 20460
+Customer 77: 21057.987272727274
+Customer 69: 22020
+Customer 89: 23940
+Customer 84: 24659.77090909091
+Customer 86: 26100
+Customer 101: 31320
+Customer 103: 31881.109090909093
+Customer 105: 32603.66181818182
+Customer 108: 34380
+Customer 117: 35400
+Customer 107: 36420
+Customer 122: 37014.33818181818
+Customer 139: 41507
+Customer 128: 42078
+Customer 125: 43437
+Customer 156: 48420
+Customer 153: 50423
+Customer 163: 51540
+Customer 175: 55200
+Customer 176: 55838.274545454544
+Customer 171: 56520
+Customer 181: 57180
+Customer 170: 57899.17636363636
+Customer 193: 60780
+Customer 191: 61742.42181818182
++++Route 4+++
+Customer 8: 6397
+Customer 12: 6915.465454545454
+Customer 22: 7527.563636363636
+Customer 27: 8580
+Customer 31: 9148.789090909091
+Customer 39: 10860
+Customer 51: 14716
+Customer 134: 40440
+Customer 127: 41794
+Customer 126: 43020
+Customer 129: 43748
+Customer 155: 50640
+Customer 173: 55702
+Customer 174: 56820
+Customer 168: 57697.32
++++Route 5+++
+Customer 20: 7200
+Customer 9: 8107.02
+Customer 54: 14160
+Customer 50: 14944.336363636363
+Customer 143: 41580
+Customer 137: 42286.04727272727
+Customer 131: 43884
+Customer 187: 55440
+Customer 179: 56334
++++Route 6+++
+Customer 130: 41640
+Customer 186: 55800
+Customer 183: 56400.567272727276
+======Vehicle 6======
+Total distance: 84906.01
+No of vehicle: 6
+Initial solution found.
++++Route 1+++
+Customer 3: 360
+Customer 11: 5640
+Customer 25: 8880
+Customer 28: 9360
+Customer 55: 12240
+Customer 52: 12704.318181818182
+Customer 42: 13740
+Customer 118: 35220
+Customer 123: 37020
+Customer 138: 40560
+Customer 165: 51120
+Customer 188: 60420
++++Route 2+++
+Customer 1: 1800
+Customer 21: 6840
+Customer 40: 7620
+Customer 63: 16380
+Customer 90: 24960
+Customer 98: 31680
+Customer 142: 41520
+Customer 136: 42780
+Customer 187: 54960
+Customer 184: 55335.490909090906
++++Route 3+++
+Customer 2: 2280
+Customer 43: 14400
+Customer 69: 21540
+Customer 89: 23460
+Customer 103: 31380
+Customer 108: 33420
+Customer 115: 34800
+Customer 107: 35940
+Customer 122: 36480
+Customer 110: 37024.38545454545
+Customer 128: 41220
+Customer 126: 42540
+Customer 191: 60600
++++Route 4+++
+Customer 5: 2700
+Customer 6: 4680
+Customer 54: 13680
+Customer 60: 16380
+Customer 61: 16757.072727272727
+Customer 76: 19140
+Customer 78: 20040
+Customer 79: 20424.0
+Customer 102: 29880
+Customer 117: 34920
+Customer 146: 43980
++++Route 5+++
+Customer 4: 3300
+Customer 33: 8040
+Customer 24: 10500
+Customer 44: 14220
+Customer 83: 24600
+Customer 99: 31260
+Customer 112: 32820
+Customer 141: 39780
+Customer 182: 55200
+Customer 198: 63720
++++Route 6+++
+Customer 13: 3720
+Customer 15: 6000
+Customer 14: 6960
+Customer 64: 15480
+Customer 59: 18060
+Customer 65: 18494.4
+Customer 84: 24060
+Customer 80: 24600
+Customer 93: 29040
+Customer 120: 38940
+Customer 144: 47100
+Customer 175: 54240
+Customer 171: 56040
+Customer 174: 56514.86181818182
++++Route 7+++
+Customer 7: 3840
+Customer 36: 10620
+Customer 34: 10995.49090909091
+Customer 72: 21480
+Customer 94: 29040
+Customer 106: 30720
+Customer 116: 35880
+Customer 157: 47640
+Customer 167: 57240
+Customer 172: 57649.74545454545
+Customer 190: 60900
++++Route 8+++
+Customer 10: 3900
+Customer 35: 9900
+Customer 49: 11520
+Customer 50: 14340
+Customer 100: 28980
+Customer 143: 40620
+Customer 149: 43440
+Customer 155: 50160
+Customer 161: 52620
+Customer 169: 54060
+Customer 189: 59580
++++Route 9+++
+Customer 17: 4800
+Customer 12: 5700
+Customer 22: 6180
+Customer 31: 7920
+Customer 51: 13500
+Customer 45: 14280
+Customer 67: 16200
+Customer 58: 18300
+Customer 86: 25140
+Customer 96: 27600
++++Route 10+++
+Customer 16: 4980
+Customer 23: 5577.9
+Customer 66: 17880
+Customer 74: 21120
+Customer 71: 21660
+Customer 81: 22260
+Customer 85: 24300
+Customer 97: 30900
+Customer 131: 42240
+Customer 145: 45960
++++Route 11+++
+Customer 8: 5220
+Customer 104: 30420
+Customer 113: 33480
+Customer 111: 35580
+Customer 119: 38820
+Customer 139: 40620
+Customer 127: 41026.97454545455
+Customer 147: 44220
+Customer 195: 60480
++++Route 12+++
+Customer 18: 5220
+Customer 19: 6840
+Customer 27: 8100
+Customer 32: 10260
+Customer 134: 39780
+Customer 129: 42600
+Customer 148: 45780
+Customer 151: 50100
+Customer 177: 55920
+Customer 192: 60900
++++Route 13+++
+Customer 20: 6540
+Customer 46: 12120
+Customer 47: 14520
+Customer 75: 19500
+Customer 101: 30840
+Customer 125: 41700
+Customer 159: 49560
+Customer 164: 51600
+Customer 181: 56220
+Customer 197: 62340
+Customer 200: 62756.30181818182
++++Route 14+++
+Customer 9: 7020
+Customer 37: 7980
+Customer 39: 10380
+Customer 41: 12780
+Customer 57: 13177.44
+Customer 124: 38280
+Customer 132: 42600
+Customer 137: 42997.44
+Customer 156: 47460
+Customer 170: 56340
+Customer 196: 62940
++++Route 15+++
+Customer 38: 7320
+Customer 30: 10980
+Customer 53: 13320
+Customer 62: 17280
+Customer 133: 40740
+Customer 135: 41188.44
+Customer 152: 49800
+Customer 179: 55080
+Customer 180: 55493.25818181818
+Customer 194: 58320
++++Route 16+++
+Customer 29: 7380
+Customer 48: 11700
+Customer 82: 23460
+Customer 87: 23838.545454545456
+Customer 105: 31440
+Customer 114: 33060
+Customer 109: 35880
+Customer 140: 41040
+Customer 160: 50760
++++Route 17+++
+Customer 26: 8400
+Customer 68: 14760
+Customer 77: 19740
+Customer 70: 20820
+Customer 91: 26280
+Customer 158: 46920
+Customer 162: 52560
+Customer 176: 55020
+Customer 185: 57120
++++Route 18+++
+Customer 56: 13440
+Customer 88: 22860
+Customer 92: 27780
+Customer 95: 28500
+Customer 121: 37080
+Customer 130: 41160
+Customer 150: 48060
+Customer 163: 50580
+Customer 168: 56040
+Customer 193: 59820
+Customer 199: 64740
++++Route 19+++
+Customer 73: 18240
+Customer 153: 49500
+Customer 154: 49980
+Customer 166: 53340
+Customer 186: 54840
+Customer 173: 55282.28727272727
+Customer 183: 55778.159999999996
+Customer 178: 57540
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [43, 164, 148, 1, 141, 194, 45, 37, 116, 41, 77, 131, 120, 145, 179, 196, 134, 200, 75, 78, 27, 31, 33, 107, 44, 109, 173, 47, 176, 111, 50, 52, 182, 119, 184, 187]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [34, 72, 94, 106, 116, 84, 80, 93, 120, 144]
+Performing LNS iteration 3
+RPOP
+removed: [177, 56, 153, 110, 69, 170, 118, 152, 67, 64, 144, 32, 194, 99, 128, 126, 129, 130, 132, 135, 154, 159, 39, 168, 171, 174, 51, 53, 181, 183, 63, 71, 72, 103, 121, 123]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [132, 137, 156, 170, 196, 106, 116, 157, 167, 172]
+Performing LNS iteration 5
+RPOP
+removed: [164, 78, 71, 9, 120, 68, 24, 115, 127, 57, 36, 53, 191, 10, 196, 119, 128, 130, 7, 135, 140, 13, 14, 19, 21, 32, 39, 47, 51, 56, 188, 195, 69, 72, 200, 117]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [38, 30, 53, 62, 133, 39, 41, 57, 124, 132]
+Performing LNS iteration 7
+RPOP
+removed: [159, 138, 76, 149, 32, 85, 154, 157, 133, 119, 171, 42, 162, 61, 13, 5, 7, 10, 139, 143, 151, 152, 153, 24, 155, 156, 161, 39, 168, 177, 51, 181, 54, 183, 120, 127]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [32, 134, 129, 148, 151, 57, 124, 132, 137, 156]
+Performing LNS iteration 9
+RPOP
+removed: [168, 171, 31, 170, 140, 112, 124, 20, 128, 12, 116, 57, 16, 172, 92, 165, 130, 135, 8, 11, 18, 23, 27, 96, 33, 37, 107, 109, 174, 177, 178, 114, 181, 53, 183, 127]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [118, 123, 138, 165, 188, 50, 100, 143, 149, 155]
+Improved solution found.
++++Route 1+++
+Customer 3: 360
+Customer 11: 5640
+Customer 25: 8880
+Customer 28: 9360
+Customer 55: 12240
+Customer 52: 12704.318181818182
+Customer 42: 13740
+Customer 118: 35220
+Customer 123: 37020
+Customer 138: 40560
+Customer 165: 51120
+Customer 188: 60420
++++Route 2+++
+Customer 1: 1800
+Customer 21: 6840
+Customer 40: 7620
+Customer 63: 16380
+Customer 90: 24960
+Customer 98: 31680
+Customer 142: 41520
+Customer 136: 42780
+Customer 187: 54960
+Customer 184: 55335.490909090906
++++Route 3+++
+Customer 2: 2280
+Customer 43: 14400
+Customer 69: 21540
+Customer 89: 23460
+Customer 103: 31380
+Customer 108: 33420
+Customer 115: 34800
+Customer 107: 35940
+Customer 122: 36480
+Customer 110: 37024.38545454545
+Customer 128: 41220
+Customer 126: 42540
+Customer 191: 60600
++++Route 4+++
+Customer 5: 2700
+Customer 6: 4680
+Customer 54: 13680
+Customer 60: 16380
+Customer 61: 16757.072727272727
+Customer 76: 19140
+Customer 78: 20040
+Customer 79: 20424.0
+Customer 102: 29880
+Customer 117: 34920
+Customer 146: 43980
++++Route 5+++
+Customer 4: 3300
+Customer 33: 8040
+Customer 24: 10500
+Customer 44: 14220
+Customer 83: 24600
+Customer 99: 31260
+Customer 112: 32820
+Customer 141: 39780
+Customer 182: 55200
+Customer 198: 63720
++++Route 6+++
+Customer 13: 3720
+Customer 15: 6000
+Customer 14: 6960
+Customer 64: 15480
+Customer 59: 18060
+Customer 65: 18494.4
+Customer 84: 24060
+Customer 80: 24600
+Customer 93: 29040
+Customer 120: 38940
+Customer 144: 47100
+Customer 175: 54240
+Customer 171: 56040
+Customer 174: 56514.86181818182
++++Route 7+++
+Customer 7: 3840
+Customer 36: 10620
+Customer 34: 10995.49090909091
+Customer 72: 21480
+Customer 94: 29040
+Customer 106: 30720
+Customer 116: 35880
+Customer 157: 47640
+Customer 167: 57240
+Customer 172: 57649.74545454545
+Customer 190: 60900
++++Route 8+++
+Customer 10: 3900
+Customer 35: 9900
+Customer 49: 11520
+Customer 50: 14340
+Customer 100: 28980
+Customer 143: 40620
+Customer 149: 43440
+Customer 155: 50160
+Customer 161: 52620
+Customer 169: 54060
+Customer 189: 59580
++++Route 9+++
+Customer 17: 4800
+Customer 12: 5700
+Customer 22: 6180
+Customer 31: 7920
+Customer 51: 13500
+Customer 45: 14280
+Customer 67: 16200
+Customer 58: 18300
+Customer 86: 25140
+Customer 96: 27600
++++Route 10+++
+Customer 16: 4980
+Customer 23: 5577.9
+Customer 66: 17880
+Customer 74: 21120
+Customer 71: 21660
+Customer 81: 22260
+Customer 85: 24300
+Customer 97: 30900
+Customer 131: 42240
+Customer 145: 45960
++++Route 11+++
+Customer 8: 5220
+Customer 104: 30420
+Customer 113: 33480
+Customer 111: 35580
+Customer 119: 38820
+Customer 139: 40620
+Customer 127: 41026.97454545455
+Customer 147: 44220
+Customer 195: 60480
++++Route 12+++
+Customer 18: 5220
+Customer 19: 6840
+Customer 27: 8100
+Customer 32: 10260
+Customer 134: 39780
+Customer 129: 42600
+Customer 148: 45780
+Customer 151: 50100
+Customer 177: 55920
+Customer 192: 60900
++++Route 13+++
+Customer 20: 6540
+Customer 46: 12120
+Customer 47: 14520
+Customer 75: 19500
+Customer 101: 30840
+Customer 125: 41700
+Customer 159: 49560
+Customer 164: 51600
+Customer 181: 56220
+Customer 197: 62340
+Customer 200: 62756.30181818182
++++Route 14+++
+Customer 9: 7020
+Customer 37: 7980
+Customer 39: 10380
+Customer 41: 12780
+Customer 57: 13177.44
+Customer 124: 38280
+Customer 132: 42600
+Customer 137: 42997.44
+Customer 156: 47460
+Customer 170: 56340
+Customer 196: 62940
++++Route 15+++
+Customer 38: 7320
+Customer 30: 10980
+Customer 53: 13320
+Customer 62: 17280
+Customer 133: 40740
+Customer 135: 41188.44
+Customer 152: 49800
+Customer 179: 55080
+Customer 180: 55493.25818181818
+Customer 194: 58320
++++Route 16+++
+Customer 29: 7380
+Customer 48: 11700
+Customer 82: 23460
+Customer 87: 23838.545454545456
+Customer 105: 31440
+Customer 114: 33060
+Customer 109: 35880
+Customer 140: 41040
+Customer 160: 50760
++++Route 17+++
+Customer 26: 8400
+Customer 68: 14760
+Customer 77: 19740
+Customer 70: 20820
+Customer 91: 26280
+Customer 158: 46920
+Customer 162: 52560
+Customer 176: 55020
+Customer 185: 57120
++++Route 18+++
+Customer 56: 13440
+Customer 88: 22860
+Customer 92: 27780
+Customer 95: 28500
+Customer 121: 37080
+Customer 130: 41160
+Customer 150: 48060
+Customer 163: 50580
+Customer 168: 56040
+Customer 193: 59820
+Customer 199: 64740
++++Route 19+++
+Customer 73: 18240
+Customer 153: 49500
+Customer 154: 49980
+Customer 166: 53340
+Customer 186: 54840
+Customer 173: 55282.28727272727
+Customer 183: 55778.159999999996
+Customer 178: 57540
+======Vehicle 7======
+Total distance: 44704.97
+No of vehicle: 19
+Initial solution found.
++++Route 1+++
+Customer 3: 360
+Customer 4: 3300
+Customer 28: 9360
+Customer 55: 11760
+Customer 169: 54060
+Customer 189: 59580
++++Route 2+++
+Customer 1: 1800
+Customer 21: 6360
+Customer 90: 24960
+Customer 123: 37020
+Customer 138: 40560
+Customer 165: 50640
++++Route 3+++
+Customer 2: 2280
+Customer 43: 13920
+Customer 68: 14760
+Customer 47: 15020.912727272727
+Customer 60: 15900
+Customer 148: 45780
++++Route 4+++
+Customer 5: 2700
+Customer 65: 17100
+Customer 67: 17190.98181818182
+Customer 80: 24120
+Customer 93: 28560
+Customer 102: 29400
+Customer 126: 42060
++++Route 5+++
+Customer 13: 3720
+Customer 137: 41580
+Customer 150: 48060
+Customer 158: 48253.483636363635
+Customer 200: 62160
+Customer 192: 62505.39818181818
++++Route 6+++
+Customer 7: 3840
+Customer 36: 10620
+Customer 24: 10993.903636363637
+Customer 66: 17880
+Customer 98: 31680
+Customer 188: 60420
++++Route 7+++
+Customer 10: 3900
+Customer 50: 13860
+Customer 143: 40620
+Customer 141: 41004.73090909091
+Customer 182: 55200
+Customer 184: 55444.19454545454
++++Route 8+++
+Customer 6: 4200
+Customer 54: 13200
+Customer 46: 13409.454545454546
+Customer 84: 23580
+Customer 144: 46620
+Customer 181: 56220
+Customer 171: 56287.29818181818
++++Route 9+++
+Customer 17: 4800
+Customer 79: 19980
+Customer 113: 33480
+Customer 119: 38820
+Customer 128: 41220
+Customer 146: 43980
++++Route 10+++
+Customer 16: 4980
+Customer 112: 32820
+Customer 118: 34740
+Customer 136: 42780
+Customer 142: 42855.490909090906
+Customer 187: 54480
++++Route 11+++
+Customer 8: 5220
+Customer 139: 40620
+Customer 129: 42600
+Customer 151: 50100
+Customer 174: 55860
+Customer 191: 60600
++++Route 12+++
+Customer 18: 5220
+Customer 19: 6840
+Customer 122: 36000
+Customer 120: 38940
+Customer 175: 54240
+Customer 177: 55920
++++Route 13+++
+Customer 23: 5460
+Customer 40: 7620
+Customer 29: 7781.018181818182
+Customer 42: 13260
+Customer 63: 16380
+Customer 131: 42240
++++Route 14+++
+Customer 15: 5520
+Customer 12: 6053.258181818182
+Customer 78: 19560
+Customer 111: 35580
+Customer 117: 35692.28727272727
+Customer 110: 35940
++++Route 15+++
+Customer 11: 5640
+Customer 53: 12840
+Customer 85: 24300
+Customer 180: 54900
+Customer 190: 60420
+Customer 198: 63720
++++Route 16+++
+Customer 22: 6180
+Customer 31: 7920
+Customer 51: 13500
+Customer 58: 17820
+Customer 86: 25140
+Customer 96: 27600
++++Route 17+++
+Customer 14: 6480
+Customer 20: 6875.798181818182
+Customer 45: 14280
+Customer 76: 19140
+Customer 127: 40380
+Customer 134: 40547.001818181816
++++Route 18+++
+Customer 9: 7020
+Customer 95: 28500
+Customer 92: 28639.827272727274
+Customer 121: 36600
+Customer 130: 40680
+Customer 147: 44220
++++Route 19+++
+Customer 38: 7320
+Customer 87: 23220
+Customer 81: 23312.50909090909
+Customer 160: 50760
+Customer 152: 50909.498181818184
+Customer 172: 57120
++++Route 20+++
+Customer 37: 7500
+Customer 27: 7977.354545454546
+Customer 61: 16020
+Customer 104: 30420
+Customer 159: 49080
+Customer 164: 51600
+Customer 195: 60000
++++Route 21+++
+Customer 33: 8040
+Customer 44: 13740
+Customer 52: 13962.103636363636
+Customer 83: 24600
+Customer 99: 31260
+Customer 145: 45960
++++Route 22+++
+Customer 25: 8400
+Customer 62: 16800
+Customer 71: 21180
+Customer 116: 35400
+Customer 179: 55080
+Customer 167: 56760
+Customer 194: 58320
++++Route 23+++
+Customer 26: 8400
+Customer 64: 15000
+Customer 101: 30360
+Customer 107: 35460
+Customer 162: 52560
+Customer 176: 55020
++++Route 24+++
+Customer 35: 9420
+Customer 30: 10500
+Customer 82: 22980
+Customer 94: 28560
+Customer 106: 30240
+Customer 135: 40140
+Customer 178: 57540
++++Route 25+++
+Customer 32: 9780
+Customer 59: 17580
+Customer 75: 19500
+Customer 125: 41700
+Customer 185: 57120
+Customer 197: 62340
++++Route 26+++
+Customer 39: 9900
+Customer 103: 30900
+Customer 108: 33420
+Customer 115: 34320
+Customer 193: 59820
+Customer 199: 64740
++++Route 27+++
+Customer 34: 10200
+Customer 49: 11040
+Customer 48: 11272.434545454546
+Customer 56: 13440
+Customer 72: 21480
+Customer 74: 21876.3
++++Route 28+++
+Customer 41: 12300
+Customer 124: 38280
+Customer 132: 42600
+Customer 156: 47460
+Customer 170: 56340
+Customer 196: 62460
++++Route 29+++
+Customer 57: 12540
+Customer 77: 19740
+Customer 163: 50580
+Customer 168: 56040
+Customer 186: 56182.28727272727
+Customer 173: 56324.57454545454
++++Route 30+++
+Customer 73: 18240
+Customer 70: 20340
+Customer 69: 21060
+Customer 89: 22980
+Customer 88: 23202.78
+Customer 91: 26280
++++Route 31+++
+Customer 100: 28980
+Customer 114: 33060
+Customer 155: 49680
+Customer 161: 52140
+Customer 166: 53340
+Customer 183: 55200
++++Route 32+++
+Customer 97: 30900
+Customer 109: 35880
+Customer 133: 40740
+Customer 140: 41040
+Customer 149: 43440
+Customer 157: 47640
++++Route 33+++
+Customer 105: 31440
+Customer 153: 49500
+Customer 154: 49980
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [105, 173, 187, 24, 184, 76, 161, 88, 73, 155, 141, 158, 193, 96, 58, 131, 128, 140, 150, 153, 170, 171, 175, 49, 181, 186, 189, 66, 195, 81, 82, 87, 89, 98, 99, 126]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [114, 155, 161, 166, 183, 87, 81, 160, 152, 172]
+Performing LNS iteration 3
+RPOP
+removed: [81, 54, 10, 176, 98, 178, 189, 198, 200, 131, 80, 197, 4, 91, 40, 32, 7, 13, 29, 37, 39, 42, 46, 179, 180, 182, 183, 56, 192, 193, 196, 85, 87, 88, 105, 126]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [40, 29, 42, 63, 131, 6, 54, 46, 84, 144]
+Performing LNS iteration 5
+RPOP
+removed: [11, 161, 41, 22, 76, 81, 94, 36, 61, 55, 170, 144, 86, 132, 100, 23, 129, 136, 8, 12, 142, 15, 21, 87, 88, 90, 92, 93, 30, 95, 171, 173, 181, 57, 186, 60]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [19, 122, 120, 175, 177, 79, 113, 119, 128, 146]
+Performing LNS iteration 7
+RPOP
+removed: [155, 26, 134, 182, 21, 187, 3, 193, 156, 119, 46, 85, 162, 101, 197, 43, 130, 138, 139, 14, 143, 25, 153, 42, 50, 51, 52, 179, 183, 56, 192, 196, 104, 106, 120, 127]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [17, 79, 113, 119, 128, 39, 103, 108, 115, 193]
+Performing LNS iteration 9
+RPOP
+removed: [15, 121, 131, 195, 190, 48, 136, 13, 77, 147, 88, 194, 180, 23, 36, 181, 129, 132, 7, 10, 11, 142, 30, 170, 171, 173, 176, 179, 186, 188, 191, 193, 78, 81, 87, 126]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [137, 150, 158, 200, 192, 124, 132, 156, 170, 196]
+Improved solution found.
++++Route 1+++
+Customer 3: 360
+Customer 4: 3300
+Customer 28: 9360
+Customer 55: 11760
+Customer 169: 54060
+Customer 189: 59580
++++Route 2+++
+Customer 1: 1800
+Customer 21: 6360
+Customer 90: 24960
+Customer 123: 37020
+Customer 138: 40560
+Customer 165: 50640
++++Route 3+++
+Customer 2: 2280
+Customer 43: 13920
+Customer 68: 14760
+Customer 47: 15020.912727272727
+Customer 60: 15900
+Customer 148: 45780
++++Route 4+++
+Customer 5: 2700
+Customer 65: 17100
+Customer 67: 17190.98181818182
+Customer 80: 24120
+Customer 93: 28560
+Customer 102: 29400
+Customer 126: 42060
++++Route 5+++
+Customer 13: 3720
+Customer 137: 41580
+Customer 150: 48060
+Customer 158: 48253.483636363635
+Customer 200: 62160
+Customer 192: 62505.39818181818
++++Route 6+++
+Customer 7: 3840
+Customer 36: 10620
+Customer 24: 10993.903636363637
+Customer 66: 17880
+Customer 98: 31680
+Customer 188: 60420
++++Route 7+++
+Customer 10: 3900
+Customer 50: 13860
+Customer 143: 40620
+Customer 141: 41004.73090909091
+Customer 182: 55200
+Customer 184: 55444.19454545454
++++Route 8+++
+Customer 6: 4200
+Customer 54: 13200
+Customer 46: 13409.454545454546
+Customer 84: 23580
+Customer 144: 46620
+Customer 181: 56220
+Customer 171: 56287.29818181818
++++Route 9+++
+Customer 17: 4800
+Customer 79: 19980
+Customer 113: 33480
+Customer 119: 38820
+Customer 128: 41220
+Customer 146: 43980
++++Route 10+++
+Customer 16: 4980
+Customer 112: 32820
+Customer 118: 34740
+Customer 136: 42780
+Customer 142: 42855.490909090906
+Customer 187: 54480
++++Route 11+++
+Customer 8: 5220
+Customer 139: 40620
+Customer 129: 42600
+Customer 151: 50100
+Customer 174: 55860
+Customer 191: 60600
++++Route 12+++
+Customer 18: 5220
+Customer 19: 6840
+Customer 122: 36000
+Customer 120: 38940
+Customer 175: 54240
+Customer 177: 55920
++++Route 13+++
+Customer 23: 5460
+Customer 40: 7620
+Customer 29: 7781.018181818182
+Customer 42: 13260
+Customer 63: 16380
+Customer 131: 42240
++++Route 14+++
+Customer 15: 5520
+Customer 12: 6053.258181818182
+Customer 78: 19560
+Customer 111: 35580
+Customer 117: 35692.28727272727
+Customer 110: 35940
++++Route 15+++
+Customer 11: 5640
+Customer 53: 12840
+Customer 85: 24300
+Customer 180: 54900
+Customer 190: 60420
+Customer 198: 63720
++++Route 16+++
+Customer 22: 6180
+Customer 31: 7920
+Customer 51: 13500
+Customer 58: 17820
+Customer 86: 25140
+Customer 96: 27600
++++Route 17+++
+Customer 14: 6480
+Customer 20: 6875.798181818182
+Customer 45: 14280
+Customer 76: 19140
+Customer 127: 40380
+Customer 134: 40547.001818181816
++++Route 18+++
+Customer 9: 7020
+Customer 95: 28500
+Customer 92: 28639.827272727274
+Customer 121: 36600
+Customer 130: 40680
+Customer 147: 44220
++++Route 19+++
+Customer 38: 7320
+Customer 87: 23220
+Customer 81: 23312.50909090909
+Customer 160: 50760
+Customer 152: 50909.498181818184
+Customer 172: 57120
++++Route 20+++
+Customer 37: 7500
+Customer 27: 7977.354545454546
+Customer 61: 16020
+Customer 104: 30420
+Customer 159: 49080
+Customer 164: 51600
+Customer 195: 60000
++++Route 21+++
+Customer 33: 8040
+Customer 44: 13740
+Customer 52: 13962.103636363636
+Customer 83: 24600
+Customer 99: 31260
+Customer 145: 45960
++++Route 22+++
+Customer 25: 8400
+Customer 62: 16800
+Customer 71: 21180
+Customer 116: 35400
+Customer 179: 55080
+Customer 167: 56760
+Customer 194: 58320
++++Route 23+++
+Customer 26: 8400
+Customer 64: 15000
+Customer 101: 30360
+Customer 107: 35460
+Customer 162: 52560
+Customer 176: 55020
++++Route 24+++
+Customer 35: 9420
+Customer 30: 10500
+Customer 82: 22980
+Customer 94: 28560
+Customer 106: 30240
+Customer 135: 40140
+Customer 178: 57540
++++Route 25+++
+Customer 32: 9780
+Customer 59: 17580
+Customer 75: 19500
+Customer 125: 41700
+Customer 185: 57120
+Customer 197: 62340
++++Route 26+++
+Customer 39: 9900
+Customer 103: 30900
+Customer 108: 33420
+Customer 115: 34320
+Customer 193: 59820
+Customer 199: 64740
++++Route 27+++
+Customer 34: 10200
+Customer 49: 11040
+Customer 48: 11272.434545454546
+Customer 56: 13440
+Customer 72: 21480
+Customer 74: 21876.3
++++Route 28+++
+Customer 41: 12300
+Customer 124: 38280
+Customer 132: 42600
+Customer 156: 47460
+Customer 170: 56340
+Customer 196: 62460
++++Route 29+++
+Customer 57: 12540
+Customer 77: 19740
+Customer 163: 50580
+Customer 168: 56040
+Customer 186: 56182.28727272727
+Customer 173: 56324.57454545454
++++Route 30+++
+Customer 73: 18240
+Customer 70: 20340
+Customer 69: 21060
+Customer 89: 22980
+Customer 88: 23202.78
+Customer 91: 26280
++++Route 31+++
+Customer 100: 28980
+Customer 114: 33060
+Customer 155: 49680
+Customer 161: 52140
+Customer 166: 53340
+Customer 183: 55200
++++Route 32+++
+Customer 97: 30900
+Customer 109: 35880
+Customer 133: 40740
+Customer 140: 41040
+Customer 149: 43440
+Customer 157: 47640
++++Route 33+++
+Customer 105: 31440
+Customer 153: 49500
+Customer 154: 49980
+======Vehicle 8======
+Total distance: 63721.920000000006
+No of vehicle: 33
+Initial solution found.
++++Route 1+++
+Customer 3: 480
+Customer 81: 23493
+Customer 109: 36000
+Customer 141: 41125
+Customer 142: 42975
+Customer 136: 43230.490909090906
+Customer 184: 55564
+Customer 187: 55819.490909090906
++++Route 2+++
+Customer 1: 1860
+Customer 21: 6540
+Customer 23: 6872.509090909091
+Customer 123: 37140
+Customer 138: 40620
+Customer 165: 50820
++++Route 3+++
+Customer 2: 2340
+Customer 46: 13469
+Customer 67: 17371
+Customer 134: 40667
+Customer 192: 62565
++++Route 4+++
+Customer 5: 2820
+Customer 47: 15201
+Customer 60: 16080
+Customer 79: 20100
+Customer 102: 29580
+Customer 117: 35872
+Customer 128: 41340
+Customer 146: 44100
++++Route 5+++
+Customer 4: 3360
+Customer 28: 9420
+Customer 52: 14022
+Customer 42: 14472.818181818182
+Customer 98: 31800
++++Route 6+++
+Customer 13: 3780
+Customer 26: 8520
+Customer 158: 48313
+Customer 171: 56467
+Customer 174: 56881.86181818182
++++Route 7+++
+Customer 7: 3960
+Customer 36: 10740
+Customer 94: 28740
+Customer 97: 30960
+Customer 133: 40800
+Customer 152: 51029
+Customer 189: 59700
++++Route 8+++
+Customer 10: 3960
+Customer 49: 11220
+Customer 50: 14040
+Customer 44: 14664.73090909091
+Customer 74: 21996
+Customer 83: 24720
+Customer 198: 63840
++++Route 9+++
+Customer 6: 4380
+Customer 27: 8157
+Customer 31: 8545.789090909091
+Customer 58: 18000
+Customer 86: 25200
+Customer 126: 42240
++++Route 10+++
+Customer 17: 4920
+Customer 45: 14340
+Customer 51: 14654.978181818182
+Customer 78: 19740
+Customer 113: 33600
+Customer 119: 38940
+Customer 191: 60660
++++Route 11+++
+Customer 16: 5040
+Customer 112: 32880
+Customer 118: 34920
+Customer 131: 42360
+Customer 188: 60480
++++Route 12+++
+Customer 18: 5280
+Customer 8: 5676.578181818182
+Customer 61: 16200
+Customer 76: 19260
+Customer 104: 30480
+Customer 139: 40740
+Customer 127: 41026.97454545455
++++Route 13+++
+Customer 11: 5700
+Customer 34: 10320
+Customer 53: 13020
+Customer 55: 13400.98909090909
+Customer 66: 18000
+Customer 90: 25020
++++Route 14+++
+Customer 15: 5700
+Customer 57: 12720
+Customer 137: 41700
+Customer 173: 56385
+Customer 181: 56914.33090909091
+Customer 177: 57297.0
++++Route 15+++
+Customer 12: 6113
+Customer 20: 6996
+Customer 96: 27720
+Customer 111: 35640
+Customer 110: 36000
+Customer 151: 50220
++++Route 16+++
+Customer 22: 6240
+Customer 129: 42660
+Customer 147: 44280
+Customer 148: 45840
++++Route 17+++
+Customer 14: 6660
+Customer 54: 13380
+Customer 75: 19560
+Customer 84: 23760
+Customer 200: 62340
+Customer 197: 62696.509090909094
++++Route 18+++
+Customer 19: 6960
+Customer 80: 24300
+Customer 93: 28740
+Customer 122: 36180
+Customer 120: 39000
+Customer 144: 46800
++++Route 19+++
+Customer 9: 7080
+Customer 92: 28700
+Customer 121: 36780
+Customer 153: 49620
+Customer 186: 56242
++++Route 20+++
+Customer 38: 7380
+Customer 33: 8100
+Customer 24: 11054
+Customer 63: 16440
++++Route 21+++
+Customer 37: 7680
+Customer 39: 10080
+Customer 32: 10544.465454545454
+Customer 125: 41820
+Customer 164: 51660
+Customer 195: 60180
++++Route 22+++
+Customer 40: 7740
+Customer 29: 8021.018181818182
+Customer 145: 46020
+Customer 182: 55260
+Customer 169: 55628.11636363636
+Customer 179: 55906.71272727273
+Customer 172: 57300
++++Route 23+++
+Customer 25: 8580
+Customer 71: 21360
+Customer 157: 47700
+Customer 167: 56940
+Customer 194: 58440
+Customer 190: 60600
++++Route 24+++
+Customer 35: 9600
+Customer 30: 10680
+Customer 82: 23160
+Customer 87: 23478.545454545456
+Customer 85: 24360
++++Route 25+++
+Customer 48: 11452
+Customer 56: 13500
+Customer 68: 14880
+Customer 64: 15225.763636363636
+Customer 101: 30540
+Customer 107: 35640
++++Route 26+++
+Customer 41: 12480
+Customer 124: 38400
+Customer 132: 42660
+Customer 159: 49260
+Customer 162: 52620
+Customer 176: 55140
++++Route 27+++
+Customer 43: 14100
+Customer 69: 21240
+Customer 130: 40860
+Customer 150: 48120
+Customer 156: 48479.252727272724
++++Route 28+++
+Customer 62: 16980
+Customer 99: 31320
+Customer 106: 31841.154545454545
+Customer 105: 32195.710909090907
+Customer 114: 33180
+Customer 116: 35580
+Customer 180: 55020
++++Route 29+++
+Customer 65: 17160
+Customer 59: 17760
+Customer 77: 19860
+Customer 91: 26400
+Customer 103: 31080
+Customer 175: 54300
++++Route 30+++
+Customer 73: 18360
+Customer 70: 20520
+Customer 89: 23160
+Customer 95: 28620
+Customer 108: 33480
+Customer 115: 34500
+Customer 199: 64860
++++Route 31+++
+Customer 72: 21600
+Customer 100: 29040
+Customer 135: 40200
+Customer 140: 41160
+Customer 149: 43560
+Customer 160: 50820
++++Route 32+++
+Customer 88: 23263
+Customer 163: 50640
+Customer 168: 56100
+Customer 193: 59880
++++Route 33+++
+Customer 143: 40680
+Customer 155: 49860
+Customer 161: 52320
+Customer 178: 57600
+Customer 170: 58217.95090909091
++++Route 34+++
+Customer 154: 50040
+Customer 166: 53400
+Customer 183: 55260
+Customer 196: 62640
++++Route 35+++
+Customer 185: 57180
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [22, 32, 160, 43, 61, 99, 189, 57, 75, 114, 106, 195, 168, 109, 98, 134, 130, 133, 138, 139, 12, 143, 30, 163, 36, 165, 50, 179, 52, 186, 60, 193, 78, 110, 117, 122]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [89, 95, 108, 115, 199, 51, 78, 113, 119, 191]
+Performing LNS iteration 3
+RPOP
+removed: [100, 197, 161, 157, 133, 120, 106, 137, 41, 150, 132, 153, 9, 24, 170, 79, 129, 130, 134, 138, 139, 143, 19, 20, 23, 155, 158, 49, 57, 192, 194, 196, 98, 119, 125, 127]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [34, 53, 55, 66, 90, 4, 28, 52, 42, 98]
+Performing LNS iteration 5
+RPOP
+removed: [153, 130, 170, 142, 92, 149, 93, 24, 122, 136, 185, 12, 152, 52, 6, 7, 194, 133, 134, 10, 139, 13, 143, 22, 155, 94, 95, 165, 43, 172, 109, 110, 177, 50, 49, 127]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [5, 47, 60, 79, 102, 18, 8, 61, 76, 104]
+Performing LNS iteration 7
+RPOP
+removed: [9, 70, 104, 169, 83, 157, 196, 125, 109, 182, 31, 184, 98, 141, 55, 129, 132, 137, 140, 19, 20, 25, 26, 46, 176, 54, 183, 56, 192, 197, 101, 106, 110, 117, 122, 127]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [73, 70, 89, 95, 108, 35, 30, 82, 87, 85]
+Performing LNS iteration 9
+RPOP
+removed: [161, 63, 101, 99, 100, 39, 52, 167, 60, 67, 69, 70, 128, 194, 111, 113, 65, 71, 140, 141, 93, 34, 162, 103, 104, 170, 43, 107, 108, 174, 50, 116, 181, 117, 185, 61]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [18, 8, 61, 76, 104, 5, 47, 60, 79, 102]
+Improved solution found.
++++Route 1+++
+Customer 3: 480
+Customer 81: 23493
+Customer 109: 36000
+Customer 141: 41125
+Customer 142: 42975
+Customer 136: 43230.490909090906
+Customer 184: 55564
+Customer 187: 55819.490909090906
++++Route 2+++
+Customer 1: 1860
+Customer 21: 6540
+Customer 23: 6872.509090909091
+Customer 123: 37140
+Customer 138: 40620
+Customer 165: 50820
++++Route 3+++
+Customer 2: 2340
+Customer 46: 13469
+Customer 67: 17371
+Customer 134: 40667
+Customer 192: 62565
++++Route 4+++
+Customer 5: 2820
+Customer 47: 15201
+Customer 60: 16080
+Customer 79: 20100
+Customer 102: 29580
+Customer 117: 35872
+Customer 128: 41340
+Customer 146: 44100
++++Route 5+++
+Customer 4: 3360
+Customer 28: 9420
+Customer 52: 14022
+Customer 42: 14472.818181818182
+Customer 98: 31800
++++Route 6+++
+Customer 13: 3780
+Customer 26: 8520
+Customer 158: 48313
+Customer 171: 56467
+Customer 174: 56881.86181818182
++++Route 7+++
+Customer 7: 3960
+Customer 36: 10740
+Customer 94: 28740
+Customer 97: 30960
+Customer 133: 40800
+Customer 152: 51029
+Customer 189: 59700
++++Route 8+++
+Customer 10: 3960
+Customer 49: 11220
+Customer 50: 14040
+Customer 44: 14664.73090909091
+Customer 74: 21996
+Customer 83: 24720
+Customer 198: 63840
++++Route 9+++
+Customer 6: 4380
+Customer 27: 8157
+Customer 31: 8545.789090909091
+Customer 58: 18000
+Customer 86: 25200
+Customer 126: 42240
++++Route 10+++
+Customer 17: 4920
+Customer 45: 14340
+Customer 51: 14654.978181818182
+Customer 78: 19740
+Customer 113: 33600
+Customer 119: 38940
+Customer 191: 60660
++++Route 11+++
+Customer 16: 5040
+Customer 112: 32880
+Customer 118: 34920
+Customer 131: 42360
+Customer 188: 60480
++++Route 12+++
+Customer 18: 5280
+Customer 8: 5676.578181818182
+Customer 61: 16200
+Customer 76: 19260
+Customer 104: 30480
+Customer 139: 40740
+Customer 127: 41026.97454545455
++++Route 13+++
+Customer 11: 5700
+Customer 34: 10320
+Customer 53: 13020
+Customer 55: 13400.98909090909
+Customer 66: 18000
+Customer 90: 25020
++++Route 14+++
+Customer 15: 5700
+Customer 57: 12720
+Customer 137: 41700
+Customer 173: 56385
+Customer 181: 56914.33090909091
+Customer 177: 57297.0
++++Route 15+++
+Customer 12: 6113
+Customer 20: 6996
+Customer 96: 27720
+Customer 111: 35640
+Customer 110: 36000
+Customer 151: 50220
++++Route 16+++
+Customer 22: 6240
+Customer 129: 42660
+Customer 147: 44280
+Customer 148: 45840
++++Route 17+++
+Customer 14: 6660
+Customer 54: 13380
+Customer 75: 19560
+Customer 84: 23760
+Customer 200: 62340
+Customer 197: 62696.509090909094
++++Route 18+++
+Customer 19: 6960
+Customer 80: 24300
+Customer 93: 28740
+Customer 122: 36180
+Customer 120: 39000
+Customer 144: 46800
++++Route 19+++
+Customer 9: 7080
+Customer 92: 28700
+Customer 121: 36780
+Customer 153: 49620
+Customer 186: 56242
++++Route 20+++
+Customer 38: 7380
+Customer 33: 8100
+Customer 24: 11054
+Customer 63: 16440
++++Route 21+++
+Customer 37: 7680
+Customer 39: 10080
+Customer 32: 10544.465454545454
+Customer 125: 41820
+Customer 164: 51660
+Customer 195: 60180
++++Route 22+++
+Customer 40: 7740
+Customer 29: 8021.018181818182
+Customer 145: 46020
+Customer 182: 55260
+Customer 169: 55628.11636363636
+Customer 179: 55906.71272727273
+Customer 172: 57300
++++Route 23+++
+Customer 25: 8580
+Customer 71: 21360
+Customer 157: 47700
+Customer 167: 56940
+Customer 194: 58440
+Customer 190: 60600
++++Route 24+++
+Customer 35: 9600
+Customer 30: 10680
+Customer 82: 23160
+Customer 87: 23478.545454545456
+Customer 85: 24360
++++Route 25+++
+Customer 48: 11452
+Customer 56: 13500
+Customer 68: 14880
+Customer 64: 15225.763636363636
+Customer 101: 30540
+Customer 107: 35640
++++Route 26+++
+Customer 41: 12480
+Customer 124: 38400
+Customer 132: 42660
+Customer 159: 49260
+Customer 162: 52620
+Customer 176: 55140
++++Route 27+++
+Customer 43: 14100
+Customer 69: 21240
+Customer 130: 40860
+Customer 150: 48120
+Customer 156: 48479.252727272724
++++Route 28+++
+Customer 62: 16980
+Customer 99: 31320
+Customer 106: 31841.154545454545
+Customer 105: 32195.710909090907
+Customer 114: 33180
+Customer 116: 35580
+Customer 180: 55020
++++Route 29+++
+Customer 65: 17160
+Customer 59: 17760
+Customer 77: 19860
+Customer 91: 26400
+Customer 103: 31080
+Customer 175: 54300
++++Route 30+++
+Customer 73: 18360
+Customer 70: 20520
+Customer 89: 23160
+Customer 95: 28620
+Customer 108: 33480
+Customer 115: 34500
+Customer 199: 64860
++++Route 31+++
+Customer 72: 21600
+Customer 100: 29040
+Customer 135: 40200
+Customer 140: 41160
+Customer 149: 43560
+Customer 160: 50820
++++Route 32+++
+Customer 88: 23263
+Customer 163: 50640
+Customer 168: 56100
+Customer 193: 59880
++++Route 33+++
+Customer 143: 40680
+Customer 155: 49860
+Customer 161: 52320
+Customer 178: 57600
+Customer 170: 58217.95090909091
++++Route 34+++
+Customer 154: 50040
+Customer 166: 53400
+Customer 183: 55260
+Customer 196: 62640
++++Route 35+++
+Customer 185: 57180
+======Vehicle 9======
+Total distance: 68885.78000000001
+No of vehicle: 35
+Initial solution found.
++++Route 1+++
+Customer 3: 1500
+Customer 2: 3780
+Customer 5: 4080.8618181818183
+Customer 4: 4800
+Customer 7: 5103.18
+Customer 10: 5400
+Customer 13: 5697.834545454545
+Customer 6: 5951.318181818182
+Customer 16: 6570.109090909092
+Customer 11: 7140
+Customer 15: 7606.494545454546
+Customer 14: 7920
+Customer 19: 8094.114545454546
+Customer 20: 8322.807272727274
+Customer 9: 8869.827272727274
+Customer 38: 9118.363636363638
+Customer 33: 9540
+Customer 25: 9840
+Customer 28: 10860
+Customer 35: 11225.23090909091
+Customer 34: 11346.021818181818
+Customer 24: 12000
+Customer 36: 12373.903636363637
+Customer 49: 12580.221818181819
+Customer 48: 12692.656363636364
+Customer 55: 13701
+Customer 53: 14280
+Customer 52: 14519.405454545455
+Customer 42: 14790.223636363637
+Customer 44: 15180
+Customer 50: 15564.73090909091
+Customer 43: 15727.26
+Customer 68: 15900
+Customer 64: 16440
+Customer 60: 17340
+Customer 61: 17460
+Customer 67: 17671
+Customer 63: 18239.914545454547
+Customer 62: 18616.703636363636
+Customer 66: 19020
+Customer 58: 19442.32909090909
+Customer 59: 19815.15818181818
+Customer 73: 20056.019999999997
+Customer 76: 20565.698181818178
+Customer 79: 21120
+Customer 78: 21264.0
+Customer 75: 21565.8
+Customer 70: 21894.85636363636
+Customer 74: 22385.045454545452
+Customer 71: 22660.63636363636
+Customer 69: 23015.389090909088
+Customer 72: 23248.745454545453
+Customer 81: 23793
+Customer 82: 24420
+Customer 88: 24590.19818181818
+Customer 89: 24752.36727272727
+Customer 87: 24968.705454545452
+Customer 85: 25800
+Customer 83: 26072.79272727273
+Customer 90: 26460
+Customer 86: 26865.31090909091
+Customer 91: 27420
+Customer 96: 28740
+Customer 92: 29372.29090909091
+Customer 95: 29640
+Customer 94: 30000
+Customer 100: 30480
+Customer 102: 31154.67272727273
+Customer 106: 32141
+Customer 105: 32580
+Customer 97: 32829.64363636364
+Customer 99: 33095.48181818182
+Customer 112: 34320
+Customer 114: 34685.23090909091
+Customer 108: 35017.10181818182
+Customer 115: 35760
+Customer 117: 36202.62545454546
+Customer 107: 36900
+Customer 116: 37387.55454545454
+Customer 109: 37516.98545454545
+Customer 121: 38040
+Customer 123: 38698.494545454545
+Customer 124: 39453.3
+Customer 119: 39960
+Customer 120: 40440
+Customer 134: 40920
+Customer 135: 41640
+Customer 130: 42120
+Customer 143: 42291.038181818185
+Customer 140: 42513.50181818182
+Customer 133: 42715.570909090915
+Customer 137: 43170.92181818182
+Customer 125: 43479.83454545455
+Customer 126: 43836.27818181818
+Customer 132: 44282.04
+Customer 149: 44624.012727272726
+Customer 146: 45323.01818181818
+Customer 147: 45720
+Customer 148: 47280
+Customer 145: 47934.681818181816
+Customer 157: 49140
+Customer 150: 49630.05818181818
+Customer 159: 50520
+Customer 153: 50783.33454545455
+Customer 155: 51120
+Customer 152: 51348.83454545455
+Customer 154: 51677.847272727275
+Customer 160: 52260
+Customer 163: 52645.68
+Customer 164: 53100
+Customer 161: 53603.51454545455
+Customer 162: 54060
+Customer 166: 54840
+Customer 169: 55868
+Customer 184: 56234.40909090909
+Customer 187: 56369.899999999994
+Customer 182: 56700
+Customer 179: 56920.810909090906
+Customer 183: 57318.910909090904
+Customer 168: 57573.03818181818
+Customer 181: 57922.36909090909
+Customer 167: 58647.87272727273
+Customer 172: 58757.61818181818
+Customer 178: 59040
+Customer 194: 59460
+Customer 189: 60720
+Customer 195: 61471.87090909091
+Customer 188: 62015.258181818186
+Customer 191: 62395.56545454546
+Customer 192: 62865
+Customer 197: 63480
+Customer 200: 63656.30181818182
+Customer 196: 63900
+Customer 198: 64860
+Customer 199: 65880
++++Route 2+++
+Customer 1: 3300
+Customer 17: 5940
+Customer 8: 6360
+Customer 23: 7113
+Customer 21: 7800
+Customer 22: 8136.801818181818
+Customer 40: 8760
+Customer 29: 8921.018181818183
+Customer 27: 9440.890909090911
+Customer 31: 9589.680000000002
+Customer 26: 10043.01272727273
+Customer 32: 11220
+Customer 39: 11444.465454545454
+Customer 30: 11940
+Customer 46: 13769
+Customer 41: 14019.314545454545
+Customer 57: 14116.754545454545
+Customer 54: 14640
+Customer 51: 14964.632727272727
+Customer 47: 15501
+Customer 45: 15817.178181818183
+Customer 65: 18600
+Customer 77: 20880
+Customer 84: 25020
+Customer 80: 25560
+Customer 93: 30000
+Customer 101: 31800
+Customer 104: 32066.62909090909
+Customer 103: 32467.17818181818
+Customer 98: 33191.84181818182
+Customer 113: 34620
+Customer 118: 36180
+Customer 111: 37080
+Customer 122: 37440
+Customer 110: 37684.38545454545
+Customer 141: 41365
+Customer 138: 42060
+Customer 128: 42478.75090909091
+Customer 142: 43215
+Customer 136: 44280
+Customer 131: 44424.0
+Customer 144: 48060
+Customer 158: 48613
+Customer 156: 48960
+Customer 151: 51240
+Customer 165: 52080
+Customer 175: 55740
+Customer 176: 56160
+Customer 186: 56542
+Customer 173: 56744.28727272727
+Customer 171: 57093.93454545454
+Customer 174: 57360
+Customer 177: 57537
+Customer 170: 58458
+Customer 185: 58660.27090909091
+Customer 193: 61320
+Customer 190: 61865.10545454545
++++Route 3+++
+Customer 18: 6720
+Customer 12: 7200
+Customer 37: 8940
+Customer 56: 14940
+Customer 127: 41520
+Customer 139: 41760
+Customer 129: 44100
+Customer 180: 56040
+Performing large neighborhood search...
+Performing LNS iteration 1
+RPOP
+removed: [184, 112, 122, 13, 153, 4, 170, 105, 62, 85, 173, 138, 109, 129, 189, 23, 65, 130, 132, 136, 11, 12, 143, 80, 97, 167, 103, 110, 176, 179, 180, 116, 182, 185, 186, 187]
+Performing LNS iteration 2
+SMART
+Valid
+removed_cust [160, 163, 164, 161, 162, 156, 151, 165, 175, 176]
+Performing LNS iteration 3
+RPOP
+removed: [113, 169, 175, 181, 135, 117, 183, 116, 57, 98, 86, 120, 190, 2, 176, 118, 5, 139, 141, 99, 168, 41, 171, 109, 174, 110, 112, 177, 114, 180, 53, 184, 122, 187, 188, 127]
+Performing LNS iteration 4
+SMART
+Valid
+removed_cust [197, 200, 196, 198, 199, 177, 170, 185, 193, 190]
+Performing LNS iteration 5
+RPOP
+removed: [130, 178, 83, 81, 67, 2, 126, 36, 181, 173, 16, 190, 115, 100, 191, 147, 128, 129, 5, 8, 138, 143, 18, 168, 171, 172, 48, 49, 179, 182, 186, 60, 188, 61, 85, 125]
+Performing LNS iteration 6
+SMART
+Valid
+removed_cust [53, 52, 42, 44, 50, 12, 37, 56, 127, 139]
+Performing LNS iteration 7
+RPOP
+removed: [94, 55, 169, 111, 45, 34, 96, 98, 67, 154, 50, 64, 8, 193, 152, 59, 195, 68, 73, 16, 151, 155, 93, 32, 35, 99, 39, 41, 43, 107, 46, 47, 175, 176, 180, 61]
+Performing LNS iteration 8
+SMART
+Valid
+removed_cust [11, 15, 14, 19, 20, 8, 23, 21, 22, 40]
+Performing LNS iteration 9
+RPOP
+removed: [101, 117, 166, 181, 50, 195, 75, 107, 36, 178, 148, 55, 162, 169, 194, 121, 168, 41, 43, 172, 45, 46, 175, 47, 49, 176, 48, 180, 193, 68, 70, 78, 104, 106, 111, 118]
+Performing LNS iteration 10
+SMART
+Valid
+removed_cust [149, 146, 147, 148, 145, 142, 136, 131, 144, 158]
+Improved solution found.
++++Route 1+++
+Customer 3: 1500
+Customer 2: 3780
+Customer 5: 4080.8618181818183
+Customer 4: 4800
+Customer 7: 5103.18
+Customer 10: 5400
+Customer 13: 5697.834545454545
+Customer 6: 5951.318181818182
+Customer 16: 6570.109090909092
+Customer 11: 7140
+Customer 15: 7606.494545454546
+Customer 14: 7920
+Customer 19: 8094.114545454546
+Customer 20: 8322.807272727274
+Customer 9: 8869.827272727274
+Customer 38: 9118.363636363638
+Customer 33: 9540
+Customer 25: 9840
+Customer 28: 10860
+Customer 35: 11225.23090909091
+Customer 34: 11346.021818181818
+Customer 24: 12000
+Customer 36: 12373.903636363637
+Customer 49: 12580.221818181819
+Customer 48: 12692.656363636364
+Customer 55: 13701
+Customer 53: 14280
+Customer 52: 14519.405454545455
+Customer 42: 14790.223636363637
+Customer 44: 15180
+Customer 50: 15564.73090909091
+Customer 43: 15727.26
+Customer 68: 15900
+Customer 64: 16440
+Customer 60: 17340
+Customer 61: 17460
+Customer 67: 17671
+Customer 63: 18239.914545454547
+Customer 62: 18616.703636363636
+Customer 66: 19020
+Customer 58: 19442.32909090909
+Customer 59: 19815.15818181818
+Customer 73: 20056.019999999997
+Customer 76: 20565.698181818178
+Customer 79: 21120
+Customer 78: 21264.0
+Customer 75: 21565.8
+Customer 70: 21894.85636363636
+Customer 74: 22385.045454545452
+Customer 71: 22660.63636363636
+Customer 69: 23015.389090909088
+Customer 72: 23248.745454545453
+Customer 81: 23793
+Customer 82: 24420
+Customer 88: 24590.19818181818
+Customer 89: 24752.36727272727
+Customer 87: 24968.705454545452
+Customer 85: 25800
+Customer 83: 26072.79272727273
+Customer 90: 26460
+Customer 86: 26865.31090909091
+Customer 91: 27420
+Customer 96: 28740
+Customer 92: 29372.29090909091
+Customer 95: 29640
+Customer 94: 30000
+Customer 100: 30480
+Customer 102: 31154.67272727273
+Customer 106: 32141
+Customer 105: 32580
+Customer 97: 32829.64363636364
+Customer 99: 33095.48181818182
+Customer 112: 34320
+Customer 114: 34685.23090909091
+Customer 108: 35017.10181818182
+Customer 115: 35760
+Customer 117: 36202.62545454546
+Customer 107: 36900
+Customer 116: 37387.55454545454
+Customer 109: 37516.98545454545
+Customer 121: 38040
+Customer 123: 38698.494545454545
+Customer 124: 39453.3
+Customer 119: 39960
+Customer 120: 40440
+Customer 134: 40920
+Customer 135: 41640
+Customer 130: 42120
+Customer 143: 42291.038181818185
+Customer 140: 42513.50181818182
+Customer 133: 42715.570909090915
+Customer 137: 43170.92181818182
+Customer 125: 43479.83454545455
+Customer 126: 43836.27818181818
+Customer 132: 44282.04
+Customer 149: 44624.012727272726
+Customer 146: 45323.01818181818
+Customer 147: 45720
+Customer 148: 47280
+Customer 145: 47934.681818181816
+Customer 157: 49140
+Customer 150: 49630.05818181818
+Customer 159: 50520
+Customer 153: 50783.33454545455
+Customer 155: 51120
+Customer 152: 51348.83454545455
+Customer 154: 51677.847272727275
+Customer 160: 52260
+Customer 163: 52645.68
+Customer 164: 53100
+Customer 161: 53603.51454545455
+Customer 162: 54060
+Customer 166: 54840
+Customer 169: 55868
+Customer 184: 56234.40909090909
+Customer 187: 56369.899999999994
+Customer 182: 56700
+Customer 179: 56920.810909090906
+Customer 183: 57318.910909090904
+Customer 168: 57573.03818181818
+Customer 181: 57922.36909090909
+Customer 167: 58647.87272727273
+Customer 172: 58757.61818181818
+Customer 178: 59040
+Customer 194: 59460
+Customer 189: 60720
+Customer 195: 61471.87090909091
+Customer 188: 62015.258181818186
+Customer 191: 62395.56545454546
+Customer 192: 62865
+Customer 197: 63480
+Customer 200: 63656.30181818182
+Customer 196: 63900
+Customer 198: 64860
+Customer 199: 65880
++++Route 2+++
+Customer 1: 3300
+Customer 17: 5940
+Customer 8: 6360
+Customer 23: 7113
+Customer 21: 7800
+Customer 22: 8136.801818181818
+Customer 40: 8760
+Customer 29: 8921.018181818183
+Customer 27: 9440.890909090911
+Customer 31: 9589.680000000002
+Customer 26: 10043.01272727273
+Customer 32: 11220
+Customer 39: 11444.465454545454
+Customer 30: 11940
+Customer 46: 13769
+Customer 41: 14019.314545454545
+Customer 57: 14116.754545454545
+Customer 54: 14640
+Customer 51: 14964.632727272727
+Customer 47: 15501
+Customer 45: 15817.178181818183
+Customer 65: 18600
+Customer 77: 20880
+Customer 84: 25020
+Customer 80: 25560
+Customer 93: 30000
+Customer 101: 31800
+Customer 104: 32066.62909090909
+Customer 103: 32467.17818181818
+Customer 98: 33191.84181818182
+Customer 113: 34620
+Customer 118: 36180
+Customer 111: 37080
+Customer 122: 37440
+Customer 110: 37684.38545454545
+Customer 141: 41365
+Customer 138: 42060
+Customer 128: 42478.75090909091
+Customer 142: 43215
+Customer 136: 44280
+Customer 131: 44424.0
+Customer 144: 48060
+Customer 158: 48613
+Customer 156: 48960
+Customer 151: 51240
+Customer 165: 52080
+Customer 175: 55740
+Customer 176: 56160
+Customer 186: 56542
+Customer 173: 56744.28727272727
+Customer 171: 57093.93454545454
+Customer 174: 57360
+Customer 177: 57537
+Customer 170: 58458
+Customer 185: 58660.27090909091
+Customer 193: 61320
+Customer 190: 61865.10545454545
++++Route 3+++
+Customer 18: 6720
+Customer 12: 7200
+Customer 37: 8940
+Customer 56: 14940
+Customer 127: 41520
+Customer 139: 41760
+Customer 129: 44100
+Customer 180: 56040
+======Vehicle 10======
+Total distance: 85194.20000000003
+No of vehicle: 3
+Final total: 702257.0900000002
+Solved.
