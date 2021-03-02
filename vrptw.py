@@ -119,8 +119,9 @@ class VRPTW:
 
         start_time = datetime.datetime.now()
         cust_num = len(self.customers)
-        time_lim = {20: 6, 50: 30, 100: 180, 200: 900}
-        max_time = time_lim[cust_num] # LNS does not exceed 250 second
+        # time_lim = {20: 6, 50: 30, 100: 180, 200: 900}
+        # max_time = time_lim[cust_num] # LNS does not exceed 250 second
+        max_time = 250
         best_route = copy.deepcopy(self.routes)
         best_distance = self.results["total_distance"]
 
@@ -132,8 +133,8 @@ class VRPTW:
         run_RPOP = True
         # i = 1
 
-        # while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
-        for i in range(10):
+        while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
+        # for i in range(10):
             print("Performing LNS iteration", i + 1)
             # i += 1
             if run_RPOP:
