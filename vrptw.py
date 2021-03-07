@@ -131,12 +131,12 @@ class VRPTW:
         # best_route = self.__RPOP(copy.deepcopy(best_route))
 
         run_RPOP = True
-        # i = 1
+        i = 1
 
         while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
         # for i in range(10):
-            print("Performing LNS iteration", i + 1)
-            # i += 1
+            print("Performing LNS iteration", i)
+            i += 1
             if run_RPOP:
                 print("RPOP")
                 # run RPOP
