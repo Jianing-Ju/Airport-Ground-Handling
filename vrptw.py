@@ -136,6 +136,7 @@ class VRPTW:
         while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
         # for i in range(10):
             print("Performing LNS iteration", i)
+            print("Time", (datetime.datetime.now() - start_time).total_seconds())
             i += 1
             if run_RPOP:
                 print("RPOP")
