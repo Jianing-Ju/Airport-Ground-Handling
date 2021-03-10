@@ -180,7 +180,7 @@ if __name__ == '__main__':
         for i in range(no_of_instance):
             print("Solving instance [{}/{}] ...".format(i + 1, no_of_instance))
             instance_path = dir + 'instance/'+ str(no_of_flights) + '/schedule_{}.xlsx'.format(i+1)
-            data[sheet_name].append(["Instance {}".format(i)])
+            data[sheet_name].append(["Instance {}".format(i + 1)])
 
             # Load flight info
             flights = load_flights(instance_path)
@@ -190,6 +190,16 @@ if __name__ == '__main__':
 
             data[sheet_name][-1].extend(instance.excel_output)###########
             print("Solved.")
+
+            # save data every 10 instance
+
+            if i != 0 and i % 10 == 0:
+                data_setting = copy.deepcopy(data)
+                get_tuple(data_setting)
+                out_dir = 'log/' + str(datetime.datetime.now()) + "_" + str(no_of_flights) + "_" + str(i//10) + '.xlsx'
+                excel_writer(data_setting, out_dir)
+
+
         data_setting = copy.deepcopy(data)
         get_tuple(data_setting)
         out_dir = 'log/' + str(datetime.datetime.now()) + "_" + str(no_of_flights) + '.xlsx'

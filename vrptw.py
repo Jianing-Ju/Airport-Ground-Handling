@@ -135,11 +135,11 @@ class VRPTW:
 
         while((datetime.datetime.now() - start_time).total_seconds() <= max_time):
         # for i in range(10):
-            print("Performing LNS iteration", i)
-            print("Time", (datetime.datetime.now() - start_time).total_seconds())
+            # print("Performing LNS iteration", i)
+            # print("Time", (datetime.datetime.now() - start_time).total_seconds())
             i += 1
             if run_RPOP:
-                print("RPOP")
+                # print("RPOP")
                 # run RPOP
                 RPOP_result = self.__RPOP(copy.deepcopy(best_route))
                 if not RPOP_result:
@@ -158,7 +158,7 @@ class VRPTW:
                         # print("RPOP improved")
             else:
                 # run SMART
-                print("SMART")
+                # print("SMART")
                 SMART_result = self.__SMART(copy.deepcopy(best_route))
                 if not SMART_result:
                     # if no solution, change to another operator
@@ -236,7 +236,7 @@ class VRPTW:
             similar_cust = similar_cust.union([similar_cust_cand[similar_cust_num+i][0]["id"]])
             i+=1
         removed_cust = list(rand_pivot) + list(similar_cust)
-        print("removed:", removed_cust)
+        # print("removed:", removed_cust)
 
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
@@ -291,7 +291,7 @@ class VRPTW:
                 for i in range(len(route)):
                     if route[i]["id"] == rand_pivot:
                         if i >= rm_before_pivot and i <= len(route)-1-rm_after_pivot:
-                            print("Valid")
+                            # print("Valid")
                             pivot_valid = True
                             pivot = rand_pivot
                             route_with_pivot = route
@@ -319,7 +319,7 @@ class VRPTW:
                             pivot_valid = True
                             # store removed customers
                             removed_cust.extend([x['id'] for x in route[i-rm_before_pivot: i+rm_after_pivot+1]])
-        print("removed_cust", removed_cust)
+        # print("removed_cust", removed_cust)
         # remove chosen cust from routes 
         visit_fixed = {(i, j, k): visit_fixed[i, j, k] for i in custs_w_depot for j in custs_w_depot for k in vehicles\
             if i not in removed_cust and j not in removed_cust}
@@ -391,7 +391,7 @@ class VRPTW:
         return True
 
     def __present_results(self):
-        self.__print_routes(self.routes)
+        # self.__print_routes(self.routes)
         self.results["no_of_vehicle"] = len(self.routes)
         self.results["routes_with_customers"] = self.__cal_route_w_cust()
         self.results["route_distances"], self.results["total_distance"] = self.__cal_total_distance(self.routes)
