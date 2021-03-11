@@ -166,7 +166,7 @@ if __name__ == '__main__':
 
     # Experiment configuration: (no of flights in an instance, no of instance)
     # possible number of flights: 20, 50, 100, 200, 300
-    experiments = [ (20, 50), (50, 50), (100, 20), (200, 20)]
+    experiments = [ (100, 20), (200, 20)]
     # experiments = [(20, 10)]
 
     for setting in experiments:
@@ -191,13 +191,18 @@ if __name__ == '__main__':
             data[sheet_name][-1].extend(instance.excel_output)###########
             print("Solved.")
 
-            # save data every 10 instance
+            # save data every instance
 
-            if i != 0 and i % 10 == 0:
-                data_setting = copy.deepcopy(data)
-                get_tuple(data_setting)
-                out_dir = 'log/' + str(datetime.datetime.now()) + "_" + str(no_of_flights) + "_" + str(i//10) + '.xlsx'
-                excel_writer(data_setting, out_dir)
+            data_setting = copy.deepcopy(data)
+            get_tuple(data_setting)
+            out_dir = 'log/' + str(datetime.datetime.now()) + "_" + str(no_of_flights) + "_" + str(i) + '.xlsx'
+            excel_writer(data_setting, out_dir)
+
+            # if i != 0 and i % 10 == 0:
+            #     data_setting = copy.deepcopy(data)
+            #     get_tuple(data_setting)
+            #     out_dir = 'log/' + str(datetime.datetime.now()) + "_" + str(no_of_flights) + "_" + str(i//10) + '.xlsx'
+            #     excel_writer(data_setting, out_dir)
 
 
         data_setting = copy.deepcopy(data)
