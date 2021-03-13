@@ -1,0 +1,4023 @@
+nohup: ignoring input
+=====Flight 20=====
+Solving instance [1/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9946.170000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9662.380000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12239.100000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 16785.690000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8882.670000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13242.690000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11136.52
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10137.54
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10584.900000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9884.470000000003
+No of vehicle: 2
+Final total: 112502.13
+Solved.
+Solving instance [2/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11454.600000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8811.910000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 13899.660000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 13856.240000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9814.340000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11874.59
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 10411.43
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9906.44
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10109.140000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11403.11
+No of vehicle: 3
+Final total: 111541.46000000002
+Solved.
+Solving instance [3/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9940.260000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8662.320000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12197.830000000004
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12584.930000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9139.280000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 15336.840000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9954.640000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9390.27
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9666.79
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10510.140000000003
+No of vehicle: 3
+Final total: 107383.3
+Solved.
+Solving instance [4/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10463.200000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10192.150000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11443.150000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11094.980000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10415.460000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 12903.610000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12569.730000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9240.29
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9386.160000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 12305.29
+No of vehicle: 2
+Final total: 110014.02000000005
+Solved.
+Solving instance [5/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10448.670000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 11213.250000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11405.050000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14213.980000000001
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10023.47
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 12847.19
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12230.16
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9558.34
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8866.1
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11879.280000000002
+No of vehicle: 3
+Final total: 112685.49000000002
+Solved.
+Solving instance [6/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 12876.760000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10052.060000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11733.510000000004
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12945.150000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8653.580000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11446.740000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11921.37
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8648.61
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 7679.040000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11691.300000000003
+No of vehicle: 2
+Final total: 107648.12000000002
+Solved.
+Solving instance [7/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 13002.310000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 7597.930000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 9865.490000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14115.740000000005
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8710.880000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 16284.990000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11128.410000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10738.610000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9739.000000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 13367.54
+No of vehicle: 2
+Final total: 114550.90000000002
+Solved.
+Solving instance [8/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11525.690000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9680.480000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12869.890000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12666.490000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10197.090000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 12420.490000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9938.320000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9957.43
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11714.35
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11153.440000000002
+No of vehicle: 2
+Final total: 112123.67000000004
+Solved.
+Solving instance [9/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11482.240000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8023.97
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12599.36
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12270.820000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10123.79
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 18054.940000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8281.41
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9161.01
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9923.890000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10968.910000000002
+No of vehicle: 3
+Final total: 110890.34000000001
+Solved.
+Solving instance [10/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9618.460000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9729.900000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12930.600000000004
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14055.430000000004
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10549.660000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13632.950000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 10361.18
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10937.34
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10042.490000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10629.670000000002
+No of vehicle: 3
+Final total: 112487.68000000002
+Solved.
+Solving instance [11/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9728.600000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10000.640000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11255.970000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12986.170000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 11168.93
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 16862.670000000006
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11306.300000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9144.25
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11500.260000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 12339.300000000003
+No of vehicle: 3
+Final total: 116293.09000000001
+Solved.
+Solving instance [12/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10808.730000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9161.5
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 9956.420000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11083.390000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 7937.52
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10994.740000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8851.939999999999
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 12295.960000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8724.09
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8781.960000000001
+No of vehicle: 2
+Final total: 98596.25000000003
+Solved.
+Solving instance [13/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10433.330000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 7971.940000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10921.000000000004
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10994.460000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9307.460000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10874.580000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 10930.850000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10393.890000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8159.1500000000015
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11397.600000000004
+No of vehicle: 3
+Final total: 101384.26000000001
+Solved.
+Solving instance [14/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9784.5
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9822.080000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12233.960000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12103.160000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8547.210000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11506.970000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8170.730000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8790.68
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10136.27
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 7993.340000000001
+No of vehicle: 2
+Final total: 99088.90000000001
+Solved.
+Solving instance [15/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9637.150000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 7956.220000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 8438.510000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10386.54
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 7223.160000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11693.550000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9939.11
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10505.08
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 7480.830000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8695.740000000002
+No of vehicle: 2
+Final total: 91955.89000000001
+Solved.
+Solving instance [16/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10391.410000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 6754.520000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 9924.220000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10801.71
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8603.890000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10992.960000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9018.08
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9099.890000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10595.18
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11513.070000000003
+No of vehicle: 3
+Final total: 97694.93000000002
+Solved.
+Solving instance [17/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 8613.920000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8062.160000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11899.680000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11346.450000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8748.880000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11899.680000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 6970.009999999999
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9590.4
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8592.04
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11318.440000000002
+No of vehicle: 3
+Final total: 97041.66
+Solved.
+Solving instance [18/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 8404.73
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8451.6
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12223.250000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11825.18
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 7322.830000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13197.010000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9962.69
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9555.089999999998
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10407.550000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9654.04
+No of vehicle: 3
+Final total: 101003.97
+Solved.
+Solving instance [19/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9147.79
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 13532.79
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 13527.84
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14553.09
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8538.810000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13820.000000000004
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12474.960000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 11745.480000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10662.18
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10167.66
+No of vehicle: 3
+Final total: 118170.6
+Solved.
+Solving instance [20/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 13013.0
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9186.43
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10883.240000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12566.600000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 11599.11
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 15518.61
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11035.320000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9603.539999999999
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9777.62
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9687.37
+No of vehicle: 3
+Final total: 112870.84
+Solved.
+Solving instance [21/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 12322.750000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9857.890000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12492.170000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 8764.370000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9150.670000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 12103.760000000004
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9922.710000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 11888.010000000004
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8164.890000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11986.020000000004
+No of vehicle: 3
+Final total: 106653.24000000003
+Solved.
+Solving instance [22/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 14386.960000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9770.010000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12413.130000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11036.61
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9944.720000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 14376.220000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11487.410000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9985.36
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9795.490000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 12641.630000000001
+No of vehicle: 2
+Final total: 115837.54000000002
+Solved.
+Solving instance [23/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11618.04
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8734.470000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12993.640000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14177.45
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8438.400000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13919.029999999999
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11205.12
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9725.09
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9633.910000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10322.59
+No of vehicle: 3
+Final total: 110767.73999999999
+Solved.
+Solving instance [24/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9864.31
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10504.160000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 13505.140000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 13946.510000000006
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10826.580000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11866.380000000001
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11626.510000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10373.29
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11155.470000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11215.150000000001
+No of vehicle: 3
+Final total: 114883.50000000003
+Solved.
+Solving instance [25/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11033.600000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9577.78
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 13843.68
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11237.76
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10118.09
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13071.230000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11336.86
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10068.87
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 12189.03
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11660.360000000004
+No of vehicle: 2
+Final total: 114137.26
+Solved.
+Solving instance [26/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 12230.050000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9356.160000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11232.960000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14222.320000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8236.43
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13093.830000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 10213.630000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9827.630000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 12584.45
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11932.68
+No of vehicle: 2
+Final total: 112930.14000000001
+Solved.
+Solving instance [27/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 8193.35
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 7660.93
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10296.490000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12884.37
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 7803.0
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10890.410000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8368.63
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9344.0
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11188.84
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10260.440000000002
+No of vehicle: 3
+Final total: 96890.46
+Solved.
+Solving instance [28/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10158.020000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 6484.6100000000015
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 8374.03
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 9793.510000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9583.94
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 8908.070000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8380.460000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10086.360000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11002.54
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9920.510000000002
+No of vehicle: 2
+Final total: 92692.05000000002
+Solved.
+Solving instance [29/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 14629.37
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9841.350000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11439.430000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 15131.340000000004
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10808.170000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 12196.350000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9403.310000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10259.820000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 14847.68
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 13313.870000000003
+No of vehicle: 2
+Final total: 121870.69
+Solved.
+Solving instance [30/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11425.410000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10666.130000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 9896.250000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11887.9
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8355.630000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11289.410000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 10733.11
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9733.1
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8522.550000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8950.09
+No of vehicle: 3
+Final total: 101459.58000000002
+Solved.
+Solving instance [31/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10492.02
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9248.730000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 13180.580000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12905.61
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 10882.32
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 16281.220000000001
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 13024.920000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8087.890000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8544.35
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11239.530000000002
+No of vehicle: 3
+Final total: 113887.17000000001
+Solved.
+Solving instance [32/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9928.200000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10139.510000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 7716.2300000000005
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10569.880000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8779.02
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10498.69
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9014.420000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10306.060000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9232.17
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 13898.990000000002
+No of vehicle: 3
+Final total: 100083.17000000001
+Solved.
+Solving instance [33/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10524.109999999999
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 11942.260000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11031.220000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12138.53
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8107.540000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13638.740000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9286.35
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8733.690000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9621.000000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 12090.17
+No of vehicle: 3
+Final total: 107113.61000000002
+Solved.
+Solving instance [34/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11023.489999999998
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9127.820000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 15042.560000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 15134.220000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9703.080000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 16317.900000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12544.080000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10062.250000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11952.480000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 13083.59
+No of vehicle: 2
+Final total: 123991.47
+Solved.
+Solving instance [35/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10229.880000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8936.560000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12212.119999999999
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 15017.98
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 11335.170000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 15497.040000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12889.060000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10029.260000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10814.35
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11585.050000000001
+No of vehicle: 3
+Final total: 118546.47000000002
+Solved.
+Solving instance [36/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 8305.750000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9282.18
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 8687.2
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11381.970000000001
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 11235.350000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 12113.300000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11879.210000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8975.080000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10298.880000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 12801.52
+No of vehicle: 3
+Final total: 104960.44000000003
+Solved.
+Solving instance [37/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10886.18
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8257.54
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10157.910000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10654.75
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9614.26
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 14384.430000000004
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8626.380000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8574.41
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9573.269999999999
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11396.380000000001
+No of vehicle: 3
+Final total: 102125.51000000002
+Solved.
+Solving instance [38/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9974.66
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10618.36
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11098.390000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 9252.17
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 7876.310000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11522.210000000005
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8494.470000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9119.76
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 7824.5700000000015
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8052.750000000001
+No of vehicle: 2
+Final total: 93833.65000000001
+Solved.
+Solving instance [39/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11675.61
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 8234.140000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10996.08
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12490.380000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9860.1
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 11543.240000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11608.960000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8701.630000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11526.900000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10532.140000000001
+No of vehicle: 3
+Final total: 107169.18000000002
+Solved.
+Solving instance [40/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11351.070000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 6975.800000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10406.64
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10007.930000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8558.82
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10723.440000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8235.080000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9520.04
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9579.060000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9749.820000000003
+No of vehicle: 2
+Final total: 95107.70000000001
+Solved.
+Solving instance [41/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11317.830000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9691.100000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 7994.51
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 11896.86
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9519.220000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10683.270000000004
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12171.760000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8820.400000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9249.100000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8975.480000000001
+No of vehicle: 2
+Final total: 100319.53000000001
+Solved.
+Solving instance [42/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10588.650000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9823.450000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11778.920000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14824.09
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8481.350000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10640.930000000004
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11226.29
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10309.910000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9945.280000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10854.880000000005
+No of vehicle: 3
+Final total: 108473.75000000003
+Solved.
+Solving instance [43/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 12162.790000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 9270.27
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 13090.300000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12632.440000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 7482.300000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13801.710000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12401.11
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9631.210000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 8800.69
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8741.400000000001
+No of vehicle: 2
+Final total: 108014.22000000003
+Solved.
+Solving instance [44/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 8181.930000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 10935.150000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10931.960000000003
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 13898.29
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9068.16
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13918.170000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11171.03
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9081.740000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9211.640000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9491.5
+No of vehicle: 3
+Final total: 105889.57
+Solved.
+Solving instance [45/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 12314.720000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 11203.580000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11902.720000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10684.730000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8077.85
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 14503.11
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 10293.890000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 10371.340000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 7580.08
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9994.140000000003
+No of vehicle: 2
+Final total: 106926.16
+Solved.
+Solving instance [46/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10692.190000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 7992.790000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11663.54
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 14512.7
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 9629.210000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 9947.970000000001
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 12241.620000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 8895.050000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 11604.550000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10576.910000000002
+No of vehicle: 3
+Final total: 107756.53000000001
+Solved.
+Solving instance [47/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10288.04
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 7498.370000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 12815.390000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 12081.510000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 11526.69
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 13440.670000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11492.140000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 11988.230000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10984.91
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 8332.7
+No of vehicle: 2
+Final total: 110448.65000000001
+Solved.
+Solving instance [48/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 10626.970000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 6882.6900000000005
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 10326.01
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 13630.19
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8495.029999999999
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10768.240000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 11401.750000000004
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9609.48
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 12122.640000000001
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 10434.260000000002
+No of vehicle: 2
+Final total: 104297.26000000001
+Solved.
+Solving instance [49/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 11619.36
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 6785.160000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11078.850000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 10182.57
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8580.210000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 10997.640000000001
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 8559.130000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9335.7
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 9661.100000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 11988.430000000004
+No of vehicle: 3
+Final total: 98788.15000000001
+Solved.
+Solving instance [50/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 9237.730000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 11061.030000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 11866.2
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 16575.670000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 8721.860000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 14287.070000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 9743.070000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 9950.51
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 10801.82
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 9425.260000000002
+No of vehicle: 2
+Final total: 111670.22000000003
+Solved.
+=====Flight 50=====
+Solving instance [1/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 27047.269999999993
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 20907.630000000005
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 22410.780000000006
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 31482.620000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 20597.920000000002
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 27526.680000000008
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 17512.340000000004
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 20249.79
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 22239.11
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 26897.07
+No of vehicle: 4
+Final total: 236871.21000000002
+Solved.
+Solving instance [2/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 26344.620000000006
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 22211.170000000006
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 24107.84
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 28097.340000000007
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 19717.09
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 30014.160000000003
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 17502.59
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 21193.120000000003
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 20440.829999999998
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 26079.640000000007
+No of vehicle: 3
+Final total: 235708.40000000002
+Solved.
+Solving instance [3/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 19903.059999999998
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 17742.0
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 19405.530000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 22356.380000000005
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 19852.540000000005
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 21249.68
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 16387.180000000004
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 19914.72
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 19542.25
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 20501.550000000007
+No of vehicle: 3
+Final total: 196854.89
+Solved.
+Solving instance [4/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 22576.46000000001
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 19176.23
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 21592.370000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 25168.680000000004
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 19025.790000000005
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 23290.270000000004
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 17143.700000000004
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 21518.980000000003
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 22465.379999999997
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 20385.410000000003
+No of vehicle: 3
+Final total: 212343.27000000005
+Solved.
+Solving instance [5/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 17527.780000000002
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 18651.32
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 21586.250000000004
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 23528.95
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 20787.16
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 24930.450000000004
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 19251.53
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 21056.510000000002
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 24361.970000000005
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 23203.580000000005
+No of vehicle: 3
+Final total: 214885.50000000003
+Solved.
+Solving instance [6/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 25143.43
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 18479.730000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 19742.87
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 23868.030000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 19222.250000000004
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 24948.780000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 16564.96
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 20249.58
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 20614.74
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 26882.79
+No of vehicle: 3
+Final total: 215717.16
+Solved.
+Solving instance [7/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 25044.74
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 23632.450000000004
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 19511.940000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 23618.08
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 15018.370000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 22205.900000000005
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 18366.06
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 17913.570000000003
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 20126.25
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 26080.460000000003
+No of vehicle: 3
+Final total: 211517.82000000004
+Solved.
+Solving instance [8/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 25060.770000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 27599.57
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 25500.780000000002
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 24527.06
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 18921.63
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 28187.180000000004
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 16112.84
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 18342.370000000003
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 20712.02
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 26422.570000000003
+No of vehicle: 4
+Final total: 231386.79
+Solved.
+Solving instance [9/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 24033.430000000004
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 19649.780000000002
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 20343.960000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 23901.710000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 18593.980000000003
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 21807.83
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 19622.58
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 20094.33
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 21102.190000000002
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 21458.910000000003
+No of vehicle: 3
+Final total: 210608.70000000004
+Solved.
+Solving instance [10/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 24801.140000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 20181.09
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 23168.280000000002
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 28921.62
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 18763.100000000002
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 27358.170000000006
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 13736.170000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 18968.340000000007
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 20144.08
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 21908.460000000006
+No of vehicle: 3
+Final total: 217950.45000000007
+Solved.
+Solving instance [11/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 24576.390000000003
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 19658.16
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 20585.590000000004
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 29639.260000000002
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 17831.65
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 24182.33000000001
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 20980.920000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 20331.670000000006
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 21039.68
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 22190.410000000007
+No of vehicle: 3
+Final total: 221016.06000000006
+Solved.
+Solving instance [12/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 27476.34
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 20565.530000000002
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 19058.050000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 24613.04
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 18766.99
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 21329.950000000004
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 15488.330000000002
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 18987.000000000004
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 20617.730000000003
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 26546.99
+No of vehicle: 3
+Final total: 213449.95000000004
+Solved.
+Solving instance [13/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 23086.860000000004
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 20883.809999999998
+No of vehicle: 4
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 25928.790000000008
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 27352.360000000004
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 15185.800000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 22524.36
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 17868.960000000003
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 17595.62
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 9======
+Total distance: 19511.880000000005
+No of vehicle: 9
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 10======
+Total distance: 22334.070000000003
+No of vehicle: 3
+Final total: 212272.51
+Solved.
+Solving instance [14/50] ...
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 1======
+Total distance: 19157.120000000003
+No of vehicle: 2
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 2======
+Total distance: 17792.15
+No of vehicle: 3
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 3======
+Total distance: 18984.320000000003
+No of vehicle: 5
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 4======
+Total distance: 23946.280000000006
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 5======
+Total distance: 17041.64
+No of vehicle: 7
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 6======
+Total distance: 24927.030000000002
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 7======
+Total distance: 20985.960000000006
+No of vehicle: 6
+Initial solution found.
+Performing large neighborhood search...
+Improved solution found.
+======Vehicle 8======
+Total distance: 16909.760000000002
+No of vehicle: 8
+Initial solution found.
+Performing large neighborhood search...
